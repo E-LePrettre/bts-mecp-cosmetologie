@@ -1,14 +1,21 @@
-# The Docker image that will be used to build your app
+# Image Docker utilisée pour le pipeline
 image: python:3.11
 
-create-pages:
-  pages:
-    publish: public
+# Job OBLIGATOIREMENT nommé "pages" pour GitLab Pages
+pages:
+  # Le job ne s’exécute que sur la branche par défaut
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
 
+  # Installation des dépendances nécessaires à MkDocs
   before_script:
     - pip install mkdocs-material mkdocs-awesome-pages-plugin
 
+  # Génération du site statique
   script:
     - mkdocs build --site-dir public
+
+  # Dossier à publier pour GitLab Pages
+  artifacts:
+    paths:
+      - public
