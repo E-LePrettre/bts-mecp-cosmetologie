@@ -16,7 +16,7 @@ pages:
   before_script:
     - python --version
     - pip --version
-    - pip install --cache-dir .cache/pip mkdocs-material mkdocs-awesome-pages-plugin
+    - pip install --cache-dir .cache/pip mkdocs-material mkdocs-awesome-pages-plugin mkdocs-macros-plugin
 
   script:
     - mkdocs --version
