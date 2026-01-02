@@ -1,21 +1,27 @@
-# Image Docker utilisée pour le pipeline
 image: python:3.11
 
-# Job OBLIGATOIREMENT nommé "pages" pour GitLab Pages
+stages:
+  - deploy
+
 pages:
-  # Le job ne s’exécute que sur la branche par défaut
+  stage: deploy
+
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
 
-  # Installation des dépendances nécessaires à MkDocs
+  cache:
+    paths:
+      - .cache/pip
+
   before_script:
-    - pip install mkdocs-material mkdocs-awesome-pages-plugin
+    - python --version
+    - pip --version
+    - pip install --cache-dir .cache/pip mkdocs-material mkdocs-awesome-pages-plugin
 
-  # Génération du site statique
   script:
-    - mkdocs build --site-dir public
+    - mkdocs --version
+    - mkdocs build --site-dir public --clean
 
-  # Dossier à publier pour GitLab Pages
   artifacts:
     paths:
       - public
