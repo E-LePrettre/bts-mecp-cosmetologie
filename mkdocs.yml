@@ -20,8 +20,8 @@ extra:
 
 # Éventuellement à modifier avec votre thème de couleurs
 theme:
-    favicon: images/icon-bts-cosmeto.png
-    logo: images/icon-bts-cosmeto.png
+    favicon: images/icon-bts-cosmeto2.png
+    logo: images/BTS.png
     custom_dir: my_theme_customizations/
     name: material
     font: false                     # RGPD ; pas de fonte Google
