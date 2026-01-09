@@ -54,6 +54,10 @@ Avant de répondre, vous devez **analyser et justifier** le statut de chaque pro
 |       | ☐          | ☐             | ☐                         |
 |       | ☐          | ☐             | ☐                         |
 |       | ☐          | ☐             | ☐                         |
+|       | ☐          | ☐             | ☐                         |
+|       | ☐          | ☐             | ☐                         |
+|       | ☐          | ☐             | ☐                         |
+|       | ☐          | ☐             | ☐                         |
 
 
 
