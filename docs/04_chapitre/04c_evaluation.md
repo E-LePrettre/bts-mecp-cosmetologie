@@ -6,137 +6,107 @@ title: 04 🖊️ Évaluation
 # 04 – Les ingrédients cosmétiques  
 ## 🖊️ Évaluation formative
 
-**Identifier, analyser et argumenter le rôle des ingrédients dans une formulation cosmétique**
 
-⏱️ Durée : 30 minutes  
-🎯 Objectif : évaluer la capacité à **identifier des ingrédients cosmétiques**,  **analyser une composition**, et **argumenter un raisonnement de formulation**, conformément aux attendus de l’épreuve **E2 – Expertise scientifique et technologique**
 
-📌 Évaluation formative – barème indicatif
+⏱️ **Durée : 30 minutes**  
+🎯 **Compétences évaluées (référentiel BTS MECP)** :
 
----
+- identifier et caractériser un ingrédient cosmétique,
+- associer un ingrédient à sa fonction,
+- analyser une composition cosmétique,
+- raisonner une formulation,
+- argumenter en lien avec la sécurité du consommateur.
 
-## 📌 Statut de l’évaluation (E2)
-
-Cette évaluation ne vise pas la restitution du cours.  
-Elle évalue la capacité de l’étudiant à :
-
-- analyser une **composition cosmétique**,
-- identifier des **ingrédients et leurs fonctions**,
-- mobiliser des **connaissances scientifiques et technologiques**,
-- **argumenter** un raisonnement de formulation.
-
-Toute réponse non justifiée ou uniquement descriptive sera considérée comme **incomplète au niveau BTS MECP**.
+📌 Toute réponse doit être **justifiée**. Les réponses trop courtes ou uniquement affirmatives seront considérées comme **incomplètes**.
 
 ---
 
-## 🧴 Situation professionnelle
+## 📄 Document support – Liste INCI
 
-Vous travaillez dans un **laboratoire cosmétique**.
-
-On vous confie la **composition d’un produit cosmétique** afin d’en analyser les ingrédients et de vérifier la cohérence de la formulation avec l’objectif du produit.
+> **Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine,  
+Glycerin, Sodium Chloride, Sodium Benzoate, Parfum**
 
 ---
 
-## Exercice 1 – Définition et rôle des ingrédients  
+## 🧠 Exercice 1 – Définition et rôle des ingrédients  
 ### (4 points)
 
-1\. Donnez la **définition d’un ingrédient cosmétique**.
+1. Définissez ce qu’est un **ingrédient cosmétique**.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
-2\. Expliquez pourquoi un produit cosmétique contient **plusieurs ingrédients**.
+2. Expliquez pourquoi un produit cosmétique contient **plusieurs ingrédients**.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 ---
 
-## Exercice 2 – Identification des fonctions  
-### (4 points)
-
-Associez chaque ingrédient à sa **fonction principale**.
-
-| Ingrédient | Fonction |
-|-----------|----------|
-| Eau | |
-| Tensioactif | |
-| Conservateur | |
-| Corps gras | |
-
-<br>
-<br>
-
----
-
-## Exercice 3 – Analyse d’une composition cosmétique  
+## 🧪 Exercice 2 – Fonctions des ingrédients  
 ### (6 points)
 
-On vous donne la liste INCI simplifiée suivante :
+À partir du document support, complétez le tableau suivant :
 
-> *Aqua – Sodium Laureth Sulfate – Glycerin – Cocamidopropyl Betaine – Sodium Benzoate – Parfum*
-
-1\. Identifiez **trois familles d’ingrédients** présentes dans cette composition.
-
-<br>
-<br>
-<br>
-<br>
-
-2\. Expliquez le **rôle global de cette formulation**.
+| Ingrédient | Famille fonctionnelle | Fonction principale |
+|-----------|----------------------|---------------------|
+| Aqua | | |
+| Sodium Laureth Sulfate | | |
+| Cocamidopropyl Betaine | | |
+| Glycerin | | |
+| Sodium Benzoate | | |
 
 <br>
-<br>
-<br>
-<br>
+
+Expliquez pourquoi le **choix des ingrédients** est essentiel dans une formulation cosmétique.
+
+<br><br><br><br><br>
 
 ---
 
-## Exercice 4 – Raisonnement de formulation  
-### (attendus BTS / E2) (4 points)
+## 🧴 Exercice 3 – Analyse d’une composition cosmétique  
+### (6 points)
+
+1. Identifiez les **grandes familles d’ingrédients** présentes dans la liste INCI.
+
+<br><br><br><br><br>
+
+2. Expliquez le **rôle global de cette formulation** (type de produit, usage attendu).
+
+<br><br><br><br><br>
+
+---
+
+## 🚧 Exercice 4 – Raisonnement de formulation  
+### (4 points)
 
 Un laboratoire souhaite formuler un **gel douche doux pour peaux sensibles**.
 
-1\. Citez **deux familles d’ingrédients indispensables** à cette formulation.
+1. Citez **trois familles d’ingrédients indispensables** à ce produit.
 
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
-2\. Expliquez pourquoi le choix des ingrédients est **important pour la sécurité du consommateur**.
+2. Expliquez pourquoi certains ingrédients doivent être **choisis avec précaution** au regard de la **sécurité du consommateur**.
 
-Rédigez une réponse argumentée (4 à 6 lignes).
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 ---
 
-## Exercice 5 – Posture professionnelle et E2  
-### (2 points)
+## ✍️ Exercice 5 – Argumentation professionnelle  
+### (attendus E2) (4 points)
 
-Un étudiant écrit simplement :
+Un consommateur affirme :
 
-> *« Cet ingrédient sert à nettoyer. »*
+> *« Plus un produit contient d’ingrédients, plus il est dangereux. »*
 
-1\. Cette réponse est-elle suffisante pour un **niveau BTS MECP** et pour l’épreuve **E2** ?
+1. Cette affirmation est-elle correcte ?  
+☐ oui  ☐ non  
 
-☐ Oui  ☐ Non  
+2. Rédigez une **argumentation structurée (4 à 5 lignes)** expliquant :
+- le rôle des ingrédients dans une formulation,
+- l’intérêt de leur association,
+- le lien avec la sécurité du produit cosmétique.
 
-2\. Citez **deux éléments attendus** dans une réponse conforme aux attendus de l’épreuve **E2**.
+<br><br><br><br><br><br>
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 

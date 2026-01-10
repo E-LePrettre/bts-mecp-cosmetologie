@@ -1,135 +1,174 @@
 ---
 author: ELP
-title: 03 🖊️ Évaluation
+title: 03 🖊️ Évaluation formative – Étiquetage et liste INCI
 ---
 
 # 03 – Étiquetage des produits cosmétiques et liste INCI  
-## 🖊️ Évaluation formative
+## 🖊️ Évaluation formative (E2 – BTS MECP)
 
 **Identifier, analyser et argumenter la conformité d’un étiquetage cosmétique**
 
 ⏱️ **Durée : 30 minutes**  
-🎯 **Objectif :** évaluer la capacité à **analyser un étiquetage**, **identifier des informations obligatoires**, et **argumenter une conformité ou une non-conformité**,   conformément aux attendus de l’épreuve **E2 – Expertise scientifique et technologique**
+🎯 **Objectif :** évaluer la capacité à :
 
-📌 **Évaluation formative – barème indicatif**
+- analyser un **document professionnel réel**,
+- identifier des **informations obligatoires**,
+- repérer une **non-conformité réglementaire**,
+- **argumenter** une décision comme attendu à l’épreuve **E2 – Expertise scientifique et technologique**.
 
----
-
-## 📌 Statut de l’évaluation (E2)
-
-Cette évaluation ne vise pas la restitution du cours.  
-Elle évalue la capacité de l’étudiant à :
-
-- analyser un **document professionnel** (étiquetage),
-- mobiliser des **connaissances réglementaires**,
-- identifier une **information obligatoire manquante ou incorrecte**,
-- **argumenter** une situation de conformité ou de non-conformité,
-- adopter une **posture professionnelle d’expertise**, attendue en BTS MECP.
-
-Toute réponse non justifiée ou uniquement affirmative sera considérée comme **incomplète**.
+📌 Toute réponse **non justifiée** ou uniquement affirmative sera considérée comme **incomplète**.
 
 ---
 
 ## 🧴 Situation professionnelle
 
-Vous travaillez dans un **laboratoire cosmétique / service qualité**.
+Vous travaillez dans un **service qualité d’un laboratoire cosmétique**.
 
-Un produit cosmétique est sur le point d’être commercialisé.  
-Avant sa mise sur le marché, vous devez vérifier si son **étiquetage est conforme à la réglementation**.
+Plusieurs produits sont analysés avant leur mise sur le marché.  
+Vous devez vérifier la **conformité de leur étiquetage** au regard de la réglementation cosmétique.
 
 ---
 
-## Exercice 1 – Rôle de l’étiquetage  
+## 📄 Documents supports (à utiliser pour toute l’évaluation)
+
+### 🧴 Document A – Crème visage (étiquetage conforme)
+
+- Fonction : hydratation de la peau  
+- Contenance : 50 mL  
+- PAO : 12M  
+- Numéro de lot : CV2412  
+- Personne responsable : indiquée  
+
+**Liste INCI :**  
+Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol,  
+Glyceryl Stearate, Sodium Hyaluronate, Tocopherol, Phenoxyethanol, Parfum
+
+---
+
+### 🧴 Document B – Shampooing (non-conformité partielle)
+
+- Fonction : nettoyage des cheveux  
+- Contenance : 250 mL  
+- PAO : 12M  
+- Numéro de lot : ❌ absent  
+- Personne responsable : indiquée  
+
+**Liste INCI :**  
+Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine,  
+Sodium Chloride, Citric Acid, Sodium Benzoate, Parfum
+
+---
+
+### ☀️ Document C – Lait solaire SPF 30
+
+- Fonction : protection contre les UV  
+- Contenance : 200 mL  
+- PAO : 12M  
+- Numéro de lot : LS3024  
+- Personne responsable : indiquée  
+
+**Liste INCI (extrait) :**  
+Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane,  
+Octocrylene, Glycerin, Parfum, Limonene
+
+---
+
+### 🌸 Document D – Eau de toilette
+
+- Fonction : parfumer la peau  
+- Contenance : 100 mL  
+- Numéro de lot : PDT778  
+- PAO : absente  
+
+**Liste INCI :**  
+Alcohol Denat., Parfum, Aqua, Limonene, Linalool, Citronellol
+
+---
+
+### 🧼 Document E – Gel hydroalcoolique
+
+- Allégation : « élimine 99,9 % des bactéries »  
+- Fonction revendiquée : désinfection des mains  
+- Liste INCI : présente  
+- PAO / DDM : présente  
+
+---
+
+## 🧠 Exercice 1 – Rôle de l’étiquetage  
 ### (4 points)
 
-1\. Expliquez le **rôle principal de l’étiquetage** d’un produit cosmétique.
+1. Expliquez le **rôle principal de l’étiquetage** d’un produit cosmétique.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
-2\. Citez **deux objectifs réglementaires** de l’étiquetage cosmétique.
+2. Citez **deux objectifs réglementaires** de l’étiquetage cosmétique.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ---
 
-## Exercice 2 – Informations obligatoires  
+## 🏷️ Exercice 2 – Informations obligatoires  
 ### (6 points)
 
-1\. Citez **quatre informations obligatoires** devant figurer sur l’étiquetage d’un produit cosmétique.
+1. À l’aide des documents A et B, citez **quatre informations obligatoires** devant figurer sur un produit cosmétique.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
-2\. Expliquez pourquoi l’absence d’une information obligatoire peut poser un **problème de sécurité** pour le consommateur.
+2. Expliquez en quoi l’absence d’une information obligatoire peut poser un **problème de sécurité ou de traçabilité**.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 ---
 
-## Exercice 3 – Analyse d’une situation d’étiquetage  
+## 🔍 Exercice 3 – Analyse de conformité  
 ### (6 points)
 
-Un produit cosmétique est commercialisé avec les informations suivantes :
-- nom du produit,
-- arguments marketing,
-- liste INCI,
-- date de durabilité minimale.
+À partir du **document B (shampooing)** :
 
-1\. Ce produit est-il **conforme à la réglementation** ?
-
+1. Le produit est-il **conforme à la réglementation** ?  
 ☐ Oui  ☐ Non  
 
-2\. Justifiez votre réponse à l’aide d’un **raisonnement réglementaire**.
+2. Identifiez **une information obligatoire manquante**.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
-3\. Indiquez **une information obligatoire manquante**.
+3. Justifiez votre réponse par un **raisonnement réglementaire argumenté**.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 ---
 
-## Exercice 4 – Liste INCI et interprétation  
-### (attendus BTS / E2) (4 points)
+## 🧪 Exercice 4 – Liste INCI et interprétation  
+### (4 points)
 
-1\. Expliquez ce qu’est la **liste INCI**.
+1. Expliquez ce qu’est une **liste INCI**.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
-2\. Que signifie le fait qu’un ingrédient figure en **début de liste INCI** ?
+2. À partir du **document C**, expliquez ce que signifie la présence d’un ingrédient **en début de liste INCI**.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ---
 
-## Exercice 5 – Argumentation type E2  
+## 🚧 Exercice 5 – Analyse experte d’un cas particulier  
+### (attendus E2) (4 points)
+
+À partir du **document E (gel hydroalcoolique)** :
+
+1. Ce produit relève-t-il clairement de la **réglementation cosmétique** ?  
+☐ Oui  ☐ Non  ☐ À discuter  
+
+2. Argumentez votre réponse en mobilisant :
+- la fonction revendiquée,
+- la notion de **produit frontière**,
+- le rôle de l’étiquetage.
+
+<br><br><br><br><br><br>
+
+---
+
+## ✍️ Exercice 6 – Argumentation type E2  
 ### (2 points)
 
 Un consommateur affirme :
@@ -140,21 +179,16 @@ Expliquez en **4 à 5 lignes** pourquoi cette affirmation est **incorrecte**, en
 - le rôle de la liste INCI,
 - le lien avec la sécurité du consommateur.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 
 ---
 
-## 🔍 Auto-évaluation
+## 🔍 Auto-évaluation (non notée)
 
 Cochez ce qui vous correspond :
 
-☐ Je sais identifier les informations obligatoires d’un étiquetage  
-☐ Je comprends le rôle de la liste INCI  
+☐ Je sais identifier les informations obligatoires  
 ☐ Je sais repérer une non-conformité d’étiquetage  
+☐ Je comprends le rôle de la liste INCI  
 ☐ Je sais argumenter une analyse réglementaire  
 ☐ Je dois encore progresser dans la justification écrite
