@@ -1,5 +1,9 @@
-# 04 – Les ingrédients cosmétiques 🧴  
-## Fiche élève
+---
+author: ELP
+title: 04 🧴 Fiche élève
+---
+
+# 04 – Les ingrédients cosmétiques 🧴  Fiche élève
 
 **Fonctions – Rôle dans la formulation – Lecture experte d’une composition**
 

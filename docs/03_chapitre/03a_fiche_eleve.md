@@ -1,5 +1,9 @@
-# 03 – Étiquetage des produits cosmétiques et liste INCI 🧴  
-## Fiche élève
+---
+author: ELP
+title: 03 🧴 Fiche élève
+---
+
+# 03 – Étiquetage des produits cosmétiques et liste INCI 🧴 Fiche élève
 
 **Informations obligatoires – Lecture experte d’un produit cosmétique**
 
