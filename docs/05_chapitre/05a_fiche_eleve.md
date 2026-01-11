@@ -3,17 +3,19 @@ author: ELP
 title: 05 🧴 Fiche élève
 ---
 
-# 05 – Sécurité des produits cosmétiques et responsabilités 🧴  Fiche élève
+# 05 – Sécurité des produits cosmétiques et responsabilités 🧴  
+**Fiche élève**
 
 **Cadre réglementaire – Acteurs – Cosmétovigilance**
 
 > En BTS MECP, la sécurité d’un produit cosmétique ne repose pas uniquement sur sa formulation.  
 > Elle est encadrée par un **cadre réglementaire strict**, qui définit :
+>
 > - les **responsabilités juridiques**,
 > - les **acteurs du contrôle**,
 > - les **procédures de surveillance** des effets indésirables.
 >
-> Cette séance s’inscrit pleinement dans les **attendus du référentiel BTS MECP** et prépare aux situations professionnelles d’expertise.
+> Cette séance s’inscrit pleinement dans les **attendus du référentiel BTS MECP** et prépare aux situations professionnelles d’expertise, notamment dans la logique du **Dossier d’Information Produit (DIP)**.
 
 ---
 
@@ -25,7 +27,7 @@ title: 05 🧴 Fiche élève
 - identifier la **personne responsable** d’un produit cosmétique,
 - citer les **principaux acteurs du contrôle**,
 - comprendre le principe de la **cosmétovigilance**,
-- argumenter une situation professionnelle en lien avec la sécurité du consommateur.
+- argumenter une situation professionnelle en lien avec la **sécurité du consommateur**.
 
 ---
 
@@ -107,7 +109,8 @@ Justifiez votre réponse.
 
 ---
 
-## ✍️ Travail 6 – Argumentation professionnelle (logique référentiel + E2)
+## ✍️ Travail 6 – Argumentation professionnelle  
+**(logique référentiel + E2)**
 
 Un consommateur affirme :
 
@@ -120,7 +123,8 @@ Un consommateur affirme :
 
 - le rôle de la réglementation,
 - la responsabilité des acteurs,
-- l’intérêt de la cosmétovigilance.
+- l’intérêt de la cosmétovigilance,
+- le lien avec le **Dossier d’Information Produit (DIP)**.
 
 <br><br><br><br><br><br><br>
 
@@ -135,6 +139,9 @@ Un consommateur affirme :
 <br><br><br><br><br>
 
 - **Cosmétovigilance** :  
+<br><br><br><br><br>
+
+- **Lien avec le Dossier d’Information Produit (DIP)** :  
 <br><br><br><br><br>
 
 ---
@@ -152,6 +159,7 @@ Un consommateur affirme :
     - la **DGCCRF**.
 
 - La **cosmétovigilance** permet de surveiller, signaler et analyser les **effets indésirables** liés aux produits cosmétiques.
+- Les éléments de sécurité, de justification et de surveillance sont intégrés dans le **Dossier d’Information Produit (DIP)**.
 
 ---
 

@@ -42,7 +42,7 @@ Elle est responsable :
 
 - de la **sécurité du produit**,
 - de sa **conformité réglementaire**,
-- de la mise à disposition des documents obligatoires,
+- de la constitution et de la tenue des documents obligatoires,
 - des actions à mener en cas de problème de sécurité.
 
 La responsabilité de la mise sur le marché d’un produit cosmétique repose donc sur un **acteur clairement identifié**.
@@ -90,7 +90,22 @@ La sécurité cosmétique repose donc sur une **analyse globale**, intégrant fo
 
 ---
 
-## 7️⃣ Enjeux professionnels et lien avec l’épreuve E2
+## 7️⃣ Le Dossier d’Information Produit (DIP)
+
+Le **Dossier d’Information Produit (DIP)** est un document réglementaire obligatoire qui regroupe l’ensemble des informations permettant de démontrer la **sécurité** et la **conformité** d’un produit cosmétique.
+
+Il contient notamment :
+
+- les données relatives à la **composition du produit**,
+- l’**évaluation de la sécurité**,
+- les éléments de **justification scientifique**,
+- les informations liées à la **cosmétovigilance**.
+
+Les analyses réalisées sur la sécurité, l’usage et les effets indésirables d’un produit cosmétique s’inscrivent directement dans la logique du **DIP**.
+
+---
+
+## 8️⃣ Enjeux professionnels et lien avec l’épreuve E2
 
 La maîtrise des notions de sécurité cosmétique est indispensable :
 
@@ -105,7 +120,7 @@ La maîtrise des notions de sécurité cosmétique est indispensable :
 - identifier le **rôle de la personne responsable**,
 - mobiliser le **cadre réglementaire**,
 - analyser une situation impliquant un **risque ou un effet indésirable**,
-- argumenter de manière **scientifique et réglementaire**.
+- argumenter de manière **scientifique, réglementaire et professionnelle**.
 
 ---
 
@@ -115,7 +130,8 @@ La maîtrise des notions de sécurité cosmétique est indispensable :
 - La sécurité est encadrée par une **réglementation européenne**
 - La **personne responsable** garantit la conformité du produit
 - Les autorités assurent le **contrôle et la surveillance**
-- La **cosmétovigilance** protège le consommateur après la mise sur le marché
+- La **cosmétovigilance** protège le consommateur
+- Les informations de sécurité sont intégrées au **Dossier d’Information Produit (DIP)**
 
 ---
 
@@ -123,4 +139,7 @@ La maîtrise des notions de sécurité cosmétique est indispensable :
 
 Ces notions seront réinvesties pour :
 
-- l’étude du **dossier d’information produit**
+- l’étude du **Dossier d’Information Produit (DIP)**,
+- l’analyse de **formules cosmétiques**,
+- l’évaluation de l’**efficacité et de la sécurité** des produits,
+- les **situations professionnelles d’expertise** attendues à l’épreuve **E2**.
