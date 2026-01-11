@@ -120,6 +120,14 @@ La compréhension du rôle et du choix des tensioactifs est indispensable :
 
 ---
 
+## 🔗 Lien explicite avec la méthode
+
+Pour analyser correctement ces documents, se référer à :
+
+➡️ [**Fiche méthode 01 – Employer un vocabulaire cosmétologique précis en E2**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/01_fiche_methode/)
+
+---
+
 ## 🔗 Transition vers la suite
 
 Ces notions seront réinvesties pour :
