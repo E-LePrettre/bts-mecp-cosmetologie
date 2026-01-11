@@ -1,5 +1,5 @@
 # Méthodologie – Épreuve E2  
-**BTS MECP – Expertise scientifique et technologique**
+
 
 Ce dossier regroupe les **fiches méthodologiques transversales** destinées à accompagner les étudiants dans la préparation de l’**épreuve E2 – Expertise scientifique et technologique**.
 
