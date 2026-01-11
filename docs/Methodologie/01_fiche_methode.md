@@ -3,159 +3,139 @@ author: ELP
 title: Fiche méthode 01 🧠
 ---
 
-
-
-
-# Fiche méthode 01 🧠 : Exploiter un graphique de CMC
+# Fiche méthode 01 🧠 : Employer un vocabulaire cosmétologique précis en E2
 
 ---
-
-
 
 ## 🎯 Objectif de la fiche
 
 Cette fiche méthode a pour objectif d’apprendre à :
 
-- **analyser un graphique expérimental** (conductivité, tension superficielle, etc.),
-- **identifier une rupture de comportement**,
-- **déterminer la concentration micellaire critique (CMC)**,
-- **interpréter scientifiquement et professionnellement** le résultat.
+- employer un **vocabulaire cosmétologique précis et pertinent**,
+- distinguer vocabulaire **scientifique** et vocabulaire **professionnel**,
+- formuler une réponse conforme aux **attendus de l’épreuve E2**,
+- argumenter en utilisant les **termes du métier de la cosmétique**.
 
-👉 Il ne s’agit **pas** de faire un calcul,  
-
-👉 mais de **raisonner à partir de documents scientifiques**, comme en E2.
+👉 En E2, **le choix des mots est évalué autant que le raisonnement scientifique**.
 
 ---
 
-## 📌 Contexte scientifique rappelé
+## 📌 Pourquoi le vocabulaire est évalué en E2
 
-Un **tensioactif** (ex. SDS) se comporte différemment en solution aqueuse selon sa concentration :
+L’épreuve E2 vise une **posture d’expertise**.
 
-- **à faible concentration** : molécules **libres en solution**,
-- **au-delà d’une concentration seuil (CMC)** : formation de **micelles**.
+Cela implique que le candidat soit capable de :
 
-Ce changement d’organisation moléculaire se traduit par une **rupture de pente** sur certains graphiques expérimentaux.
+- analyser une situation professionnelle,
+- expliquer un phénomène scientifique,
+- **utiliser le langage du secteur cosmétique**.
 
----
-
-## 🧪 Type de graphique étudié
-
-On étudie un graphique représentant par exemple :
-
-- en ordonnée : une **grandeur physico-chimique mesurée*(conductivité σ, tension superficielle, absorbance…)
-
-- en abscisse : la **concentration en tensioactif**.
+Une réponse scientifiquement juste mais formulée avec un vocabulaire imprécis est considérée comme **incomplète**.
 
 ---
 
-## 🔍 Méthode en 5 étaptes 
+## 🧴 Vocabulaire cosmétologique : principe général
 
-### à appliquer **systématiquement**!!
+En cosmétologie, on ne se contente pas de décrire un phénomène : on **le relie à la fonction du produit**, à son **efficacité**, à sa **tolérance** et à son **usage**.
+
+👉 Le vocabulaire doit donc :
+
+- être **spécifique au domaine cosmétique**,
+- être **adapté à une situation professionnelle**,
+- montrer que l’on raisonne comme un **technicien supérieur**.
 
 ---
 
-### 🟦 Étape 1 – Identifier les axes
+## 🔍 Méthode en 4 étapes  
+### à appliquer **systématiquement** en E2
 
-Avant toute analyse, il faut préciser :
+---
 
-- la **grandeur mesurée** (ordonnée),
-- la **grandeur étudiée** (abscisse),
-- les **unités** utilisées.
+### 🟦 Étape 1 – Identifier le contexte cosmétique
+
+Avant de répondre, il faut identifier :
+
+- le **type de produit cosmétique** (shampoing, gel nettoyant, lotion…),
+- la **fonction attendue** du produit,
+- le **type d’ingrédient concerné** (actif, excipient, additif).
 
 ✍️ *Exemple de formulation attendue* :  
-> « Le graphique représente l’évolution de la conductivité σ en fonction de la concentration en SDS. »
+> « Le produit étudié est un produit lavant contenant un tensioactif. »
 
 ---
 
-### 🟦 Étape 2 – Décrire l’allure générale de la courbe
+### 🟦 Étape 2 – Employer les termes professionnels adaptés
 
-On observe la forme globale de la courbe :
+On utilise les **termes du référentiel cosmétique**, et non un vocabulaire vague ou scolaire.
 
-- est-elle **linéaire** ?
-- observe-t-on un **changement de pente** ?
-- peut-on distinguer **plusieurs zones** ?
+| À éviter | À privilégier |
+|--------|---------------|
+| “produit” | **produit cosmétique** |
+| “substance” | **ingrédient cosmétique** |
+| “ça lave” | **efficacité lavante** |
+| “ça mousse” | **pouvoir moussant** |
+| “pas agressif” | **bonne tolérance cutanée** |
 
 ✍️ *Formulation attendue* :  
-> « La courbe présente deux zones de comportement distinctes, séparées par un changement de pente. »
+> « Le tensioactif permet d’assurer l’efficacité lavante du produit. »
 
 ---
 
-### 🟦 Étape 3 – Identifier la rupture de comportement
+### 🟦 Étape 3 – Relier le vocabulaire à l’efficacité et à la sécurité
 
-La **rupture de pente** correspond à un changement dans le comportement du tensioactif.
+En E2, chaque terme doit être **justifié**.
 
-👉 Cette rupture est associée à la **formation de micelles**.
+On relie systématiquement :
 
-On repère graphiquement :
-- l’abscisse du point de rupture,
-- ou l’intersection de deux droites d’ajustement.
+- la **concentration** → à l’efficacité,
+- la **fonction** → à l’usage,
+- la **formulation** → à la tolérance.
 
 ✍️ *Formulation attendue* :  
-> « La rupture de pente est observée pour une concentration voisine de … »
+> « Une concentration adaptée en tensioactif permet d’assurer l’efficacité du produit tout en limitant les risques d’irritation. »
 
 ---
 
-### 🟦 Étape 4 – Déterminer la CMC
+### 🟦 Étape 4 – Argumenter avec une logique professionnelle
 
-La **concentration correspondant à la rupture de pente** est la **CMC**.
+La réponse ne doit pas être uniquement descriptive : elle doit montrer un **raisonnement métier**.
+
+On peut mobiliser :
+
+- l’efficacité revendiquée,
+- le confort d’utilisation,
+- la sécurité du consommateur,
+- la conformité réglementaire.
 
 ✍️ *Formulation attendue* :  
-> « La concentration micellaire critique (CMC) du tensioactif est donc d’environ … »
-
-⚠️ En E2, une **valeur approchée et justifiée** est attendue, pas une valeur exacte.
+> « Le choix de cette concentration permet d’obtenir un compromis entre efficacité lavante et tolérance cutanée, ce qui est recherché en formulation cosmétique. »
 
 ---
 
-### 🟦 Étape 5 – Interpréter scientifiquement
+## 🧠 Erreurs fréquentes à éviter en E2
 
-Il faut expliquer **POURQUOI** la courbe change de comportement :
-
-- en dessous de la CMC :
-    - les ions / molécules sont **libres**,
-    - la grandeur mesurée varie proportionnellement à la concentration,
-
-- au-dessus de la CMC :
-    - les molécules s’assemblent en **micelles**,
-    - la concentration en espèces libres n’augmente plus de la même façon.
-
-✍️ *Formulation attendue* :  
-> « Au-delà de la CMC, les molécules supplémentaires forment des micelles, ce qui modifie l’évolution de la grandeur mesurée. »
-
----
-
-## 🧴 Interprétation professionnelle (logique E2)
-
-
-En cosmétologie, la CMC permet de :
-
-- déterminer la **concentration minimale efficace** d’un tensioactif,
-- éviter une **surdosage inutile**,
-- limiter les **effets irritants**,
-- optimiser le **rapport efficacité / tolérance**.
-
-✍️ *Formulation attendue en E2* :  
-> « En formulation cosmétique, il est pertinent de se placer légèrement au-dessus de la CMC afin d’assurer l’efficacité lavante tout en maîtrisant la tolérance cutanée. »
+❌ utiliser un vocabulaire trop vague  
+❌ rester au niveau “collège / lycée”  
+❌ décrire sans relier à l’usage cosmétique  
+❌ employer uniquement des termes physico-chimiques  
+❌ oublier la notion de sécurité et de tolérance
 
 ---
 
 ## ✅ À retenir (E2)
 
-✔ on **décrit** le graphique  
-✔ on **repère** une rupture  
-✔ on **identifie** la CMC  
-✔ on **explique** avec l’organisation moléculaire  
-✔ on **argumente** avec un raisonnement professionnel  
+✔ utiliser un **vocabulaire cosmétologique précis**  
+✔ relier les termes à la **fonction du produit**  
+✔ montrer une **logique professionnelle**  
+✔ justifier les choix avec efficacité et tolérance  
 
-❌ on ne récite pas le cours  
-❌ on ne fait pas de calcul inutile  
-❌ on ne donne pas une valeur sans justification
+❌ ne pas se contenter de décrire  
+❌ ne pas employer un langage imprécis  
 
 ---
 
 ## 🧠 Phrase-type finale (sécurisante pour l’examen)
 
-> « L’analyse du graphique met en évidence une rupture de pente correspondant à la concentration micellaire critique du tensioactif. Cette valeur traduit un changement d’organisation moléculaire avec formation de micelles, ce qui explique l’évolution différente de la grandeur mesurée. »
+> « L’utilisation d’un vocabulaire cosmétologique précis permet de relier les propriétés scientifiques du produit à son efficacité, sa tolérance et son usage, conformément aux attendus de l’épreuve E2. »
 
 ---
-
-

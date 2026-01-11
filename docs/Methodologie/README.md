@@ -48,7 +48,10 @@ Chaque fiche est conçue pour être :
 
 📘 **Dossier Méthodologie – E2**
 
-➡️ [Fiche 01 – *Exploiter un graphique de CMC (logique E2)* (PDF)](01_fiche_methode.pdf)
+➡️ [Fiche 01 – *Employer un vocabulaire cosmétologique précis en E2* (PDF)](01_fiche_methode.pdf)
+
+
+➡️ [Fiche 02 – *Exploiter un graphique de CMC (logique E2)* (PDF)](02_fiche_methode.pdf)
 
 
 
