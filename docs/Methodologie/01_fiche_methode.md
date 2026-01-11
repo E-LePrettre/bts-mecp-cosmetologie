@@ -48,7 +48,9 @@ On étudie un graphique représentant par exemple :
 
 ---
 
-## 🔍 MÉTHODE EN 5 ÉTAPES (À APPLIQUER SYSTÉMATIQUEMENT)
+## 🔍 Méthode en 5 étaptes 
+
+### à appliquer **systématiquement**!!
 
 ---
 
@@ -121,7 +123,8 @@ Il faut expliquer **POURQUOI** la courbe change de comportement :
 
 ---
 
-## 🧴 INTERPRÉTATION PROFESSIONNELLE (LOGIQUE E2)
+## 🧴 Interprétation professionnelle (logique E2)
+
 
 En cosmétologie, la CMC permet de :
 
@@ -135,7 +138,7 @@ En cosmétologie, la CMC permet de :
 
 ---
 
-## ✅ À RETENIR ABSOLUMENT (E2)
+## ✅ À retenir (E2)
 
 ✔ on **décrit** le graphique  
 ✔ on **repère** une rupture  
