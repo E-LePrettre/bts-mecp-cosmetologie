@@ -1,16 +1,9 @@
 # Méthodologie – Épreuve E2  
 **BTS MECP – Expertise scientifique et technologique**
 
-Ce dossier regroupe les **fiches méthodologiques essentielles** pour la réussite à l’**épreuve E2 – Expertise scientifique et technologique** du BTS MECP.
+Ce dossier regroupe les **fiches méthodologiques transversales** destinées à accompagner les étudiants dans la préparation de l’**épreuve E2 – Expertise scientifique et technologique**.
 
-Il constitue un **socle méthodologique transversal**, mobilisable tout au long de l’année, en cours, en travaux pratiques et en phase de révision.
-
-Les documents proposés visent à aider les étudiants à :
-
-- adopter une **posture scientifique de niveau BTS**,
-- structurer un **raisonnement rigoureux et argumenté**,
-- améliorer la **qualité rédactionnelle** des réponses,
-- comprendre précisément les **attendus de l’épreuve E2**.
+Ces fiches ne relèvent pas d’un chapitre de cours spécifique : elles visent à structurer le **raisonnement scientifique**, la **lecture de documents** et la **rédaction argumentée**, compétences centrales de l’épreuve E2.
 
 ---
 
@@ -22,49 +15,42 @@ L’épreuve E2 évalue la capacité du candidat à :
 - exploiter des **documents scientifiques et expérimentaux**,
 - interpréter des résultats,
 - **argumenter et justifier** des choix techniques,
-- utiliser un **vocabulaire scientifique précis et adapté**.
+- mobiliser un **vocabulaire scientifique précis et pertinent**.
 
 👉 À l’épreuve E2, **la méthode compte autant que le résultat**.
 
 ---
 
-## 🧠 Rôle des fiches méthodologiques
+## 🧠 Rôle du dossier Méthodologie
 
-Les fiches méthode ont pour objectif de :
+Les fiches de ce dossier ont pour objectif de :
 
-- guider les étudiants dans la **construction de leurs réponses**,
-- expliciter les **attendus implicites** de l’épreuve,
-- fournir des **repères stables et réutilisables**,
-- éviter les réponses descriptives ou non argumentées.
+- expliciter les **attendus méthodologiques** de l’épreuve E2,
+- fournir des **repères stables** pour analyser documents et résultats,
+- aider à structurer des **réponses rédigées et argumentées**,
+- éviter les réponses descriptives ou non justifiées.
 
-Elles ne remplacent ni le cours ni les TP, mais servent de **support méthodologique** pour apprendre à raisonner et à rédiger.
+Elles complètent les cours et les TP, sans s’y substituer.
 
 ---
 
-## 📘 Organisation du dossier
+## 📘 Organisation des fiches méthode
 
-Chaque fiche méthode est conçue pour être :
+Chaque fiche est conçue pour être :
 
-- **transversale** : applicable à plusieurs chapitres et situations,
-- **progressive** : introduite au moment opportun dans la progression,
+- **transversale** (réutilisable dans plusieurs chapitres),
+- **progressive** (introduite au moment opportun de l’année),
 - **directement exploitable** en classe, en TP et en autonomie.
-
-Les fiches peuvent être utilisées :
-
-- en amont d’une activité,
-- en appui pendant un travail écrit,
-- en consolidation avant une évaluation,
-- en préparation directe à l’épreuve E2.
 
 ---
 
 ## 📄 Fiches méthodologiques disponibles
 
-- Justifier une réponse scientifique  
-- Calculer et interpréter une concentration  
-- Exploiter un TP à l’écrit (logique E2)  
-- Interpréter une mesure physique en E2  
-- Lire une représentation microscopique dans un dossier scientifique  
+📘 **Dossier Méthodologie – E2**
+
+➡️ [Fiche 01 – *Exploiter un graphique de CMC (logique E2)* (PDF)](01_fiche_methode.pdf)
+
+
 
 ---
 
@@ -72,23 +58,17 @@ Les fiches peuvent être utilisées :
 
 - Les fiches méthode doivent être **consultées régulièrement**.
 - Elles servent de **guide pour structurer les réponses écrites**.
-- En cas de difficulté, il est recommandé de s’y référer **avant de répondre**.
+- En cas de difficulté, il est conseillé de s’y référer **avant de rédiger la réponse**.
 
-👉 Une réponse **clairement justifiée et correctement argumentée** peut rapporter des points, même si le résultat final est partiellement incorrect.
+👉 Une réponse **argumentée et méthodologiquement correcte** peut être valorisée, même si le résultat final est imparfait.
 
 ---
 
-## 🎓 Message clé à retenir
+## 🎓 Message clé
 
 > En BTS MECP, **expliquer, justifier et argumenter** est indispensable.  
-> Une réponse non justifiée est considérée comme **incomplète**, même si elle est juste.
+> Une réponse sans justification est considérée comme **incomplète** à l’épreuve E2.
 
 ---
 
-*Dossier méthodologique orienté expertise scientifique, autonomie des étudiant*
-
-### 📥 Ressource à télécharger
-
-📘 **Document élève**  
-
-➡️ [Télécharger la fiche 1 *Exploiter un graphique de CMC* (PDF)](01_fiche_methode.pdf)
+*Dossier méthodologique transversal – Expertise scientifique, autonomie et réussite à l’épreuve E2.*
