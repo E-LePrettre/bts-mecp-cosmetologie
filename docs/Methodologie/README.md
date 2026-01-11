@@ -51,9 +51,10 @@ Chaque fiche est conçue pour être :
 ➡️ [Fiche 01 – *Employer un vocabulaire cosmétologique précis en E2* (PDF)](01_fiche_methode.pdf)
 
 
-➡️ [Fiche 02 – *Exploiter un graphique de CMC (logique E2)* (PDF)](02_fiche_methode.pdf)
+➡️ [Fiche 02 – *Structurer une réponse rédigée E2* (PDF)](02_fiche_methode.pdf)
 
 
+➡️ [Fiche 03 – *Exploiter un graphique de CMC (logique E2)* (PDF)](03_fiche_methode.pdf)
 
 ---
 
