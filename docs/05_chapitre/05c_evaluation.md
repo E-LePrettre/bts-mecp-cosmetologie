@@ -37,36 +37,6 @@ Vous travaillez dans un **service qualité / laboratoire cosmétique**.
 Un client signale un problème après utilisation d’un produit cosmétique.  
 Votre mission est d’analyser la situation et d’indiquer les **actions à mener** dans une logique de **sécurité**, de **surveillance** et de **responsabilité**.
 
----
-
-## 📄 Document 1 – Extrait d’un signalement consommateur (fiche de contact)
-
-**Produit :** Gel douche « Peau Douce »  
-**Usage :** 1 fois/jour, application sur peau humide, rinçage  
-**Zone d’application :** corps  
-**Date d’achat :** il y a 3 jours  
-**Symptômes signalés :** rougeurs + démangeaisons apparues 20 minutes après l’utilisation  
-**Évolution :** disparition en 24 h après arrêt du produit  
-**Antécédents :** peau sensible (déclaré par le consommateur)
-
----
-
-## 📄 Document 2 – Informations produit (extrait “étiquetage technique”)
-
-- **Type de produit :** produit lavant rincé (gel douche)  
-- **Personne responsable :** indiquée sur l’emballage (coordonnées disponibles)  
-- **N° de lot :** présent  
-- **Liste INCI :** présente (non demandée dans cette évaluation)  
-- **Précautions d’emploi :** usage externe, éviter contact avec les yeux
-
----
-
-## 📄 Document 3 – Définitions utiles (rappel)
-
-- **Sécurité d’un produit cosmétique :** absence de risque pour la santé humaine dans des conditions normales ou raisonnablement prévisibles d’utilisation.  
-- **Personne responsable :** entité qui garantit la conformité et la sécurité du produit cosmétique mis sur le marché.  
-- **Cosmétovigilance :** surveillance des effets indésirables liés à l’utilisation de produits cosmétiques après leur mise sur le marché.  
-- **ANSM / DGCCRF :** autorités participant à la surveillance et au contrôle des produits cosmétiques.
 
 ---
 
@@ -172,6 +142,39 @@ Un étudiant écrit simplement :
 <br>
 <br>
 <br>
+
+---
+
+## 📎 Documents supports (annexes)
+
+## 📄 Document 1 – Extrait d’un signalement consommateur (fiche de contact)
+
+**Produit :** Gel douche « Peau Douce »  
+**Usage :** 1 fois/jour, application sur peau humide, rinçage  
+**Zone d’application :** corps  
+**Date d’achat :** il y a 3 jours  
+**Symptômes signalés :** rougeurs + démangeaisons apparues 20 minutes après l’utilisation  
+**Évolution :** disparition en 24 h après arrêt du produit  
+**Antécédents :** peau sensible (déclaré par le consommateur)
+
+---
+
+## 📄 Document 2 – Informations produit (extrait “étiquetage technique”)
+
+- **Type de produit :** produit lavant rincé (gel douche)  
+- **Personne responsable :** indiquée sur l’emballage (coordonnées disponibles)  
+- **N° de lot :** présent  
+- **Liste INCI :** présente (non demandée dans cette évaluation)  
+- **Précautions d’emploi :** usage externe, éviter contact avec les yeux
+
+---
+
+## 📄 Document 3 – Définitions utiles (rappel)
+
+- **Sécurité d’un produit cosmétique :** absence de risque pour la santé humaine dans des conditions normales ou raisonnablement prévisibles d’utilisation.  
+- **Personne responsable :** entité qui garantit la conformité et la sécurité du produit cosmétique mis sur le marché.  
+- **Cosmétovigilance :** surveillance des effets indésirables liés à l’utilisation de produits cosmétiques après leur mise sur le marché.  
+- **ANSM / DGCCRF :** autorités participant à la surveillance et au contrôle des produits cosmétiques.
 
 ---
 
