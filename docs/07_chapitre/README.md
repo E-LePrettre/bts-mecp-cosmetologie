@@ -1,4 +1,4 @@
-# 07 – Objectifs et ressources 
+# 07 – Evaluation
 
 **07 – Évaluation sommative E2 : analyse et structuration de la réponse écrite**
 
