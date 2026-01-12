@@ -57,16 +57,16 @@ Le responsable formulation vous demande d’expliquer :
 
 ### Questions
 
-1. Relevez les **ingrédients communs** aux produits lavants (documents 1 à 3).
+1\. Relevez les **ingrédients communs** aux produits lavants (documents 1 à 3).
 
 <br><br><br><br>
 
-2. Comparez avec le document 4.  
+2\. Comparez avec le document 4.  
    Quels ingrédients sont **absents** de la lotion hydratante ?
 
 <br><br><br><br>
 
-3. Émettez une **hypothèse** sur les ingrédients responsables de l’action lavante.
+3\. Émettez une **hypothèse** sur les ingrédients responsables de l’action lavante.
 
 <br><br><br><br><br>
 
@@ -76,11 +76,11 @@ Le responsable formulation vous demande d’expliquer :
 
 À partir de vos observations :
 
-1. Proposez une **définition personnelle** d’un tensioactif.
+1\. Proposez une **définition personnelle** d’un tensioactif.
 
 <br><br><br><br><br>
 
-2. Expliquez pourquoi les produits lavants contiennent **plusieurs tensioactifs**.
+2\. Expliquez pourquoi les produits lavants contiennent **plusieurs tensioactifs**.
 
 <br><br><br><br><br>
 
@@ -114,7 +114,7 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 | Decyl Glucoside | |
 | Cocoyl Glutamate de sodium | |
 
-1. Classez ces tensioactifs dans les familles suivantes :
+1\. Classez ces tensioactifs dans les familles suivantes :
 - anioniques
 - cationiques
 - amphotères
@@ -122,7 +122,7 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 
 <br><br><br><br><br>
 
-2. Associez chaque famille à un **niveau de douceur relatif** (faible / moyen / élevé).
+2\. Associez chaque famille à un **niveau de douceur relatif** (faible / moyen / élevé).
 
 <br><br><br><br><br>
 
@@ -133,11 +133,12 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 ### Situation
 
 Un laboratoire souhaite formuler :
+
 - un **gel douche pour peaux sensibles**,
 - un **shampooing lavant fréquent**.
 
-1. Quelles **familles de tensioactifs** sont à privilégier ?  
-2. Pourquoi éviter certains tensioactifs trop détergents ?
+1\. Quelles **familles de tensioactifs** sont à privilégier ?  
+2\. Pourquoi éviter certains tensioactifs trop détergents ?
 
 Rédigez une **réponse argumentée** (4 à 6 lignes).
 
@@ -151,10 +152,10 @@ Un étudiant affirme :
 
 > *« Plus un produit mousse, plus il lave bien. »*
 
-1. Cette affirmation est-elle correcte ?  
+1\. Cette affirmation est-elle correcte ?  
 ☐ oui  ☐ non  
 
-2. Justifiez votre réponse en mobilisant les notions vues dans la séance.
+2\. Justifiez votre réponse en mobilisant les notions vues dans la séance.
 
 <br><br><br><br><br><br><br><br>
 
