@@ -52,14 +52,14 @@ Votre mission est d’analyser la composition du produit et de **justifier le ch
 
 À partir du **Document 1**, répondez aux questions suivantes.
 
-1. Relevez les **tensioactifs présents** dans la liste INCI.
+1\. Relevez les **tensioactifs présents** dans la liste INCI.
 
 <br>
 <br>
 <br>
 <br>
 
-2. Indiquez la **famille** de chacun des tensioactifs identifiés.
+2\. Indiquez la **famille** de chacun des tensioactifs identifiés.
 
 <br>
 <br>
@@ -71,14 +71,14 @@ Votre mission est d’analyser la composition du produit et de **justifier le ch
 ## Exercice 2 – Rôle et fonctionnement des tensioactifs  
 ### (4 points)
 
-1. Définissez ce qu’est un **tensioactif**.
+1\. Définissez ce qu’est un **tensioactif**.
 
 <br>
 <br>
 <br>
 <br>
 
-2. Expliquez brièvement comment les tensioactifs permettent le **nettoyage de la peau**.
+2\. Expliquez brièvement comment les tensioactifs permettent le **nettoyage de la peau**.
 
 <br>
 <br>
@@ -92,11 +92,12 @@ Votre mission est d’analyser la composition du produit et de **justifier le ch
 
 Le produit est destiné à un **usage quotidien**, sur **peaux sensibles**.
 
-1. Le choix des tensioactifs vous paraît-il **adapté** à cet usage ?
+1\. Le choix des tensioactifs vous paraît-il **adapté** à cet usage ?
 
 ☐ Oui  ☐ Non  
 
-2. Justifiez votre réponse en vous appuyant sur :
+2\. Justifiez votre réponse en vous appuyant sur :
+
 - les **familles de tensioactifs**,
 - la **tolérance cutanée** attendue,
 - l’usage du produit.
@@ -116,6 +117,7 @@ Rédigez une réponse structurée (4 à 6 lignes).
 ### (attendus BTS / E2) (4 points)
 
 Proposez **une amélioration possible** de la formulation si le produit devait être destiné :
+
 - soit à des **peaux très sensibles**,
 - soit à un **usage fréquent chez l’enfant**.
 
@@ -138,11 +140,11 @@ Un étudiant écrit :
 
 > « Ce gel douche lave bien parce qu’il mousse beaucoup. »
 
-1. Cette réponse est-elle suffisante pour un **niveau BTS MECP** et pour l’épreuve **E2** ?
+1\. Cette réponse est-elle suffisante pour un **niveau BTS MECP** et pour l’épreuve **E2** ?
 
 ☐ Oui  ☐ Non  
 
-2. Citez **deux éléments scientifiques attendus** dans une réponse conforme aux attendus de l’épreuve **E2**.
+2\. Citez **deux éléments scientifiques attendus** dans une réponse conforme aux attendus de l’épreuve **E2**.
 
 <br>
 <br>
