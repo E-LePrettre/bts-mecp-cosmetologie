@@ -57,12 +57,11 @@ Le responsable formulation vous demande d’expliquer :
 
 ### Questions
 
-1\. Relevez les **ingrédients communs** aux produits lavants (documents 1 à 3).
+1\. Relevez les **ingrédients jouant un rôle commun** aux produits lavants (documents 1 à 3).
 
 <br><br><br><br>
 
-2\. Comparez avec le document 4.  
-   Quels ingrédients sont **absents** de la lotion hydratante ?
+2\. Comparez avec le document 4 : quels types d’ingrédients, jouant un rôle commun dans les produits lavants, **sont absents** de la lotion hydratante ?
 
 <br><br><br><br>
 
@@ -86,7 +85,7 @@ Le responsable formulation vous demande d’expliquer :
 
 ---
 
-## 🧠 Document 5 – Notion de molécule amphiphile (support pédagogique)
+## 🧠 Document 5 – Notion de molécule amphiphile 
 
 Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle possède :
 
@@ -94,10 +93,13 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 - une **partie hydrophobe** (attirée par les corps gras).
 
 👉 Cette structure permet :
+
 - d’entourer les salissures grasses,
 - de les disperser dans l’eau lors du rinçage.
 
 *(Représentation mentale attendue : une « tête » hydrophile et une « queue » hydrophobe)*
+
+![Représentation d'un tensioactif](tensio.png)
 
 ---
 
@@ -115,6 +117,7 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 | Cocoyl Glutamate de sodium | |
 
 1\. Classez ces tensioactifs dans les familles suivantes :
+
 - anioniques
 - cationiques
 - amphotères
