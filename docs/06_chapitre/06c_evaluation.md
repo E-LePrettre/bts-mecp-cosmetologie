@@ -39,6 +39,14 @@ Votre mission est d’analyser la composition du produit et de **justifier le ch
 
 ---
 
+## 📎 Documents supports (annexes)
+
+## 📄 Document 1 – Liste INCI d’un gel douche
+
+> Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Citric Acid, Parfum, Sodium Benzoate, Potassium Sorbate
+
+---
+
 ## Exercice 1 – Identification des tensioactifs  
 ### (4 points)
 
@@ -143,13 +151,6 @@ Un étudiant écrit :
 
 ---
 
-## 📎 Documents supports (annexes)
-
-## 📄 Document 1 – Liste INCI d’un gel douche
-
-> Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, Citric Acid, Parfum, Sodium Benzoate, Potassium Sorbate
-
----
 
 ## 🔍 Auto-évaluation
 

@@ -31,7 +31,11 @@ Un tensioactif est une **molécule amphiphile**, c’est-à-dire qu’elle poss�
 - une **partie hydrophile**, qui présente une affinité pour l’eau,
 - une **partie hydrophobe**, qui présente une affinité pour les corps gras.
 
+![Représentation d'un tensioactif](tensio.png)
+
 Cette structure permet au tensioactif de se positionner à l’interface entre l’eau et les salissures grasses, facilitant ainsi leur élimination lors du rinçage.
+
+![Formation de micelles](agregat.png)
 
 ---
 
