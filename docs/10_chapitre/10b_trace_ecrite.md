@@ -104,6 +104,13 @@ L’analyse d’une formule lavante repose sur :
 > Une formule cosmétique n’est pertinente que si elle est **cohérente**,  scientifiquement justifiée et adaptée à son usage.
 
 ---
+## 🔗 Lien explicite avec la méthode
+
+Pour apprendre à structurer une analyse critique de formule cosmétique, conforme aux attendus de l’épreuve E2 – Expertise scientifique et technologique, se référer à la fiche méthode :
+
+➡️ [**Fiche méthode 04 – Analyser la cohérence d’une formule cosmétique (E2)**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/04_fiche_methode/)
+
+---
 
 ## 🔗 Pour la suite
 
