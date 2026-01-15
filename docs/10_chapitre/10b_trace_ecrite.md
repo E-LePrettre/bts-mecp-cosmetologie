@@ -1,6 +1,6 @@
 ---
 author: ELP
-title: 10 🧴 Trace écrite
+title: 10 📖 Trace écrite
 ---
 
 # 10 – Analyse critique d’une formule lavante  
