@@ -37,6 +37,11 @@ Cette structure permet au tensioactif de se positionner à l’interface entre l
 
 ![Formation de micelles](agregat.png)
 
+Les molécules de tensioactif entourent la graisse pour former des agregats appelés **micelles**, avec leur partie hydrophobe tournée vers le gras et leur partie hydrophile vers l’eau. Ainsi, la graisse est décrochée de la peau et entraînée par l’eau lors du rinçage.
+
+![Schéma de micelle](micelle.png)
+
+
 ---
 
 ## 3️⃣ Rôle des tensioactifs dans les produits lavants
