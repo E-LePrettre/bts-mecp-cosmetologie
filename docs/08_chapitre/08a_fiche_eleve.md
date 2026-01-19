@@ -59,11 +59,11 @@ Le graphique correspondant est fourni ci-dessous.
 
 ### Questions
 
-1. Décrivez l’évolution générale de la grandeur mesurée lorsque la concentration en tensioactif augmente.
+1\. Décrivez l’évolution générale de la grandeur mesurée lorsque la concentration en tensioactif augmente.
 
 <br><br><br><br><br>
 
-2. Peut-on distinguer **plusieurs zones de comportement** sur le graphique ?  
+2\. Peut-on distinguer **plusieurs zones de comportement** sur le graphique ?  
    ☐ oui  ☐ non  
 
 Si oui, indiquez le nombre de zones observées et décrivez-les brièvement.
@@ -74,7 +74,7 @@ Si oui, indiquez le nombre de zones observées et décrivez-les brièvement.
 
 ## 🧠 Travail 2 – Mise en évidence d’une concentration seuil
 
-3. Repérez sur le graphique une **concentration particulière** pour laquelle le comportement de la courbe change.
+3\. Repérez sur le graphique une **concentration particulière** pour laquelle le comportement de la courbe change.
 
 Indiquez :
 
@@ -83,7 +83,7 @@ Indiquez :
 
 <br><br><br><br><br>
 
-4. Cette concentration correspond à ce que l’on appelle la :
+4\. Cette concentration correspond à ce que l’on appelle la :
 
 ☐ concentration maximale  
 ☐ concentration micellaire critique (CMC)  
@@ -104,11 +104,11 @@ Justifiez votre réponse.
 
 ---
 
-5. Expliquez ce que l’on appelle une **micelle**.
+5\. Expliquez ce que l’on appelle une **micelle**.
 
 <br><br><br><br><br>
 
-6. Complétez le raisonnement suivant :
+6\. Complétez le raisonnement suivant :
 
 > Lorsque la concentration en tensioactif est **inférieure à la CMC**, les molécules sont principalement  
 > .  
@@ -121,11 +121,11 @@ Justifiez votre réponse.
 
 ## 🧠 Travail 4 – Définition et intérêt de la CMC
 
-7. À partir des documents et de votre raisonnement, proposez une **définition**   de la concentration micellaire critique (CMC).
+7\. À partir des documents et de votre raisonnement, proposez une **définition**   de la concentration micellaire critique (CMC).
 
 <br><br><br><br><br>
 
-8. Expliquez pourquoi la CMC est une notion importante en **formulation cosmétique**.
+8\. Expliquez pourquoi la CMC est une notion importante en **formulation cosmétique**.
 
 Votre réponse devra faire le lien avec :
 
@@ -142,10 +142,10 @@ Un étudiant affirme :
 
 > *« Plus on met de tensioactif dans un produit lavant, plus il est efficace. »*
 
-9. Cette affirmation est-elle scientifiquement correcte ?  
+9\. Cette affirmation est-elle scientifiquement correcte ?  
 ☐ oui  ☐ non  
 
-10. Rédigez une **réponse argumentée (4 à 6 lignes)** en vous appuyant sur la notion de **CMC** et le comportement des tensioactifs en solution.
+10\. Rédigez une **réponse argumentée (4 à 6 lignes)** en vous appuyant sur la notion de **CMC** et le comportement des tensioactifs en solution.
 
 <br><br><br><br><br><br><br>
 

@@ -26,6 +26,8 @@ Un tensioactif est une **molécule amphiphile**, possédant :
 - une **partie hydrophile**, attirée par l’eau,
 - une **partie hydrophobe**, attirée par les corps gras.
 
+![Représentation d'un tensioactif](TA.png)
+
 Lorsque la concentration en tensioactif augmente, les molécules ne restent pas indéfiniment dispersées : elles peuvent s’auto-organiser en structures particulières.
 
 ---
@@ -39,6 +41,9 @@ Une **micelle** est une structure dans laquelle :
 - les parties hydrophobes des molécules sont regroupées vers l’intérieur,
 - les parties hydrophiles sont orientées vers l’extérieur, au contact de l’eau.
 
+![Schéma d'une micelle](micelle.png)
+
+
 La formation de micelles modifie le comportement global de la solution.
 
 ---
@@ -49,6 +54,7 @@ La **concentration micellaire critique (CMC)** correspond à la **concentration 
 
 Sur un graphique représentant l’évolution d’une propriété physico-chimique en fonction de la concentration en tensioactif, la CMC se traduit par une **rupture de comportement** ou un **changement de pente**.
 
+
 ---
 
 ## 5️⃣ Comportement de la solution avant et après la CMC
@@ -58,6 +64,8 @@ Sur un graphique représentant l’évolution d’une propriété physico-chimiq
 - **Au-dessus de la CMC** : les molécules s’organisent majoritairement en micelles.
 
 Ce changement d’organisation explique l’évolution différente des propriétés physico-chimiques de la solution.
+
+![Schéma CMC](formation_micelle.png)
 
 ---
 
