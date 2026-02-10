@@ -5,13 +5,13 @@
 
 ---
 
-## 🎯 Objectif
+### 🎯 Objectif
 
 Construire progressivement les **compétences scientifiques, techniques et professionnelles en cosmétologie**, nécessaires à l'**épreuve E2 – Expertise scientifique et technologique**, en s'appuyant sur des **situations professionnelles réalistes**, des **TP de laboratoire**, et une **progression spiralée** tenant compte de l'hétérogénéité des étudiants.
 
 ---
 
-## 🧩 Principes pédagogiques structurants
+### 🧩 Principes pédagogiques structurants
 
 * Progression **spiralée** : les notions de cosmétologie sont **réinvesties à plusieurs reprises** au fil de l'année.
 * Entrée systématique par des **situations professionnelles** (produit, laboratoire, réglementation).
@@ -28,7 +28,7 @@ Construire progressivement les **compétences scientifiques, techniques et profe
 
 ---
 
-## 📊 Légende
+### 📊 Légende
 
 | Symbole | Signification |
 |---------|---------------|
@@ -53,7 +53,7 @@ Construire progressivement les **compétences scientifiques, techniques et profe
 
 ---
 
-## 🔵 Étape 1 – Bases de la cosmétologie et premières analyses professionnelles
+### 🔵 Étape 1 – Bases de la cosmétologie et premières analyses professionnelles
 
 > Cette étape pose les **fondations réglementaires et scientifiques** de la cosmétologie. L'étudiant apprend à identifier, classer et justifier le statut d'un produit, puis découvre les tensioactifs comme premier levier de formulation. La première évaluation type E2 intervient en S7 pour installer les attendus méthodologiques.
 
@@ -72,7 +72,7 @@ Construire progressivement les **compétences scientifiques, techniques et profe
 
 ---
 
-## 🟠 Étape 2 – Structuration du raisonnement cosmétologique et formulation
+### 🟠 Étape 2 – Structuration du raisonnement cosmétologique et formulation
 
 > Cette étape vise à structurer le **raisonnement cosmétologique**, en lien direct avec les **pratiques de laboratoire** et les choix de formulation. L'étudiant passe de l'analyse à la **construction** : écrire une formule, justifier un choix galénique, contrôler un produit. Le bloc se conclut par l'introduction des cosmétiques bio/naturels, notion de culture professionnelle fréquemment mobilisée en E2.
 
@@ -93,7 +93,7 @@ Construire progressivement les **compétences scientifiques, techniques et profe
 
 ---
 
-## 🟢 Étape 3 – Expertise cosmétique, parfums et préparation explicite à l'épreuve E2
+### 🟢 Étape 3 – Expertise cosmétique, parfums et préparation explicite à l'épreuve E2
 
 > Cette étape conduit l'étudiant vers l'**expertise** : pénétration cutanée, efficacité, analyse de résultats expérimentaux, puis découverte du bloc parfums et arômes. Elle se conclut par un **sujet blanc E2** en conditions d'examen et un retour méthodologique individualisé. L'objectif est de rendre l'étudiant **autonome** face à un dossier documentaire type E2.
 
@@ -110,7 +110,7 @@ Construire progressivement les **compétences scientifiques, techniques et profe
 
 ---
 
-## 🔬 Place des TP
+### 🔬 Place des TP
 
 Les TP sont conçus comme **supports d'expertise cosmétologique**, et non comme de simples manipulations :
 
@@ -124,7 +124,7 @@ Chaque TP donne lieu à une **exploitation écrite structurée** conforme aux **
 
 ---
 
-## 📐 Couverture du référentiel
+### 📐 Couverture du référentiel
 
 | Section du référentiel | Séance(s) | 
 |------------------------|-----------|
@@ -154,7 +154,7 @@ Chaque TP donne lieu à une **exploitation écrite structurée** conforme aux **
 
 ---
 
-## 📊 Répartition des formats pédagogiques
+### 📊 Répartition des formats pédagogiques
 
 | Format | Séances | Nombre |
 |--------|---------|--------|
@@ -173,7 +173,7 @@ Chaque TP donne lieu à une **exploitation écrite structurée** conforme aux **
 
 ---
 
-## 🔁 Notions spiralées – Réinvestissements
+### 🔁 Notions spiralées – Réinvestissements
 
 | Notion | Introduction | Réinvestissements |
 |--------|-------------|-------------------|
@@ -187,7 +187,7 @@ Chaque TP donne lieu à une **exploitation écrite structurée** conforme aux **
 
 ---
 
-## 🎯 Évaluations et préparation E2
+### 🎯 Évaluations et préparation E2
 
 | Évaluation | Séance | Notions évaluées | Compétences E2 ciblées |
 |------------|--------|------------------|------------------------|
