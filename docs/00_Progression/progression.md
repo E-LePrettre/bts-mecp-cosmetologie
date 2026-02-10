@@ -123,7 +123,7 @@ Chaque TP donne lieu à une **exploitation écrite structurée** conforme aux **
 
 ---
 
-### 📐 Couverture du référentiel
+## 📐 Couverture du référentiel
 
 | Section du référentiel | Séance(s) | 
 |------------------------|-----------|
