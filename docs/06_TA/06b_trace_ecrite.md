@@ -145,3 +145,12 @@ Ces notions seront réinvesties pour :
 - l’étude des **propriétés des tensioactifs en solution**,
 - les **TP de détermination de la CMC par conductimétrie**,
 - l’analyse critique de **formules cosmétiques lavantes**.
+
+
+---
+
+## 🔧 Outils méthodologiques associés
+
+➡️ [**Fiche méthode 01 – Justifier (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)

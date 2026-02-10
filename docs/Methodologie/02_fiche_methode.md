@@ -1,141 +1,271 @@
 ---
 author: ELP
-title: Fiche méthode 02 🧠
+title: Fiche méthode 02 🗂️
 ---
 
+# Fiche méthode 02 🗂️ : Analyser un **dossier documentaire type E2** (et répondre efficacement)
 
-
-
-# Fiche méthode 02 🧠 : Structurer une réponse rédigée E2
-
-
-
-
-
+**Compétence E2 : Analyser – Interpréter – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🎯 Pourquoi cette fiche méthode ?
+## 🎯 Pourquoi cette fiche est importante
 
-À l’épreuve **E2 – Expertise scientifique et technologique**, **une réponse juste mais mal rédigée est pénalisée**.
+À l’épreuve E2 (et dans les entraînements type E2), tu dois souvent répondre à partir de :
 
-Cette fiche a pour objectif de t’aider à :
+- **documents** (étiquette / INCI, tableau, graphique, extrait réglementaire, protocole…)
+- **questions** (conformité, sécurité, efficacité, formulation, recommandation…)
 
-- structurer clairement tes réponses,
-- adopter une **posture d’expertise**,
-- répondre **exactement aux attendus du jury**.
+👉 Ce qui est évalué, ce n’est pas “réciter un cours”, mais :
 
-👉 En E2, **la forme compte autant que le fond**.
+* ta **capacité à repérer l’information utile**,
+* ta **capacité à l’exploiter** (preuve),
+* ta **capacité à l’expliquer** (analyse),
+* ta **capacité à conclure et argumenter** (posture “expert”).
 
----
-
-## 🧩 Ce que le jury attend en priorité
-
-Une réponse E2 doit être :
-
-✔ rédigée en **phrases complètes**  
-✔ **structurée** (pas une liste brute)  
-✔ **justifiée scientifiquement**  
-✔ reliée à la **situation professionnelle**  
-✔ formulée avec un **vocabulaire cosmétologique précis**
+📌 Une réponse **sans preuve** (sans donnée, sans élément du document) est fragile, même si elle “semble logique”.
 
 ---
 
-## 🏗️ La structure type d’une réponse E2
+## 1️⃣ Ce qu'on attend d'une analyse de dossier en E2
 
-Une réponse rédigée E2 efficace suit **toujours la même logique**.
+Une analyse réussie répond à **trois questions** :
 
-### 🔹 1. Reformuler la situation (1 phrase)
+| Question | Ce que vous devez faire |
+|----------|--------------------------|
+| **Qu'est-ce qu'on lit / observe ?** | Citer une information précise du document (preuve) |
+| **Qu'en déduit-on ?** | Donner la réponse attendue (conclusion) |
+| **Pourquoi ?** | Expliquer avec une notion, une règle, un lien pro (analyse/justification) |
 
-👉 Montrer que tu as compris le contexte.
-
-**Exemple :**  
-> Le document présente un signalement d’effet indésirable suite à l’utilisation d’un produit cosmétique.
-
----
-
-### 🔹 2. Mobiliser la notion scientifique ou réglementaire (1–2 phrases)
-
-👉 Nommer clairement la notion attendue.
-
-**Exemples :**
-
-- sécurité d’un produit cosmétique  
-- personne responsable  
-- cosmétovigilance  
-- réglementation européenne  
-- Dossier d’Information Produit (DIP)
-
-**Exemple :**  
-> La sécurité d’un produit cosmétique correspond à l’absence de risque pour la santé humaine dans des conditions normales d’utilisation.
+👉 Une bonne réponse suit **toujours** cette logique : **PREUVE → CONCLUSION → EXPLICATION**
 
 ---
 
-### 🔹 3. Justifier à l’aide des documents (2–3 phrases)
+## 2️⃣ La méthode S.A.F.E. (à apprendre par cœur)
 
-👉 C’est le **cœur de la réponse E2**.
+### 🔹 S – Survoler (1 à 2 minutes)
 
-- s’appuyer sur les faits,
-- citer implicitement les documents,
-- expliquer le raisonnement.
+Comprendre rapidement le “cadre” du dossier.
 
-**Exemple :**  
-> Les symptômes apparaissent après l’utilisation du produit et disparaissent après son arrêt, ce qui correspond à un effet indésirable relevant de la cosmétovigilance.
+✅ À faire :
+- lire les **titres**, **consignes**, **questions**
+- repérer les **unités** (%, pH, g/L, µS/cm, mg/kg…)
+- repérer les mots “conforme”, “sécurité”, “allégation”, “efficacité”, “risque”
 
----
-
-### 🔹 4. Conclure professionnellement (1 phrase)
-
-👉 Montrer que tu raisonnes comme un technicien supérieur.
-
-**Exemple :**  
-> La situation doit donc être analysée par la personne responsable et intégrée au suivi de sécurité du produit via le DIP.
+❌ À éviter :
+- lire tout en détail dès le début (perte de temps)
 
 ---
 
-## ✍️ Schéma récapitulatif
+### 🔹 A – Annoter (surlignage intelligent)
 
-👉 **Une bonne réponse E2 =**
+Surligner uniquement ce qui peut servir.
 
-**Situation comprise**  
+✅ Tu surlignes :
+- **valeurs chiffrées + unités**
+- **seuils / normes / exigences** (plages, limites, obligations)
+- **mots-clés** (tensioactif, conservateur, irritant, émulsion, CMC, placebo…)
 
-→ **Notion identifiée**  
-→ **Justification argumentée**  
-→ **Conclusion professionnelle**
-
----
-
-## ❌ Erreurs fréquentes à éviter
-
-🚫 Répondre par un mot ou une phrase isolée  
-🚫 Dire « c’est dangereux » sans expliquer  
-🚫 Réciter le cours sans lien avec le document  
-🚫 Oublier la justification  
-🚫 Employer un vocabulaire vague ou approximatif  
+✅ Tu notes dans la marge (ou à côté) :
+- “sert à Q2”, “sécurité”, “efficacité”, “conformité”, “formulation”
 
 ---
 
-## ✅ Exemple de réponse conforme E2
+### 🔹 F – Faire le lien Document → Question (table rapide)
 
-> Le document décrit un effet indésirable survenu après l’utilisation d’un produit cosmétique.  
-> La sécurité d’un produit cosmétique repose sur l’absence de risque pour la santé humaine dans des conditions normales d’utilisation.  
-> Les rougeurs et démangeaisons apparaissent rapidement après l’application du produit et disparaissent après son arrêt, ce qui correspond à un effet indésirable.  
-> Cette situation doit être prise en compte par la personne responsable dans le cadre de la cosmétovigilance et du Dossier d’Information Produit.
+Tu construis un mini tableau : c’est ce qui **fait gagner des points**.
 
----
+| Question | Document(s) utile(s) | Preuve exacte à citer |
+|---|---|---|
+| Q1 | Doc … | valeur / phrase / élément INCI : … |
+| Q2 | Doc … | … |
+| Q3 | Doc … | … |
 
-## 🎓 Message clé à retenir
-
-> **En E2, on ne donne pas une réponse :  
-> on construit un raisonnement argumenté et professionnel.**
+📌 Si tu ne peux pas remplir “preuve exacte”, tu n’as pas encore trouvé l’info utile.
 
 ---
 
-## 🔗 Quand utiliser cette fiche ?
+### 🔹 E – Extraire et exploiter la preuve (sans paraphraser)
 
-- après les **séances d'évaluation**,
-- avant chaque **évaluation E2**,
-- lors des **TP et analyses de documents**,
-- en révision finale de l’épreuve E2.
+Une preuve, c’est **quelque chose de précis** :
 
-👉 Cette fiche est une **référence permanente**.
+- une **valeur** + **unité** (pH = 5,5 ; 85% ; 0,8 g/L…)
+- une **mention** (allergène, avertissement, mode d’emploi…)
+- un **élément INCI** (ingrédient repéré)
+- une **comparaison** (référence / témoin / exigence)
+
+✅ Exemple (OK) :
+- “Le pH mesuré est **5,5**.”
+- “La liste INCI contient **Sodium Laureth Sulfate**.”
+- “Le tableau indique **85% d’effet** à 10%.”
+
+❌ Exemple (pas OK) :
+- “Le doc dit que c’est bien.”
+- “On voit que c’est conforme.” (sans preuve)
+- “La formule est correcte.” (sans élément cité)
+
+---
+
+## 3️⃣ Structure-type d'une réponse exploitable en E2
+
+👉 Comme dans ta fiche méthode 01, tu peux utiliser une structure simple et constante, ici en version “dossier” :
+
+### Version courte (2-3 phrases)
+
+```
+
+D’après le document, [PREUVE précise].
+Donc [CONCLUSION].
+En effet, [EXPLICATION : notion / règle / lien pro].
+
+```
+
+### Version développée (4-5 phrases)
+
+```
+
+D’après le document, [PREUVE précise].
+[ANALYSE : comparaison / tendance / interprétation].
+On en déduit que [CONCLUSION].
+En effet, [EXPLICATION : définition / règle / principe].
+[LIEN professionnel si pertinent].
+
+```
+
+📌 Cette structure marche pour : conformité, sécurité, efficacité, INCI, graphique, tableau, protocole.
+
+---
+
+## 4️⃣ Phrases types à utiliser (pour écrire clairement)
+
+### Pour introduire une preuve
+- *« D’après le document X, … »*
+- *« Le tableau indique … (unité). »*
+- *« On observe sur le graphique que … »*
+- *« La liste INCI contient … »*
+
+### Pour analyser / interpréter
+- *« Cette valeur est supérieure / inférieure à … »*
+- *« La courbe présente une rupture / un maximum / un palier. »*
+- *« Cela suggère que … »*
+- *« Cela peut s’expliquer par … »*
+
+### Pour conclure
+- *« On conclut donc que … »*
+- *« Le produit est (non) conforme car … »*
+- *« L’allégation est (peu) crédible car … »*
+
+### Pour faire un lien professionnel
+- *« En contrôle qualité, cela implique … »*
+- *« Pour la sécurité du consommateur, il faut … »*
+- *« En formulation, cela conduit à … »*
+
+---
+
+## 5️⃣ Exemples appliqués (type E2)
+
+### Exemple 1 – Conformité pH
+
+**Question** : *Le produit est-il conforme au cahier des charges (pH entre 5,0 et 6,0) ? Justifiez.*
+
+#### ❌ Réponse insuffisante
+> *Oui, c’est bon.*
+
+#### ✅ Réponse attendue en E2
+> *La mesure indique un pH de 5,5. Cette valeur est comprise dans l’intervalle [5,0 ; 6,0] du cahier des charges. Le produit est donc conforme. En effet, une valeur située dans la plage exigée garantit la compatibilité avec l’usage prévu et limite les risques d’irritation.*
+
+---
+
+### Exemple 2 – INCI : repérer un ingrédient à vigilance
+
+**Question** : *Repérer un ingrédient pouvant poser un risque d’irritation et justifier.*
+
+#### ❌ Réponse insuffisante
+> *Il y a des produits irritants.*
+
+#### ✅ Réponse attendue en E2
+> *La liste INCI contient Sodium Laureth Sulfate. On en déduit qu’il s’agit d’un tensioactif qui peut être irritant chez certaines peaux sensibles. En effet, certains tensioactifs anioniques ont un pouvoir détergent élevé, ce qui peut altérer le film hydrolipidique si la formule n’est pas bien équilibrée.*
+
+---
+
+### Exemple 3 – Graphique : concentration optimale
+
+**Question** : *D’après le graphique, quelle est la concentration optimale d’un actif ? Justifiez.*
+
+#### ❌ Réponse insuffisante
+> *10%.*
+
+#### ✅ Réponse attendue en E2
+> *On observe sur le graphique que l’efficacité est maximale à 10% (valeur la plus élevée). Les concentrations inférieures présentent une efficacité plus faible. On en déduit que la concentration optimale est 10%. En effet, c’est la concentration qui apporte le meilleur résultat mesurable dans les conditions du test, ce qui est cohérent avec une recommandation “efficacité”.*
+
+---
+
+## 6️⃣ Ce qui fait PERDRE des points à l'examen
+
+| ❌ Erreur | Exemple | Pourquoi c'est pénalisé |
+|----------|---------|------------------------|
+| Répondre sans preuve | *« C’est conforme. »* | Aucun appui → réponse fragile |
+| Paraphraser le document | 10 lignes qui recopie le doc | Pas d’analyse personnelle |
+| Oublier unités / valeurs | *« pH = 6 »* | Manque de rigueur |
+| Mélanger plusieurs docs sans citer | phrase confuse | Le correcteur ne suit plus |
+| Réponse hors sujet | long texte non demandé | Perte de temps, points perdus |
+
+---
+
+## 7️⃣ Ce qui fait GAGNER des points
+
+| ✅ Bonne pratique | Pourquoi ça rapporte |
+|------------------|---------------------|
+| Une preuve précise (valeur/INCI/mention) | Montre l’exploitation des docs |
+| Une analyse (comparaison / interprétation) | Montre la compréhension |
+| Une conclusion nette (réponse à la question) | Lisible, efficace |
+| Une justification (notion / règle / lien pro) | Posture “expert” E2 |
+
+📌 Même si la conclusion finale est imparfaite, **un raisonnement cohérent** rapporte des points.
+
+---
+
+## 8️⃣ Checklist avant de rendre sa copie (spécial dossier)
+
+Pour chaque question, vérifie :
+
+| ✓ | Question à se poser |
+|---|---------------------|
+| ☐ | Ai-je cité une **preuve** (valeur / phrase / INCI / mention) ? |
+| ☐ | Ai-je donné une **conclusion claire** (réponse attendue) ? |
+| ☐ | Ai-je expliqué **pourquoi** (analyse / notion / règle / lien pro) ? |
+| ☐ | Ai-je écrit en **phrases complètes** et vocabulaire précis ? |
+| ☐ | Ai-je évité la **paraphrase** (copier le doc) ? |
+
+---
+
+## 🎓 À retenir pour l'épreuve E2
+
+```
+
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   📌 LA MÉTHODE S.A.F.E.                        │
+│                                                 │
+│   S - Survoler   → titres, unités, mots-clés    │
+│   A - Annoter    → valeurs, seuils, infos utiles│
+│   F - Faire lien → Doc ↔ Question               │
+│   E - Extraire   → preuve précise + exploitation│
+│                                                 │
+│   👉 Une réponse E2 =                          |
+|       preuve + analyse + conclusion             │
+│                                                 │
+└─────────────────────────────────────────────────┘
+
+```
+
+---
+
+## 🔗 Cette fiche est utilisée dans les séances suivantes
+
+- [S07 – Étude de cas (dossier documentaire)](../07_Etude_de_cas/)
+- [S15 – Séance expertise (documents + argumentation)](../15_Expertise/)
+- [S22 – Étude type E2 (analyse + recommandations)](../22_Etude_type_E2/)
+
+
+---

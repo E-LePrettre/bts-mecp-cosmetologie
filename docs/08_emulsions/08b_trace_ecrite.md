@@ -149,3 +149,12 @@ Ces notions seront réinvesties pour :
 - l’analyse de **graphiques et résultats expérimentaux**,
 - la compréhension des **choix de formulation cosmétique**,
 - la préparation progressive à l’épreuve  **E2 – Expertise scientifique et technologique**.
+
+---
+
+## 🔧 Outils méthodologiques associés
+
+➡️ [**Fiche méthode 03 – Interpréter un graphique ou un tableau**](../Methodologie/03_fiche_methode/)
+
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)
+
