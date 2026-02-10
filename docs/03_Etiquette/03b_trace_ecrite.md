@@ -102,3 +102,11 @@ Une non-conformité d'étiquetage peut entraîner :
 - L'ordre est **décroissant** jusqu'à **1 %**, puis libre
 - Les **allergènes** doivent être déclarés individuellement
 - Toute non-conformité engage la **personne responsable**
+
+---
+
+## 🔧 Outils méthodologiques associés
+
+➡️ [**Fiche méthode 06 – Analyser une liste INCI**](../Methodologie/06_fiche_methode/)
+
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)

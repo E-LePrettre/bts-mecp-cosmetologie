@@ -101,3 +101,9 @@ Un ingrédient n'est pas « bon » ou « mauvais » en soi : sa pertinence dépe
 - L'excipient est aussi important que l'actif : sans véhicule adapté, pas d'efficacité
 
 ---
+
+## 🔧 Outils méthodologiques associés
+
+➡️ [**Fiche méthode 06 – Analyser une liste INCI**](../Methodologie/06_fiche_methode/)
+
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)
