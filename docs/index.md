@@ -10,7 +10,7 @@ Ce site regroupe l’ensemble des **cours, séances, travaux dirigés, travaux p
 
 ---
 
-## 🎯 Objectifs de la formation
+### 🎯 Objectifs de la formation
 
 La cosmétologie permet de :
 
@@ -28,7 +28,7 @@ La cosmétologie permet de :
 
 ---
 
-## 🧪 Organisation des ressources
+### 🧪 Organisation des ressources
 
 Les ressources sont organisées par **séances**, **thématiques** et **compétences** :
 
@@ -44,7 +44,7 @@ Chaque séance s’appuie sur des **situations professionnelles réelles** (labo
 
 ---
 
-## 🧭 Fonctionnement en classe
+### 🧭 Fonctionnement en classe
 
 * Chaque étudiant dispose d’un **poste informatique avec accès Internet**.
 
@@ -64,13 +64,13 @@ Chaque séance s’appuie sur des **situations professionnelles réelles** (labo
 
 ---
 
-## 📂 Accéder aux contenus
+### 📂 Accéder aux contenus
 
 ➡️ Commencez par la **Séance 1 – Le produit cosmétique : définition et cadre réglementaire**, puis suivez la progression indiquée dans le dossier *Progression annuelle*.
 
 ---
 
-## ℹ️ Informations importantes
+### ℹ️ Informations importantes
 
 * Les ressources sont **communes à l’ensemble de la classe**.
 
