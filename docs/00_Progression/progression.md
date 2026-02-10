@@ -1,4 +1,4 @@
-# 🛣️ Progression annuelle – Cosmétologie
+# 🛣️ Progression 
 
 **BTS MECP – 1re année**
 **Épreuve E2 – Expertise scientifique et technologique**
