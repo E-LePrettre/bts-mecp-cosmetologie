@@ -44,7 +44,7 @@ Cette séance fait le lien entre la **lecture réglementaire** des produits (sé
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode.md)
 
 ---
 
