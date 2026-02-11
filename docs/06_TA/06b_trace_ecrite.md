@@ -127,13 +127,7 @@ La compréhension du rôle et du choix des tensioactifs est indispensable :
 - Le choix des tensioactifs dépend de l’**usage et de la tolérance cutanée**
 - La mousse n’est pas un indicateur fiable du pouvoir nettoyant
 
----
 
-## 🔗 Lien explicite avec la méthode
-
-Pour analyser correctement ces documents, se référer à :
-
-➡️ [**Fiche méthode 01 – Employer un vocabulaire cosmétologique précis en E2**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 
@@ -151,6 +145,6 @@ Ces notions seront réinvesties pour :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 01 – Justifier (O.A.C.J.)**](../Methodologie/01_fiche_methode/)
+➡️ [**Fiche méthode 01 – Justifier (O.A.C.J.)**](../Methodologie/01_fiche_methode.md)
 
-➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode.md)
