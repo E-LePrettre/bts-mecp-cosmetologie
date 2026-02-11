@@ -45,7 +45,7 @@ On apprend à repérer les **mentions obligatoires**, à comprendre les **règle
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode.md)
 
 ---
 

@@ -103,10 +103,14 @@ Une non-conformité d'étiquetage peut entraîner :
 - Les **allergènes** doivent être déclarés individuellement
 - Toute non-conformité engage la **personne responsable**
 
+> **Allergènes parfumants (étiquetage)** : lorsqu’ils sont présents au-delà de certains seuils (règle classique : **0,01 %** pour les produits rincés et **0,001 %** pour les produits non rincés), ils doivent apparaître **individuellement** dans la liste INCI, même si “Parfum” est déjà indiqué.  
+> ⚠️ La liste des allergènes à déclarer a été **élargie** (évolutions réglementaires récentes).
+
+
 ---
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 06 – Analyser une liste INCI**](../Methodologie/06_fiche_methode/)
+➡️ [**Fiche méthode 06 – Analyser une liste INCI**](../Methodologie/06_fiche_methode.md)
 
-➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode.md)
