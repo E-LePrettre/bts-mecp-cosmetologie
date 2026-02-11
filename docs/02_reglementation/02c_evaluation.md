@@ -26,7 +26,12 @@ Vous travaillez dans un laboratoire cosmétique. Plusieurs produits sont analys�
 
 <br><br><br>
 
-**3.** Expliquez la différence entre la liste positive (annexe IV) et la liste négative (annexe II). *(2 pts)*
+**3.** *Expliquez la différence entre :*
+
+- *une annexe "interdits" (annexe II),*
+- *une annexe "restreints" (annexe III),*
+- *et une annexe "autorisés selon l’usage" (annexes IV/V/VI).*
+(2 pts)*
 
 <br><br><br><br><br>
 

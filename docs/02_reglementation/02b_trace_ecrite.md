@@ -31,13 +31,18 @@ Le règlement fixe les exigences réglementaires et de sécurité. Il ne décrit
 
 ## 3. Les listes d'ingrédients
 
-Le règlement cosmétique prévoit trois types de listes pour encadrer les ingrédients :
+Le règlement encadre les ingrédients via des annexes :
 
-- **Liste positive** (annexe IV) : colorants **autorisés** en cosmétique.
-- **Liste restrictive** (annexe III) : ingrédients autorisés **sous conditions** (concentration maximale, zone d'application, type de produit).
-- **Liste négative** (annexe II) : substances **interdites** en cosmétique.
+- **Annexe II (liste négative)** : substances **interdites** (jamais autorisées).
+- **Annexe III (liste restrictive)** : substances **autorisées sous conditions** (dose max, zones, type de produit, avertissements…).
+- **Annexes IV / V / VI (listes “positives” selon l’usage)** :
 
-L'utilisation d'un ingrédient de la liste négative rend le produit **non conforme** au règlement.
+  - **Annexe IV** : **colorants** autorisés,
+  - **Annexe V** : **conservateurs** autorisés,
+  - **Annexe VI** : **filtres UV** autorisés.
+
+➡️ Un ingrédient interdit (annexe II) rend le produit **non conforme**.
+
 
 ---
 
@@ -96,8 +101,10 @@ La cosmétovigilance contribue à l'amélioration continue de la sécurité des 
 
 - Le règlement (CE) 1223/2009 encadre la mise sur le marché des cosmétiques dans l'UE
 - La personne responsable garantit la conformité et la sécurité du produit
-- Les ingrédients sont encadrés par trois listes (positive, restrictive, négative)
+- Les ingrédients sont encadrés par des annexes : interdits (II), restreints (III), et autorisés selon l'usage (IV colorants, V conservateurs, VI filtres UV)
 - La cosmétovigilance permet de surveiller les effets indésirables après commercialisation
 - Chaque acteur a un rôle précis dans la chaîne de sécurité
+
+
 
 ---
