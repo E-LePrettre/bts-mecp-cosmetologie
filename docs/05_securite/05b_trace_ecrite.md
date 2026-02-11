@@ -103,6 +103,9 @@ Il contient notamment :
 
 Les analyses réalisées sur la sécurité, l’usage et les effets indésirables d’un produit cosmétique s’inscrivent directement dans la logique du **DIP**.
 
+> **Conservation du DIP :** la personne responsable conserve le dossier d’information produit pendant **10 ans** à partir de la date à laquelle le **dernier lot** a été mis sur le marché.
+
+
 ---
 
 ## 8️⃣ Enjeux professionnels et lien avec l’épreuve E2
