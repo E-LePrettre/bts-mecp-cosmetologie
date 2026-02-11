@@ -14,6 +14,10 @@ Un **produit cosmétique** est défini par le règlement (CE) n° 1223/2009 comm
 
 > *Toute substance ou mélange destiné à être mis en contact avec les parties superficielles du corps humain (épiderme, systèmes pileux et capillaire, ongles, lèvres et organes génitaux externes) ou avec les dents et les muqueuses buccales, en vue exclusivement ou principalement de les nettoyer, les parfumer, d'en modifier l'aspect, de les protéger, de les maintenir en bon état ou de corriger les odeurs corporelles.*
 
+> **Point d’attention (Article 2(2)) :** une substance ou un mélange destiné à être **ingéré, inhalé, injecté ou implanté** dans le corps humain **n’est pas** considéré comme un produit cosmétique.
+
+
+
 Trois éléments essentiels caractérisent un produit cosmétique :
 
 - une **application sur les parties superficielles du corps**,
@@ -64,6 +68,13 @@ Le classement dépend de :
 Exemples : solutions hydroalcooliques, huiles essentielles, produits « anti-imperfections ».
 
 Le classement d'un produit frontière nécessite une **analyse argumentée**, comme attendu en situation professionnelle et à l'épreuve E2.
+
+> **Produits frontières :** il n’existe pas toujours une réponse “automatique”. Le classement se fait **au cas par cas**, en analysant :
+> 1) **la zone d’application** (peau, cheveux, dents, muqueuses…),
+> 2) **la finalité principale** (nettoyer / parfumer / embellir / protéger / maintenir en bon état),
+> 3) **les revendications** (ex. “désinfecte”, “traite”, “guérit”…),
+> 4) **le mode d’action** (superficiel vs action pharmacologique/curative).
+> Des guides existent (Commission européenne / Borderline Manual), mais l’argumentation reste centrale.
 
 ---
 
