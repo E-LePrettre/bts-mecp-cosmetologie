@@ -5,7 +5,7 @@ title: Fiche méthode 12 🧬
 
 # Fiche méthode 12 🧬 : Analyser la **pénétration cutanée** d’un actif (voie + facteurs + conclusion) – attendu E2
 
-**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** 
 
 ---
 
@@ -200,9 +200,9 @@ Je conclus que l’efficacité dépend de l’ensemble “actif + formulation + 
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S23** – Voies de pénétration et facteurs d’influence :contentReference[oaicite:5]{index=5}  
-- **S24** – Types d’études et allégations (prouver l’efficacité) :contentReference[oaicite:6]{index=6}  
-- **S25** – Tests d’efficacité courants (application pratique) :contentReference[oaicite:7]{index=7}  
+- **S23** – Voies de pénétration et facteurs d’influence   
+- **S24** – Types d’études et allégations (prouver l’efficacité)   
+- **S25** – Tests d’efficacité courants (application pratique)   
 
 ---
 

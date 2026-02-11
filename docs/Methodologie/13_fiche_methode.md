@@ -190,7 +190,7 @@ Je peux seulement conclure que le claim est [partiel / non démontré] tant que 
 ✅ Réponse attendue :
 > *La donnée préclinique montre un mécanisme possible (inhibition de mélanogenèse) mais ne prouve pas un effet visible sur l’utilisateur. Le claim “visible” nécessite une étude clinique sur volontaires (mesure de taches, photos, comparaison témoin). Le claim est donc non démontré à ce stade.*
 
-📌 Cette logique est directement dans l’objectif de S24 : relier preuves, claims et niveau de validation. :contentReference[oaicite:4]{index=4}
+📌 Cette logique est directement dans l’objectif de S24 : relier preuves, claims et niveau de validation. 
 
 ---
 
@@ -257,7 +257,7 @@ Je peux seulement conclure que le claim est [partiel / non démontré] tant que 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
 - **S24** – Études d’efficacité et allégations cosmétiques   
-- **S25** – Analyse de résultats expérimentaux fournis (témoin, placebo, interprétation) :contentReference[oaicite:6]{index=6}  
+- **S25** – Analyse de résultats expérimentaux fournis (témoin, placebo, interprétation)   
 
 ---
 

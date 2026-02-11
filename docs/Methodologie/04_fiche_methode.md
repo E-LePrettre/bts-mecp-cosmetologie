@@ -292,7 +292,7 @@ Pour chaque réponse rédigée :
 
 
 
-📌 Les fiches méthode (dossier Méthodologie) sont mobilisées **de manière transversale à partir de S7** (progression annuelle). :contentReference[oaicite:2]{index=2}
+📌 Les fiches méthode (dossier Méthodologie) sont mobilisées **de manière transversale à partir de S7** (progression annuelle). 
 
 - **S07** – 📝 Évaluation n°1 (type E2) : premières réponses argumentées
 - **S15** – 📝 Évaluation n°2 (type E2) : dossier complet + argumentation

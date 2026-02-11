@@ -5,7 +5,7 @@ title: Fiche méthode 03 📊
 
 # Fiche méthode 03 📊 : Interpréter un **graphique** ou un **tableau** (sans se tromper)
 
-**Compétence E2 : Interpréter – Analyser – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Interpréter – Analyser – Argumenter – Communiquer** 
 
 ---
 
@@ -23,7 +23,7 @@ En cosmétologie (et à l’épreuve E2), on te donne très souvent :
 * identifier un **maximum / minimum / palier / rupture**,
 * conclure en **2 à 5 phrases** avec une **preuve**.
 
-📌 Dans ta progression, cette compétence est mobilisée explicitement dès S8 (CMC) et dans les séances liées aux tests/efficacité. :contentReference[oaicite:1]{index=1}
+📌 Dans ta progression, cette compétence est mobilisée explicitement dès S8 (CMC) et dans les séances liées aux tests/efficacité. 
 
 ---
 
@@ -39,7 +39,7 @@ Une interprétation réussie répond à **3 questions** :
 
 👉 En E2, tu dois rendre ton raisonnement visible : **OBSERVATION → ANALYSE → CONCLUSION**
 
-(La même logique que la méthode O.A.C.J. de la FM01.) :contentReference[oaicite:2]{index=2}
+(La même logique que la méthode O.A.C.J. de la FM01.) 
 
 ---
 
@@ -208,7 +208,7 @@ Exemple :
 #### ✅ Réponse attendue en BTS
 > *On observe une rupture de pente vers 2,0 mmol/L : avant ce point la conductivité augmente selon une première tendance, puis la pente change après 2,0 mmol/L. On en déduit que la CMC est d’environ 2,0 mmol/L. En effet, la rupture correspond au passage d’un régime “monomères en solution” à un régime où des micelles apparaissent, ce qui modifie le comportement global en solution. En formulation, cela aide à choisir une concentration utile sans augmenter inutilement la quantité de tensioactif.*
 
-📌 Cette lecture est mobilisée dès la séance “CMC” dans la progression. :contentReference[oaicite:3]{index=3}
+📌 Cette lecture est mobilisée dès la séance “CMC” dans la progression. 
 
 ---
 
@@ -224,7 +224,7 @@ Exemple :
 #### ✅ Réponse attendue en BTS
 > *On observe que l’efficacité maximale est obtenue à 10% (valeur la plus élevée sur le graphique). Les concentrations inférieures donnent une efficacité plus faible. On en déduit que la concentration optimale est 10%. En effet, c’est la concentration qui donne le meilleur résultat mesurable dans les conditions du test, ce qui justifie une recommandation “efficacité”.*
 
-(Exemple cohérent avec la logique d’exploitation déjà présente dans la FM01.) :contentReference[oaicite:4]{index=4}
+(Exemple cohérent avec la logique d’exploitation déjà présente dans la FM01.) 
 
 ---
 
@@ -318,9 +318,9 @@ Pour chaque graphique ou tableau :
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S08** – Propriétés des tensioactifs en solution (lecture de graphique CMC) :contentReference[oaicite:5]{index=5}  
-- **S09 (TP 1)** – Mesure de la CMC (exploitation des résultats) :contentReference[oaicite:6]{index=6}  
-- **S24** – Études d’efficacité et allégations (graphiques de résultats) :contentReference[oaicite:7]{index=7}  
-- **S25** – Tests d’efficacité courants (tableaux/graphes de mesures) :contentReference[oaicite:8]{index=8}  
+- **S08** – Propriétés des tensioactifs en solution (lecture de graphique CMC)   
+- **S09 (TP 1)** – Mesure de la CMC (exploitation des résultats)   
+- **S24** – Études d’efficacité et allégations (graphiques de résultats)   
+- **S25** – Tests d’efficacité courants (tableaux/graphes de mesures)   
 
 ---

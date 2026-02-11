@@ -5,7 +5,7 @@ title: Fiche méthode 05 🧾
 
 # Fiche méthode 05 🧾 : Rédiger une **synthèse argumentée** (type E2)
 
-**Compétence E2 : Analyser – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Analyser – Argumenter – Communiquer** 
 
 ---
 
@@ -232,7 +232,7 @@ Recommandations : [1 à 3 actions concrètes adaptées au contexte].
 | Conclusion nette | Répond à la consigne |
 | Recommandations réalistes | Posture “expert” E2 |
 
-📌 **Même si tout n’est pas parfait, une synthèse structurée et argumentée rapporte beaucoup de points.** :contentReference[oaicite:2]{index=2}
+📌 **Même si tout n’est pas parfait, une synthèse structurée et argumentée rapporte beaucoup de points.** 
 
 ---
 
@@ -279,7 +279,7 @@ Avant de rendre, vérifie :
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-📌 Les fiches méthode (dossier Méthodologie) sont mobilisées de manière transversale à partir de **S7**. :contentReference[oaicite:3]{index=3}
+📌 Les fiches méthode (dossier Méthodologie) sont mobilisées de manière transversale à partir de **S7**. 
 
 - **S07** – 📝 Évaluation n°1 (type E2) : premières synthèses courtes
 - **S15** – 📝 Évaluation n°2 (type E2) : synthèse structurée + argumentation

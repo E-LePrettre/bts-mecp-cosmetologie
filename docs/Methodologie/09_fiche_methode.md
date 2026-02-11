@@ -5,7 +5,7 @@ title: Fiche méthode 09 📦
 
 # Fiche méthode 09 📦 : Choisir un **conditionnement** et argumenter la **stabilité** (contenant ↔ contenu) – attendu E2
 
-**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** 
 
 ---
 
@@ -299,7 +299,7 @@ On recommande [amélioration] et [contrôle] afin de sécuriser la stabilité et
 
 - **S18** – Contrôles qualité et vie du produit cosmétique (base des validations)   
 - **S19** – Stabilité et choix du conditionnement (contenant ↔ contenu)   
-- **S22** – Évaluation n°3 type E2 (mobilisation sécurité + formulation + analyse) :contentReference[oaicite:8]{index=8}  
+- **S22** – Évaluation n°3 type E2 (mobilisation sécurité + formulation + analyse)   
 
 
 

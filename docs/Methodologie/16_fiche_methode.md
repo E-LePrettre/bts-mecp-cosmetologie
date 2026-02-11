@@ -49,7 +49,7 @@ Tu dois être capable de :
 - zone : visage / corps / lèvres / enfants ?
 - type : gel douche, crème, parfum, déo…
 
-📌 Pourquoi : les règles (exposition, seuils, IFRA) dépendent du **type de produit**. :contentReference[oaicite:3]{index=3}
+📌 Pourquoi : les règles (exposition, seuils, IFRA) dépendent du **type de produit**. 
 
 ---
 
@@ -58,16 +58,16 @@ Tu cherches :
 - **Parfum** (ou **Aroma**)
 - puis les **composés odorants** (ex : limonene, linalool…)
 
-📌 Point clé (réglementaire) : l’UE a renforcé/étendu l’obligation d’étiquetage des allergènes parfumants via le règlement **(UE) 2023/1545** (modifie le règlement (CE) 1223/2009). :contentReference[oaicite:4]{index=4}
+📌 Point clé (réglementaire) : l’UE a renforcé/étendu l’obligation d’étiquetage des allergènes parfumants via le règlement **(UE) 2023/1545** (modifie le règlement (CE) 1223/2009). 
 
 ---
 
 ### 🔹 R – Rechercher les allergènes concernés (et les seuils)
 Principe : certains allergènes doivent être **nommés** dans la liste INCI **au-dessus de seuils** (valeurs classiques utilisées en UE :  
 - **leave-on : 0,001%**  
-- **rinse-off : 0,01%**). :contentReference[oaicite:5]{index=5}
+- **rinse-off : 0,01%**). 
 
-⚠️ Attention “actualité” : la liste d’allergènes déclarables est en cours d’extension (2023/1545 + calendrier de transition). :contentReference[oaicite:6]{index=6}
+⚠️ Attention “actualité” : la liste d’allergènes déclarables est en cours d’extension (2023/1545 + calendrier de transition). 
 
 ✅ En E2, ta posture attendue :
 - tu **appliques** la règle si le dossier donne les %,
@@ -76,11 +76,11 @@ Principe : certains allergènes doivent être **nommés** dans la liste INCI **a
 ---
 
 ### 🔹 F – Faire le lien avec l’IFRA (conformité “industrie”)
-L’IFRA = standards de la filière parfum : ils **limitent ou interdisent** certains ingrédients parfumants selon la **catégorie d’usage** (type de produit). :contentReference[oaicite:7]{index=7}
+L’IFRA = standards de la filière parfum : ils **limitent ou interdisent** certains ingrédients parfumants selon la **catégorie d’usage** (type de produit). 
 
 ✅ En dossier :
 - tu cherches une **attestation / certificat de conformité IFRA** du fournisseur de parfum,
-- tu vérifies que la **catégorie IFRA** correspond au produit (ex : produit rinçage vs leave-on). :contentReference[oaicite:8]{index=8}
+- tu vérifies que la **catégorie IFRA** correspond au produit (ex : produit rinçage vs leave-on). 
 
 📌 Formulation E2 typique :
 > *« Le parfum doit être fourni avec une attestation IFRA correspondant à l’usage du produit ; à défaut, la conformité ne peut pas être démontrée. »*
@@ -88,7 +88,7 @@ L’IFRA = standards de la filière parfum : ils **limitent ou interdisent** cer
 ---
 
 ### 🔹 U – Utiliser l’information “matière première / extraction”
-S27 mentionne extraction & MP aromatiques. :contentReference[oaicite:9]{index=9}
+S27 mentionne extraction & MP aromatiques. 
 
 En E2, tu peux relier **extraction** ↔ **profil de risque** (sans partir en dissertation) :
 
@@ -99,7 +99,7 @@ En E2, tu peux relier **extraction** ↔ **profil de risque** (sans partir en di
 ---
 
 ### 🔹 M – Mentionner les risques “HE” (si le dossier en parle)
-S27 demande explicitement la **toxicité des huiles essentie:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}
+S27 demande explicitement la **toxicité des huiles essentie
 
 Tu restes sur 3 risques “classiques” (sans médicaliser) :
 
@@ -109,7 +109,7 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 
 ✅ Posture E2 :
 - tu relies le risque au **type de produit** (leave-on visage ≠ gel douche),
-- tu proposes une **précaution** adap:contentReference[oaicite:12]{index=12}sibilisées, zone péri-oculaire…*)  
+- tu proposes une **précaution** adapsibilisées, zone péri-oculaire…*)  
 - tu dis ce qui manque si besoin (*composition exacte de l’HE, dosage, présence de molécules concernées…*).
 
 ---
@@ -130,11 +130,11 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 
 ### ✅ Pour conclure sur la conformité
 - *« La présence de “Parfum” indique un parfumage du produit. »*
-- *« La conformité IFRA doit être démontrée par une attestation du fournisseur correspondant à l’usage du produit. »* :contentReference[oaicite:13]{index=13}
+- *« La conformité IFRA doit être démontrée par une attestation du fournisseur correspondant à l’usage du produit. »* 
 
 ### ✅ Pour parler des allergènes sans inventer
 - *« La conclusion sur l’étiquetage des allergènes nécessite la teneur de chaque allergène (ou une fiche allergènes du parfum). »*
-- *« Au-delà des seuils réglementaires, les allergènes doivent être indiqués individuellement. »* :contentReference[oaicite:14]{index=14}
+- *« Au-delà des seuils réglementaires, les allergènes doivent être indiqués individuellement. »* 
 
 ### ✅ Pour proposer une précaution (sans médicaliser)
 - *« Compte tenu du profil (leave-on / zone exposée), une vigilance est nécessaire sur les composés sensibilisants et/ou phototoxiques. »*
@@ -147,7 +147,7 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 |----------|---------|--------------------------|
 | Inventer un allergène | “il y a sûrement du limonene” | pas de preuve, hors dossier |
 | Oublier le type de produit | conclure pareil pour gel douche et crème | pas de raisonnement |
-| Confondre IFRA et loi | “IFRA = obligatoire” | IFRA = standard de filière (volontaire), la loi UE reste obligatoire :contentReference[oaicite:15]{index=15} |
+| Confondre IFRA et loi | “IFRA = obligatoire” | IFRA = standard de filière (volontaire), la loi UE reste obligatoire  |
 | Extrapoler “HE dangereuse” | conclusion générale | manque de nuance/pro |
 
 ---
@@ -158,8 +158,8 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 |------------------|---------------------|
 | Dire “ce qui manque” | posture experte et honnête |
 | Lien type produit ↔ exigence | raisonnement attendu |
-| Mention IFRA + document fournisseur | conformité structurée :contentReference[oaicite:16]{index=16} |
-| Prudence sur allergènes (seuils) | rigueur réglementaire :contentReference[oaicite:17]{index=17} |
+| Mention IFRA + document fournisseur | conformité structurée  |
+| Prudence sur allergènes (seuils) | rigueur réglementaire  |
 
 ---
 
@@ -169,8 +169,8 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 |---|---------------------|
 | ☐ | Ai-je dit si le produit est **rinçage** ou **leave-on** ? |
 | ☐ | Ai-je repéré **Parfum/Aroma** et les composés odorants listés ? |
-| ☐ | Ai-je parlé des **allergènes** sans inventer (avec seuils si donnée) ? :contentReference[oaicite:18]{index=18} |
-| ☐ | Ai-je demandé/repéré une **attestation IFRA** si on parle de conformité ? :contentReference[oaicite:19]{index=19} |
+| ☐ | Ai-je parlé des **allergènes** sans inventer (avec seuils si donnée) ?  |
+| ☐ | Ai-je demandé/repéré une **attestation IFRA** si on parle de conformité ?  |
 | ☐ | Si HE/extrait : ai-je évoqué **sensibilisation/irritation/phototoxicité** de façon cadrée ? |
 | ☐ | Ma conclusion est-elle **limitée aux données** du dossier ? |
 
@@ -201,7 +201,7 @@ Tu restes sur 3 risques “classiques” (sans médicaliser) :
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S27** – Parfums et arômes (1/2) : MP aromatiques, IFRA, extraction, toxicité HE :contentReference[oaicite:20]{index=20}  
-- **S28** – Parfums et arômes (2/2) : notes, familles, composition parfumante :contentReference[oaicite:21]{index=21}  
+- **S27** – Parfums et arômes (1/2) : MP aromatiques, IFRA, extraction, toxicité HE   
+- **S28** – Parfums et arômes (2/2) : notes, familles, composition parfumante   
 
 

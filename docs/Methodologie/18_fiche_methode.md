@@ -118,7 +118,7 @@ Règles simples mais essentielles :
 
 ## 3️⃣ Gestion du temps (modèle “3 heures”)
 
-La séance 29 est un entraînement “conditions réelles”. :contentReference[oaicite:3]{index=3}
+La séance 29 est un entraînement “conditions réelles”. 
 
 ### 🕒 Répartition conseillée
 - **0–5 min** : Cadrer + hiérarchiser

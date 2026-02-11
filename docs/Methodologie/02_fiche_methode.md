@@ -5,7 +5,7 @@ title: Fiche méthode 02 🗂️
 
 # Fiche méthode 02 🗂️ : Analyser un **dossier documentaire type E2** (et répondre efficacement)
 
-**Compétence E2 : Analyser – Interpréter – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Analyser – Interpréter – Argumenter – Communiquer** 
 
 ---
 

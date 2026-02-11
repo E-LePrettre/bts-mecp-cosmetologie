@@ -5,7 +5,7 @@ title: Fiche méthode 07 🧪
 
 # Fiche méthode 07 🧪 : Identifier une **forme galénique** et la relier à l’**usage** (E2)
 
-**Compétence E2 : Identifier – Relier – Justifier – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Identifier – Relier – Justifier – Argumenter – Communiquer** 
 
 ---
 
@@ -280,12 +280,12 @@ Donc, on recommande [action réaliste] pour sécuriser / optimiser le produit.
 
 📌 Les **formes galéniques** sont introduites en S14 puis réinvesties dans la formulation et les évaluations type E2. 
 
-- **S14** – Formes cosmétiques : solutions, gels, émulsions (identification + lien usage) :contentReference[oaicite:4]{index=4}
+- **S14** – Formes cosmétiques : solutions, gels, émulsions (identification + lien usage) 
 - **S15** – 📝 Évaluation n°2 type E2 : pH + formes galéniques + formulation 
-- **S16** – Écriture d’une formule cosmétique : phases + conventions (lien direct avec la forme) :contentReference[oaicite:6]{index=6}
-- **S17** – 🧪 TP 3 Formulation d’un gel douche : ajustements + contrôles (réinvestissement) :contentReference[oaicite:7]{index=7}
-- **S20** – Justification d’un choix galénique : argumentation forme ↔ usage ↔ cible ↔ actif :contentReference[oaicite:8]{index=8}
-- **S22** – 📝 Évaluation n°3 type E2 : sécurité + formulation + formes galéniques :contentReference[oaicite:9]{index=9}
+- **S16** – Écriture d’une formule cosmétique : phases + conventions (lien direct avec la forme) 
+- **S17** – 🧪 TP 3 Formulation d’un gel douche : ajustements + contrôles (réinvestissement) 
+- **S20** – Justification d’un choix galénique : argumentation forme ↔ usage ↔ cible ↔ actif 
+- **S22** – 📝 Évaluation n°3 type E2 : sécurité + formulation + formes galéniques 
 
 ---
 

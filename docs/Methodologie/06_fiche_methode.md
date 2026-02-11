@@ -5,7 +5,7 @@ title: Fiche méthode 06 🧴
 
 # Fiche méthode 06 🧴 : Analyser une **liste INCI** (et en déduire des infos utiles pour E2)
 
-**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Analyser – Justifier – Argumenter – Communiquer** 
 
 ---
 
@@ -40,7 +40,7 @@ Une analyse INCI réussie doit répondre à **3 questions** :
 
 ### 🔹 I – Identifier l’ordre et les “zones”
 Règle de base : la liste est **en ordre décroissant** (du plus concentré au moins concentré).  
-📌 Particularité importante : les ingrédients à moins de **1%** peuvent être listés dans un ordre variable. :contentReference[oaicite:2]{index=2}
+📌 Particularité importante : les ingrédients à moins de **1%** peuvent être listés dans un ordre variable. 
 
 ✅ Donc tu découpes la liste en 3 zones :
 - **Zone 1 (début de liste)** : base / phase principale (eau, huiles, solvants…)
@@ -63,7 +63,7 @@ Tu classes rapidement les ingrédients dans des “tiroirs”.
 - **Colorants** : CI + chiffres
 - **Actifs** : hydratants, apaisants, kératolytiques, anti-âge, etc.
 
-📌 Dans ta progression, la notion “composition : excipients / actifs / additifs” est posée en S4. :contentReference[oaicite:3]{index=3}
+📌 Dans ta progression, la notion “composition : excipients / actifs / additifs” est posée en S4. 
 
 ---
 
@@ -103,7 +103,7 @@ En effet, [JUSTIFICATION : notion + lien pro].
 | “Cetrimonium Chloride”, “Behentrimonium…” | produit capillaire (cationique, démêlant) |
 | “CI 19140”, “CI 42090” | colorants |
 
-📌 Les tensioactifs sont étudiés en S6 et réinvestis ensuite (S8–S10–S17). :contentReference[oaicite:4]{index=4}
+📌 Les tensioactifs sont étudiés en S6 et réinvestis ensuite (S8–S10–S17). 
 
 ---
 
@@ -196,7 +196,7 @@ Dans un contexte professionnel, on recommande [action : mention / conseil / adap
 | Nuancer les risques (“peut”, “à vigilance”) | Posture scientifique |
 | Conclure + recommandation pro | Niveau E2 attendu |
 
-📌 Même si tu ne connais pas tous les ingrédients, **classer correctement et argumenter** rapporte des points. :contentReference[oaicite:6]{index=6}
+📌 Même si tu ne connais pas tous les ingrédients, **classer correctement et argumenter** rapporte des points. 
 
 ---
 
@@ -240,11 +240,11 @@ Pour une question INCI :
 
 📌 L’INCI est une notion spiralée : elle est introduite puis réinvestie régulièrement. 
 
-- **S03** – Lecture d’un étiquetage cosmétique (INCI + mentions) :contentReference[oaicite:8]{index=8}
-- **S04** – Composition d’un produit cosmétique (rôles des ingrédients) :contentReference[oaicite:9]{index=9}
-- **S06** – Tensioactifs : rôle et usage (repérage des familles) :contentReference[oaicite:10]{index=10}
-- **S07** – Évaluation n°1 type E2 (analyse INCI, sécurité) :contentReference[oaicite:11]{index=11}
-- **S10** – Analyse critique d’une formule lavante (cohérence formulation/usage) :contentReference[oaicite:12]{index=12}
+- **S03** – Lecture d’un étiquetage cosmétique (INCI + mentions) 
+- **S04** – Composition d’un produit cosmétique (rôles des ingrédients) 
+- **S06** – Tensioactifs : rôle et usage (repérage des familles) 
+- **S07** – Évaluation n°1 type E2 (analyse INCI, sécurité) 
+- **S10** – Analyse critique d’une formule lavante (cohérence formulation/usage) 
 
 ---
 

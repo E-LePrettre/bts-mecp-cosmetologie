@@ -12,7 +12,7 @@ title: Fiche méthode 10 ⚖️
 ## 🎯 Pourquoi cette fiche est importante
 
 Dans ta progression, la **séance 20** est un **débat argumenté** : on ne te demande plus seulement *“identifier une forme”*, mais de **défendre un choix** :  
-➡️ **forme ↔ usage ↔ cible ↔ actif ↔ contraintes**. :contentReference[oaicite:1]{index=1}
+➡️ **forme ↔ usage ↔ cible ↔ actif ↔ contraintes**. 
 
 En E2, ce type de question tombe souvent sous la forme :
 
@@ -166,7 +166,7 @@ En pratique, on vérifiera [contrôle] pour valider la qualité du produit.
 ✅ Réponse attendue :
 > *Le produit contient une phase aqueuse et sera ouvert souvent : le risque principal est la contamination. Un pot augmente ce risque car les doigts entrent en contact avec le produit. Je recommande un flacon pompe (ou airless) pour limiter l’air et le contact. On validera avec un suivi organoleptique et des contrôles adaptés à la vie du produit.*
 
-📌 Cet exemple réinvestit directement S18 (contrôles) et S19 (conditionnement). :contentReference[oaicite:2]{index=2}
+📌 Cet exemple réinvestit directement S18 (contrôles) et S19 (conditionnement). 
 
 ---
 
@@ -232,9 +232,9 @@ En pratique, on vérifiera [contrôle] pour valider la qualité du produit.
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S20** – Justification d’un choix galénique (débat argumenté) :contentReference[oaicite:3]{index=3}  
-- **S22** – Évaluation n°3 type E2 (sécurité + formulation + efficacité + réglementation) :contentReference[oaicite:4]{index=4}  
-- **S24–S25** – Efficacité / analyse de résultats (on compare aussi des options, des preuves, des études) :contentReference[oaicite:5]{index=5}  
+- **S20** – Justification d’un choix galénique (débat argumenté)   
+- **S22** – Évaluation n°3 type E2 (sécurité + formulation + efficacité + réglementation)   
+- **S24–S25** – Efficacité / analyse de résultats (on compare aussi des options, des preuves, des études)   
 
 ---
 

@@ -111,7 +111,7 @@ Tu conclus en 2 phrases :
 
 ## 3️⃣ Grille d’évaluation sensorielle (format “E2”)
 
-👉 À utiliser en atelier S26 pour comparer 2 produits proprement. :contentReference[oaicite:3]{index=3}
+👉 À utiliser en atelier S26 pour comparer 2 produits proprement. 
 
 | Critère | Produit A | Produit B |
 |---|---|---|
@@ -217,8 +217,8 @@ Je recommande A pour [cible/usage] et B pour [cible/usage], car [2 arguments].
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S26** – Évaluation sensorielle des produits finis (atelier sensoriel) :contentReference[oaicite:4]{index=4}  
-- **S27–S28** – Parfums et arômes : vocabulaire et cohérence “cible ↔ parfumage” :contentReference[oaicite:5]{index=5}  
+- **S26** – Évaluation sensorielle des produits finis (atelier sensoriel)   
+- **S27–S28** – Parfums et arômes : vocabulaire et cohérence “cible ↔ parfumage”   
 
 ---
 

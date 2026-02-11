@@ -5,19 +5,19 @@ title: Fiche méthode 17 🧴🌸
 
 # Fiche méthode 17 🧴🌸 : Construire et argumenter une **analyse olfactive** (notes – familles – pyramide) + **choix de parfumage** (cible ↔ produit) – attendu E2
 
-**Compétence E2 : Argumenter – Communiquer – Mobiliser** :contentReference[oaicite:0]{index=0}
+**Compétence E2 : Argumenter – Communiquer – Mobiliser** 
 
 ---
 
 ## 🎯 Pourquoi cette fiche est importante
 
 Dans ta progression, la **séance 28 – Parfums et arômes (2/2)** vise explicitement :  
-➡️ **notes olfactives (tête, cœur, fond)**, **familles**, **composition parfumante**, **parfumerie alcoolique**, **parfumage des produits cosmétiques**, + **conditionnement et stabilité d’un parfum**. :contentReference[oaicite:1]{index=1}
+➡️ **notes olfactives (tête, cœur, fond)**, **familles**, **composition parfumante**, **parfumerie alcoolique**, **parfumage des produits cosmétiques**, + **conditionnement et stabilité d’un parfum**. 
 
 En E2, tu peux avoir une situation type :
 - *« Choisir / justifier un parfumage en lien avec la cible et le produit »*
 - *« Décrire une composition parfumante et en déduire l’intention olfactive »*
-- *« Recommander un conditionnement cohérent avec la stabilité »* :contentReference[oaicite:2]{index=2}
+- *« Recommander un conditionnement cohérent avec la stabilité »* 
 
 ---
 
@@ -33,7 +33,7 @@ Une réponse solide contient **5 éléments** :
 | **4. Parfumage cosmétique** | parler **intensité**, **tenue**, **compatibilité** (texture, rinçage) |
 | **5. Conditionnement/stabilité** | citer 2 facteurs de stabilité + une recommandation d’emballage |
 
-📌 Point clé S28 : on ne “raconte” pas un parfum. On **argumente un choix**. :contentReference[oaicite:3]{index=3}
+📌 Point clé S28 : on ne “raconte” pas un parfum. On **argumente un choix**. 
 
 ---
 
@@ -45,7 +45,7 @@ Une réponse solide contient **5 éléments** :
 - Cible : ado, enfant, peaux sensibles, “haut de gamme”, masculin/féminin (si dossier le dit)
 
 📝 Exemple :
-*« Produit : gel douche rinçable, usage quotidien. Cible : public jeune recherchant une sensation de fraîcheur. »* :contentReference[oaicite:4]{index=4}
+*« Produit : gel douche rinçable, usage quotidien. Cible : public jeune recherchant une sensation de fraîcheur. »* 
 
 ---
 
@@ -54,7 +54,7 @@ Tu cherches dans le document :
 - nom du parfum / accord / famille (si donné)
 - liste de matières premières odorantes (si donnée)
 - indications “frais”, “floral”, “oriental”, etc.
-- support : **parfumerie alcoolique** vs **produit cosmétique parfumé** :contentReference[oaicite:5]{index=5}
+- support : **parfumerie alcoolique** vs **produit cosmétique parfumé** 
 
 ⚠️ Si le dossier ne donne pas la pyramide : tu **proposes une hypothèse** MAIS tu l’annonces :
 *« Hypothèse cohérente avec les descripteurs du dossier : … »*
@@ -99,7 +99,7 @@ Tu fais le lien **odeur ↔ cible ↔ promesse ↔ contexte** :
 - **Cible jeune / sport** → frais, agrumes, aromatique, “propre”
 - **Cible premium / soin cocooning** → floral doux, musqué, ambré, poudré
 - **Produit rinçable** → besoin d’un “impact” rapide (tête marquée)
-- **Produit leave-on** → éviter saturation : équilibre + confort olfactif :contentReference[oaicite:6]{index=6}
+- **Produit leave-on** → éviter saturation : équilibre + confort olfactif 
 
 ✅ Phrase E2 type :
 *« Ce profil est cohérent avec la cible car il renforce la promesse (fraîcheur / réconfort / sophistication) au moment d’usage. »*
@@ -111,7 +111,7 @@ Sans faire de chimie lourde, tu raisonnes “produit” :
 
 - **Gel douche (rinçage)** : intensité initiale importante, tenue faible acceptée
 - **Crème corps (leave-on)** : intensité modérée + tenue plus longue
-- **Parfumerie alcoolique** : projection + tenue attendues (dépend du type) :contentReference[oaicite:7]{index=7}
+- **Parfumerie alcoolique** : projection + tenue attendues (dépend du type) 
 
 ⚠️ Tu ne donnes pas de % si le dossier ne les fournit pas.
 
@@ -123,7 +123,7 @@ Tu cites 2 facteurs qui peuvent altérer l’odeur :
 - **chaleur**
 - **oxygène**
 - **interactions avec le packaging**
-- **compatibilité avec la base cosmétique** (odeur de base, tensioactifs…) :contentReference[oaicite:8]{index=8}
+- **compatibilité avec la base cosmétique** (odeur de base, tensioactifs…) 
 
 Puis tu proposes 1 recommandation :
 - flacon opaque / ambré
@@ -188,7 +188,7 @@ Je recommande donc un conditionnement [opaque/étanche/pompe] et un stockage ada
 | Trop de mots “subjectifs” | “magnifique, incroyable” | pas pro |
 | Oublier la cible | description “dans le vide” | pas E2 |
 | Ne pas parler du type de produit | même analyse pour gel douche et crème | manque de raisonnement |
-| Oublier stabilité/packaging | aucune mesure proposée | incomplet (S28) :contentReference[oaicite:9]{index=9} |
+| Oublier stabilité/packaging | aucune mesure proposée | incomplet (S28)  |
 
 ---
 
@@ -197,9 +197,9 @@ Je recommande donc un conditionnement [opaque/étanche/pompe] et un stockage ada
 | ✅ Bonne pratique | Pourquoi ça rapporte |
 |---|---|
 | Pyramide simple (1–2 descripteurs/note) | clair et structuré |
-| Lien explicite odeur ↔ cible ↔ usage | attendu S28/E2 :contentReference[oaicite:10]{index=10} |
+| Lien explicite odeur ↔ cible ↔ usage | attendu S28/E2  |
 | Mention intensité/tenue selon produit | raisonnement pro |
-| 2 risques de stabilité + 1 solution | mobilisation “conditionnement” (S28) :contentReference[oaicite:11]{index=11} |
+| 2 risques de stabilité + 1 solution | mobilisation “conditionnement” (S28)  |
 | Conclusion courte, argumentée | format E2 parfait |
 
 ---
@@ -245,7 +245,7 @@ Je recommande donc un conditionnement [opaque/étanche/pompe] et un stockage ada
 
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- **S28** – Parfums et arômes (2/2) : notes, familles, composition parfumante, conditionnement/stabilité :contentReference[oaicite:12]{index=12}  
+- **S28** – Parfums et arômes (2/2) : notes, familles, composition parfumante, conditionnement/stabilité   
 
 ---
 

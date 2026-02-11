@@ -12,7 +12,7 @@ title: Fiche méthode 08 🧾
 ## 🎯 Pourquoi cette fiche est importante
 
 Dans ta progression, la séance **S16** est dédiée à l’**écriture d’une formule cosmétique** :  
-➡️ **nom INCI**, **% massique**, **phases (aqueuse/huileuse)**, **ordre d’incorporation**. :contentReference[oaicite:1]{index=1}
+➡️ **nom INCI**, **% massique**, **phases (aqueuse/huileuse)**, **ordre d’incorporation**. 
 
 En E2, tu peux être évalué(e) sur :
 - **comprendre** une formule (identifier les phases, repérer les familles d’ingrédients),
@@ -47,7 +47,7 @@ Une formule cosmétique correcte doit respecter :
 Tu rappelles : **forme galénique + usage + cible**.
 
 📝 Exemple :
-*« On souhaite formuler un gel douche doux pour usage fréquent (peaux sensibles). »* :contentReference[oaicite:3]{index=3}
+*« On souhaite formuler un gel douche doux pour usage fréquent (peaux sensibles). »* 
 
 ---
 
@@ -208,7 +208,7 @@ Tu fais les contrôles rapides :
 | Contrôles proposés (pH, aspect…) | Démarche qualité |
 | Argumentation usage/cible | Compétence centrale E2 |
 
-📌 Même si tu n’as pas la “meilleure” formule, une formule **cohérente, lisible et justifiée** rapporte beaucoup. :contentReference[oaicite:8]{index=8}
+📌 Même si tu n’as pas la “meilleure” formule, une formule **cohérente, lisible et justifiée** rapporte beaucoup. 
 
 ---
 
@@ -254,10 +254,10 @@ Tu fais les contrôles rapides :
 
 📌 L’écriture de formule est introduite en **S16**, puis mobilisée en TP et en évaluation E2. 
 
-- **S16** – Écriture d'une formule cosmétique (INCI, %, phases, ordre d’incorporation) :contentReference[oaicite:10]{index=10}
-- **S17** – 🧪 TP 3 : formulation d’un gel douche (formuler / ajuster / contrôler) :contentReference[oaicite:11]{index=11}
-- **S20** – Débat argumenté : justification d’un choix galénique (forme ↔ usage ↔ cible) :contentReference[oaicite:12]{index=12}
-- **S22** – 📝 Évaluation n°3 type E2 : formulation + argumentation + communication :contentReference[oaicite:13]{index=13}
+- **S16** – Écriture d'une formule cosmétique (INCI, %, phases, ordre d’incorporation) 
+- **S17** – 🧪 TP 3 : formulation d’un gel douche (formuler / ajuster / contrôler) 
+- **S20** – Débat argumenté : justification d’un choix galénique (forme ↔ usage ↔ cible) 
+- **S22** – 📝 Évaluation n°3 type E2 : formulation + argumentation + communication 
 
 ---
 
