@@ -45,7 +45,7 @@ On s’appuie sur le **Règlement (CE) n°1223/2009**, les **instances de contr�
 
 ### 🔧 Fiches méthode associées
 
-➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode/)
+➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/01_fiche_methode/)
 
 ---
 

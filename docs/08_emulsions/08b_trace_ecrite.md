@@ -154,7 +154,7 @@ Ces notions seront réinvesties pour :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 03 – Interpréter un graphique ou un tableau**](../Methodologie/03_fiche_methode/)
+➡️ [**Fiche méthode 03 – Interpréter un graphique ou un tableau**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/03_fiche_methode/)
 
-➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode/)
+➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/04_fiche_methode/)
 

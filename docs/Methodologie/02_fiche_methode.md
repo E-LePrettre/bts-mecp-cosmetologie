@@ -261,11 +261,4 @@ Pour chaque question, vérifie :
 
 ---
 
-## 🔗 Cette fiche est utilisée dans les séances suivantes
 
-- [S07 – Étude de cas (dossier documentaire)](../07_Etude_de_cas/)
-- [S15 – Séance expertise (documents + argumentation)](../15_Expertise/)
-- [S22 – Étude type E2 (analyse + recommandations)](../22_Etude_type_E2/)
-
-
----

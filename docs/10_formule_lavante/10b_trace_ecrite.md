@@ -124,6 +124,6 @@ Cette séance prépare :
 
 ## 🔧 Outils méthodologiques associés
 
-➡️ [**Fiche méthode 06 – Analyser une liste INCI**](../Methodologie/06_fiche_methode/)
+➡️ [**Fiche méthode 06 – Analyser une liste INCI**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/06_fiche_methode/)
 
-➡️ [**Fiche méthode 10 – Argumenter un choix galénique**](../Methodologie/10_fiche_methode/)
+➡️ [**Fiche méthode 10 – Argumenter un choix galénique**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/10_fiche_methode/)
