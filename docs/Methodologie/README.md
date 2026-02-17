@@ -120,4 +120,4 @@ Les fiches ne remplacent pas le cours : elles servent de **repères méthodologi
 ## 🔗 Navigation
 
 
-➡️ Voir la progression : [Progression annuelle](../Progression/progression.md)
+➡️ Voir la progression : [Progression annuelle](../00_Progression/progression.md)
