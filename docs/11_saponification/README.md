@@ -95,6 +95,6 @@ Les étudiants apprennent que le savon est un tensioactif anionique, comprennent
 
 ## 🔗 Navigation
 
-⬅️ Séance précédente : [S10 – Analyse critique d'une formule lavante](../10_analyse_formule/)
+⬅️ Séance précédente : [S10 – Analyse critique d'une formule lavante](../10_formule_lavante/)
 
 ➡️ Séance suivante : [S12 – TP Saponification](../12_TP2/)
