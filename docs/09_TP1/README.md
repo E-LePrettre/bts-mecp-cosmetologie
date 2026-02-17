@@ -35,7 +35,7 @@ Ce premier TP de cosmétologie permet aux étudiants de **vérifier expérimenta
 
 📘 **Documents élèves**
 
-➡️ [Télécharger le TP 1 – CMC par conductimétrie (PDF)](01_TP.pdf)
+➡️ [Télécharger le TP 1 – CMC par conductimétrie (PDF)](09_TP.pdf)
 
 ---
 
@@ -128,6 +128,6 @@ Ce premier TP de cosmétologie permet aux étudiants de **vérifier expérimenta
 
 ## 🔗 Navigation
 
-⬅️ Séance précédente : [S08 – Propriétés des tensioactifs en solution (CMC)](../08_proprietes_TA/)
+⬅️ Séance précédente : [S08 – Propriétés des tensioactifs en solution (CMC)](../08_emulsions/)
 
-➡️ Séance suivante : [S10 – Analyse d'une formule lavante](../10_analyse_formule/)
+➡️ Séance suivante : [S10 – Analyse d'une formule lavante](../10_formule_lavante/)
