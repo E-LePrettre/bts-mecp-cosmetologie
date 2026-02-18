@@ -21,7 +21,7 @@ La **saponification** est la réaction chimique entre un **corps gras** (triglyc
 
 - **NaOH** (soude) → savon **dur** (pain de savon)
 - **KOH** (potasse) → savon **mou ou liquide**
-- Réaction **totale**, nécessite un **chauffage**
+- Réaction **totale** (si proportions adaptées) ; **accélérée par chauffage** et possible **à froid** (procédé artisanal, plus lent)
 - Le **glycérol** est un sous-produit naturel de la réaction
 
 ---
@@ -99,6 +99,9 @@ En solution aqueuse, au-dessus de la **CMC**, le savon forme des **micelles** qu
 
 
 Pour argumenter le choix d’une forme lavante (savon, syndet, gel douche), se référer à :
+
+
+➡️ [**Fiche méthode 04 – Analyser la cohérence d'une formule cosmétique (E2)**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/04_fiche_methode.md)  
 
 ➡️ [**Fiche méthode 10 – Argumenter un choix galénique (comparaison + décision) – attendu E2**](https://bts-mecp-cosmetologie-f42365.forge.apps.education.fr/Methodologie/10_fiche_methode/)
 
