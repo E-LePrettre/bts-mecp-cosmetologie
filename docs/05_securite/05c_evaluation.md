@@ -42,6 +42,40 @@ Votre mission est d’analyser la situation et d’indiquer les **actions à men
 
 ---
 
+## 📎 Documents supports (annexes)
+
+### 📄 Document 1 – Extrait d’un signalement consommateur
+
+**Produit :** Gel douche « Peau Douce »  
+**Usage :** 1 fois/jour, application sur peau humide, rinçage  
+**Zone d’application :** corps  
+**Date d’achat :** il y a 3 jours  
+**Symptômes signalés :** rougeurs + démangeaisons apparues 20 minutes après l’utilisation  
+**Évolution :** disparition en 24 h après arrêt du produit  
+**Antécédents :** peau sensible (déclaré par le consommateur)
+
+---
+
+### 📄 Document 2 – Informations produit (extrait étiquetage technique)
+
+- **Type de produit :** produit lavant rincé (gel douche)  
+- **Personne responsable :** indiquée sur l’emballage  
+- **N° de lot :** présent  
+- **Liste INCI :** présente (non demandée dans cette évaluation)  
+- **Précautions d’emploi :** usage externe, éviter le contact avec les yeux
+
+---
+
+### 📄 Document 3 – Définitions utiles (rappel)
+
+- **Personne responsable :** entité (fabricant/importateur, ou distributeur *s’il met le produit sous son nom/le modifie*) qui garantit la conformité ; constitue le DIP/PIF, notifie au CPNP et assure la cosmétovigilance.  
+- **Cosmétovigilance :** surveillance des effets indésirables après mise sur le marché ; en cas d’effet indésirable **grave**, déclaration obligatoire à l’autorité compétente.  
+- **Effet indésirable grave (EIG) :** EI entraînant hospitalisation, incapacité, risque vital, etc.  
+- **ANSM / DGCCRF :** autorités pouvant exiger des retraits ou sanctions en cas de risque ou non-conformité.  
+- **Dossier d’Information Produit (DIP / PIF) :** dossier réglementaire regroupant les éléments de sécurité, de justification et de traçabilité du produit (rapport de sécurité, BPF, preuves d’efficacité, etc.).
+
+---
+
 ## Exercice 1 – Définitions et cadre général  
 ### (4 points)
 
@@ -122,39 +156,7 @@ Un étudiant écrit simplement :
 
 ---
 
-## 📎 Documents supports (annexes)
 
-### 📄 Document 1 – Extrait d’un signalement consommateur
-
-**Produit :** Gel douche « Peau Douce »  
-**Usage :** 1 fois/jour, application sur peau humide, rinçage  
-**Zone d’application :** corps  
-**Date d’achat :** il y a 3 jours  
-**Symptômes signalés :** rougeurs + démangeaisons apparues 20 minutes après l’utilisation  
-**Évolution :** disparition en 24 h après arrêt du produit  
-**Antécédents :** peau sensible (déclaré par le consommateur)
-
----
-
-### 📄 Document 2 – Informations produit (extrait étiquetage technique)
-
-- **Type de produit :** produit lavant rincé (gel douche)  
-- **Personne responsable :** indiquée sur l’emballage  
-- **N° de lot :** présent  
-- **Liste INCI :** présente (non demandée dans cette évaluation)  
-- **Précautions d’emploi :** usage externe, éviter le contact avec les yeux
-
----
-
-### 📄 Document 3 – Définitions utiles (rappel)
-
-- **Sécurité d’un produit cosmétique :** absence de risque pour la santé humaine dans des conditions normales ou raisonnablement prévisibles d’utilisation.  
-- **Personne responsable :** entité qui garantit la conformité et la sécurité du produit cosmétique mis sur le marché.  
-- **Cosmétovigilance :** surveillance des effets indésirables liés à l’utilisation des produits cosmétiques après leur mise sur le marché.  
-- **ANSM / DGCCRF :** autorités participant à la surveillance et au contrôle des produits cosmétiques.  
-- **Dossier d’Information Produit (DIP) :** document réglementaire regroupant les éléments de sécurité, de justification et de traçabilité du produit.
-
----
 
 ## 🔍 Auto-évaluation
 

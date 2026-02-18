@@ -36,13 +36,14 @@ Ce règlement s’applique à l’ensemble des États membres de l’Union europ
 
 ## 3️⃣ La personne responsable
 
-La **personne responsable** est l’entité (fabricant, importateur ou distributeur) qui garantit que le produit cosmétique respecte l’ensemble des exigences réglementaires avant sa mise sur le marché.
+La **personne responsable** est l’entité (fabricant, importateur ou distributeur **s’il met le produit sous son nom ou le modifie**) qui garantit que le produit cosmétique respecte l’ensemble des exigences réglementaires avant sa mise sur le marché.
 
 Elle est responsable :
 
 - de la **sécurité du produit**,
 - de sa **conformité réglementaire**,
-- de la constitution et de la tenue des documents obligatoires,
+- de la constitution et de la tenue à jour des documents obligatoires,
+- de la **notification du produit au CPNP** (mise sur le marché),
 - des actions à mener en cas de problème de sécurité.
 
 La responsabilité de la mise sur le marché d’un produit cosmétique repose donc sur un **acteur clairement identifié**.
@@ -71,6 +72,9 @@ Elle permet :
 - de détecter des effets indésirables non identifiés lors de l’évaluation initiale,
 - d’analyser les risques potentiels,
 - de mettre en place des mesures correctives si nécessaire.
+
+👉 **Effet indésirable (EI)** : réaction nocive imputable à l’utilisation d’un produit cosmétique dans les conditions normales/raisonnablement prévisibles.
+👉 **Effet indésirable grave (EIG)** : EI entraînant une hospitalisation, une incapacité, un risque vital, etc. → **déclaration obligatoire** à l’autorité compétente par la personne responsable.
 
 La cosmétovigilance contribue directement à la **protection du consommateur**.
 
