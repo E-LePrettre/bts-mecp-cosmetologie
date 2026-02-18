@@ -74,7 +74,7 @@ title: 07 📋 Checklist E2 – Évaluation n°1
 | ✓ | Je sais... |
 |---|------------|
 | ☐ | Distinguer les **3 catégories** : excipients, actifs, additifs |
-| ☐ | Donner les proportions indicatives (excipient > 80 %, actif 0,1-10 %, additif < 5 %) |
+| ☐ | Donner des ordres de grandeur : excipient = support (souvent majoritaire) ; actif = action ciblée (dosage variable, souvent 0,1–10 %) ; additif = faible dose (souvent < 5 %) |
 | ☐ | Classer des ingrédients INCI dans leur catégorie |
 | ☐ | Expliquer le **double rôle** de certains ingrédients (ex : Glycerin, Tocopherol) |
 | ☐ | Citer des **familles d'actifs** cosmétiques (hydratants, apaisants, antioxydants…) |
@@ -253,7 +253,7 @@ title: 07 📋 Checklist E2 – Évaluation n°1
 | Confondre cosmétique et médicament | Le cosmétique ne revendique PAS d'effet thérapeutique |
 | Dire que le SLS est « dangereux » | Il est « plus détergent » ou « moins bien toléré » |
 | Croire que mousse = efficacité | La mousse est un critère sensoriel, pas d'efficacité |
-| Confondre excipient et actif | Excipient = support (> 80 %), actif = action ciblée (< 10 %) |
+| Confondre excipient et actif | Excipient = support (souvent majoritaire), actif = action ciblée (dosage variable) |
 | Oublier le double rôle du Glycerin | Humectant (excipient) ET hydratant (actif) |
 
 ## Erreurs sur la sécurité
@@ -334,12 +334,12 @@ Cette checklist s'enrichira au fil des évaluations :
 │   📌 En E2, on évalue une EXPERTISE PROFESSIONNELLE            │
 │                                                                 │
 │   ✓ Une réponse SANS justification = réponse INCOMPLÈTE        │
-│   ✓ « C'est dangereux » SANS argumentation = points PERDUS    │
-│   ✓ Le VOCABULAIRE cosmétologique est ÉVALUÉ                  │
-│   ✓ La POSTURE PROFESSIONNELLE compte autant que le fond      │
+│   ✓ « C'est dangereux » SANS argumentation = points PERDUS     │
+│   ✓ Le VOCABULAIRE cosmétologique est ÉVALUÉ                   │
+│   ✓ La POSTURE PROFESSIONNELLE compte autant que le fond       │
 │                                                                 │
 │   👉 Même en cas de doute, un raisonnement                     │
-│      bien structuré et bien argumenté est VALORISÉ !           │
+│      bien structuré et bien argumenté est VALORISÉ !            │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -352,14 +352,14 @@ Cette checklist s'enrichira au fil des évaluations :
 |--------|--------|
 | Définition cosmétique | 3 critères : nature, zones superficielles, finalités |
 | Règlement | CE 1223/2009 |
-| Excipient | > 80 % de la formule, support |
+| Excipient | Support de la formule, souvent majoritaire |
 | Actif | 0,1 à 10 %, action ciblée |
 | Additif | < 5 %, conservation/texture/couleur/parfum |
 | TA anioniques classiques | Lavant fort, douceur faible (SLS, SLES) |
 | TA anioniques doux | Lavant modéré, bonne douceur (Cocoyl Glutamate) |
 | TA amphotères | Lavant modéré, bonne douceur (Betaine) |
 | TA non ioniques | Lavant doux, très bonne douceur (Glucoside) |
-| Allergènes INCI | 26 substances, déclaration obligatoire > 0,001 % (rincé) |
+| Allergènes INCI | 26 substances, déclaration obligatoire > 0,01 % (rincé) ; > 0,001 % (non rincé) |
 | EI grave | Hospitalisation, incapacité, pronostic vital |
 
 ---

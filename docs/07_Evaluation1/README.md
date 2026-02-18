@@ -76,13 +76,13 @@ Cette première évaluation sommative de cosmétologie porte sur l'ensemble du *
    → anioniques (fort), amphotères (moyen), non ioniques (doux), cationiques (conditionnement)
 
 3. Je sais distinguer EXCIPIENT / ACTIF / ADDITIF ?
-   → excipient = support > 80 %, actif = action ciblée, additif = conservation/texture
+   → excipient = support (souvent majoritaire), actif = action ciblée (dosage variable), additif = conservation/texture
 
 4. Je sais analyser un SIGNALEMENT (EI, gravité, cause) ?
    → lien temporel, réversibilité, grave = hospitalisation
 
 5. Je peux citer 5 éléments du DIP ?
-   → description, sécurité, BPF, preuves, essais animaux
+   → description, sécurité, BPF, preuves, données relatives à l’expérimentation animale (le cas échéant)
 ```
 
 ---
