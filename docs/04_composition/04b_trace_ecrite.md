@@ -97,6 +97,7 @@ Un ingrédient n'est pas « bon » ou « mauvais » en soi : sa pertinence dépe
 - Trois catégories : **excipients** (base), **actifs** (action ciblée), **additifs** (auxiliaires)
 - Chaque ingrédient a une **fonction précise** dans la formule
 - Les actifs se répartissent en **familles** selon leur action cosmétique
+- Rappel  : ordre décroissant **au-dessus de 1 %** ; à **1 % et en dessous**, l’ordre peut être libre
 - La formulation est un **équilibre raisonné** entre efficacité, stabilité et sécurité
 - L'excipient est aussi important que l'actif : sans véhicule adapté, pas d'efficacité
 

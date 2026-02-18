@@ -44,7 +44,12 @@ Cette séance fait le lien entre la **lecture réglementaire** des produits (sé
 
 ### 🔧 Fiches méthode associées
 
+➡️ [Fiche méthode 06 – Analyser une liste INCI](../Methodologie/06_fiche_methode.md)
+
+➡️ [Fiche méthode 04 – Structurer une réponse rédigée type E2](../Methodologie/04_fiche_methode.md)
+
 ➡️ [Fiche méthode 01 – Justifier une réponse scientifique (O.A.C.J.)](../Methodologie/01_fiche_methode.md)
+
 
 ---
 
