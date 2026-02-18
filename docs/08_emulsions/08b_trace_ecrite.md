@@ -71,7 +71,7 @@ Ce changement d’organisation explique l’évolution différente des propriét
 
 ### Pouvoir moussant
 
-Le **pouvoir moussant** d'une solution de tensioactif est directement lié à la CMC :
+Le **pouvoir moussant** d'une solution de tensioactif est fortement influencé par la concentration (notamment autour/au-dessus de la CMC) :
 
 - **Sous la CMC** : mousse faible et instable.
 - **Au-dessus de la CMC** : mousse abondante et stable.
@@ -86,7 +86,8 @@ Au-dessus de la CMC, les **micelles** peuvent piéger les corps gras dans leur c
 - de les disperser dans la phase aqueuse,
 - de les éliminer au rinçage.
 
-Sous la CMC, il n'y a pas de micelles, donc **pas de solubilisation**.
+Sous la CMC, il n'y a pas de micelles, donc **pas de solubilisation micellaire**.
+
 
 ### CMC comparées de quelques tensioactifs
 
@@ -94,7 +95,7 @@ Sous la CMC, il n'y a pas de micelles, donc **pas de solubilisation**.
 |------------|---------|:---------:|
 | SLS | Anionique | 2,4 |
 | SLES | Anionique | 0,4 |
-| Cocamidopropyl Betaine | Amphotère | 0,01 |
+| Cocamidopropyl Betaine | Amphotère | 0,34 |
 | Decyl Glucoside | Non ionique | 0,7 |
 
 La CMC varie fortement selon la famille et la structure du tensioactif. Cela influence le choix de la concentration en formulation.

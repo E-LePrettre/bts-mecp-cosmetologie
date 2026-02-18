@@ -54,6 +54,10 @@ Cette séance constitue une **préparation explicite à l’épreuve E2 – Expe
 
 ➡️ [Télécharger l’évaluation formative (PDF)](08c_evaluation.pdf)
 
+🔗 **Lien explicite avec la méthode :**
+
+➡️ [Fiche méthode 08 – Analyser un graphique de CMC (E2)](../Methodologie/08_fiche_methode.md)
+
 ---
 
 ## 🔬 "Test rapide" : CMC et formulation
@@ -64,7 +68,7 @@ Cette séance constitue une **préparation explicite à l’épreuve E2 – Expe
 
 2. Sous la CMC, que se passe-t-il ?
    → Monomères dispersés, pas de micelles
-   → Pas de solubilisation, pas de mousse stable, pas de détergence
+   → Solubilisation micellaire très limitée, mousse moins stable, détergence limitée
 
 3. Au-dessus de la CMC, que se passe-t-il ?
    → Micelles formées → solubilisation des graisses, mousse, détergence

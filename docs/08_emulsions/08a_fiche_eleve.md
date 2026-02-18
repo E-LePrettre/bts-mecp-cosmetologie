@@ -59,7 +59,7 @@ Vous travaillez dans un **laboratoire cosmétique**. Lors du développement d'un
 |------------|---------|:------------:|:---------:|
 | Sodium Lauryl Sulfate (SLS) | Anionique | 8,2 | 2,4 |
 | Sodium Laureth Sulfate (SLES) | Anionique | 1,0 | 0,4 |
-| Cocamidopropyl Betaine | Amphotère | 0,04 | 0,01 |
+| Cocamidopropyl Betaine | Amphotère | 0,97 | 0,34 |
 | Decyl Glucoside | Non ionique | 2,2 | 0,7 |
 
 ---
