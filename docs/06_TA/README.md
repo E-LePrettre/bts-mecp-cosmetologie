@@ -61,7 +61,7 @@ Ce chapitre constitue une **étape clé de la progression** et une **préparatio
 
 ## 🔬 "Test rapide" : Identifier un tensioactif dans une liste INCI
 
-\```
+
 1. Le nom contient-il "Sulfate", "Sulfonate", "Cocoate" ?
    → Probablement ANIONIQUE (lavant puissant)
 
