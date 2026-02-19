@@ -35,15 +35,7 @@ Cette séance introduit les formes galéniques cosmétiques : solutions, gels, �
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | FE3 (fiche d'exercices 3 niveaux) avec TD différencié |
-| **Prérequis** | S04 (composition), S06 (tensioactifs), S08 (CMC, micelles), S11 (savon solide) |
-
----
 
 ## 🔬 "Test rapide" : Les formes cosmétiques
 
@@ -78,7 +70,7 @@ Cette séance introduit les formes galéniques cosmétiques : solutions, gels, �
 | Chaque forme a son stabilisant | Émulsionnant (émulsion), gélifiant (gel/suspension), raidisseur (poudre) |
 | H/E = eau continue, huile dispersée | Fluide, léger, se rince → lait, crème de jour |
 | E/H = huile continue, eau dispersée | Onctueux, riche, ne se rince pas → cold cream, crème modelage |
-| Microémulsion = TA × 4-5 | Pénétration cutanée accrue, aspect transparent |
+| Microémulsion = TA × 4-5 | Aspect transparent ; pénétration des actifs **potentiellement favorisée** (selon formulation) |
 | Coalescence = rupture émulsion | Les gouttelettes grossissent → séparation des phases |
 | FM07 = méthode G.A.L.E.N.I.Q.U.E. | Identifier + preuves + relier usage/cible |
 

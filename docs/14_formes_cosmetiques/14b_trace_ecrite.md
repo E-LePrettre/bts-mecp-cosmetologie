@@ -78,7 +78,7 @@ Phase aqueuse + Phase huileuse + Émulsionnant
 
 ### Microémulsions
 
-Gouttelettes si fines que le mélange paraît **transparent**. Concentration en tensioactif **4 à 5 fois supérieure**. Augmentent considérablement la **pénétration cutanée** des actifs.
+Gouttelettes si fines que le mélange paraît **transparent**. Concentration en tensioactif **4 à 5 fois supérieure**. Elles **peuvent favoriser** la **pénétration cutanée** de certains actifs (selon la formulation).
 
 ### Instabilité
 
@@ -99,8 +99,8 @@ Une émulsion est par nature **instable** : les gouttelettes grossissent et fini
 |-------|:-:|:-:|------------|----------|
 | **Suspension** | Liquide | Solide | Gélifiant | Fond de teint, vernis, gommage |
 | **Mousse** | Liquide | Gaz | Émulsionnant + stabilisateur | Mousse coiffante, fond de teint mousse |
-| **Aérosol** | Gaz | Liquide/solide | Gaz pulseur | Déodorant spray, shampoing sec, laque |
-| **Poudre** | Poudre | Poudre | Raidisseur d'interface | Poudre libre, fard, blush |
+| **Aérosol** | Gaz | Liquide/solide | Gaz propulseur | Déodorant spray, shampoing sec, laque |
+| **Poudre** | Raidisseur d'interface | Limite l'agglomération et améliore l'écoulement des poudres |
 
 ---
 

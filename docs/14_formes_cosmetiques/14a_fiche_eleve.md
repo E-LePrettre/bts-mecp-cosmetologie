@@ -44,7 +44,7 @@ title: 14 📝 Fiche élève
 
 | Forme | Composition | Caractéristiques | Exemples cosmétiques |
 |-------|-------------|-----------------|---------------------|
-| **Solution vraie** | Solvant + soluté, miscibles | Fluide, transparent, homogène | Lotion tonique, eau micellaire, huile corporelle |
+| **Solution vraie** | Solvant + soluté, miscibles | Fluide, transparent, homogène | Lotion tonique, eau florale, solution hydroalcoolique |
 | **Solution ionique** | Soluté dissocié en ions dans l'eau | Conductrice (électrolyte) | Solutions pour iontophorèse, amincissants à électrodes |
 | **Solution non ionique** | Soluté moléculaire | Non conductrice, fluide | Lotions visage, eaux florales |
 | **Gel hydrophile** | Eau + gélifiant (réseau 3D) | Texture « prise », non coulant, frais | Gel coiffant, gel amincissant, gel nettoyant |
@@ -79,7 +79,7 @@ title: 14 📝 Fiche élève
 - **E/H/E** : gouttelettes d'huile contenant elles-mêmes de l'eau, dispersées dans l'eau → vectorisation d'actifs hydrophiles
 - **H/E/H** : gouttelettes d'eau contenant de l'huile, dispersées dans l'huile
 
-**Microémulsions** : particules si fines que le mélange paraît transparent. Concentration en TA 4 à 5 fois supérieure. Augmentent considérablement la **pénétration cutanée**.
+**Microémulsions** : particules si fines que le mélange paraît transparent. Concentration en TA 4 à 5 fois supérieure. Elles **peuvent favoriser la pénétration cutanée** de certains actifs (selon la formulation), avec vigilance sur la tolérance.
 
 **Instabilité** : une émulsion est par nature instable. Les gouttelettes grossissent et finissent par se séparer → **coalescence** (rupture de l'émulsion).
 
@@ -97,7 +97,7 @@ title: 14 📝 Fiche élève
 |-------|:-:|:-:|------------|---------------------|
 | **Suspension** | Liquide | Solide (fines particules) | Gélifiant | Fond de teint, vernis à ongles, gommage à grains |
 | **Mousse** | Liquide / émulsion | Gaz | Émulsionnant + stabilisateur de mousse | Mousse coiffante, fond de teint mousse |
-| **Aérosol** | Gaz | Liquide ou solide | Gaz pulseur (propane, butane, azote) | Déodorant spray, shampoing sec, laque |
+| **Aérosol** | Gaz | Liquide ou solide | Gaz propulseur (propane, butane, azote) | Déodorant spray, shampoing sec, laque |
 | **Poudre** | Poudre (pulvérulente) | Poudre (pulvérulente) | Raidisseur d'interface | Poudre libre, fard, blush, terre de soleil |
 
 ---
@@ -119,7 +119,7 @@ title: 14 📝 Fiche élève
 |-------|----------------------|------|
 | Émulsion | **Émulsionnant** (tensioactif) | Maintient eau + huile mélangées |
 | Gel / Suspension | **Gélifiant** | Emprisonne le solvant dans un réseau 3D / empêche la sédimentation |
-| Poudre | **Raidisseur d'interface** | Annule les charges pour mélanger les poudres de façon durable |
+| Poudre | **Raidisseur d'interface** | Améliore l'écoulement et limite l'agglomération des poudres |
 | Mousse | **Émulsionnant** + stabilisateur de mousse | Maintient le gaz dispersé dans le liquide |
 
 ---
@@ -192,7 +192,7 @@ Pour chaque produit, identifiez la **forme galénique** et justifiez par **un in
 
 <br><br><br>
 
-**d)** Les microémulsions ont une concentration en tensioactif 4 à 5 fois plus élevée que les émulsions simples. Quel est l'avantage principal des microémulsions pour la pénétration des actifs ?
+**d)** Les microémulsions ont une concentration en tensioactif 4 à 5 fois plus élevée que les émulsions simples. Quel est l'avantage **potentiel principal** des microémulsions pour la pénétration des actifs ?
 
 <br><br>
 
