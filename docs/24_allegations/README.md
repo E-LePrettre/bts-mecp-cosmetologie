@@ -75,7 +75,7 @@ En cosmétologie, une allégation n’est jamais “juste” parce qu’elle est
 
 6. Pourquoi un groupe placebo est-il important ?
    → Pour mesurer l’EFFET RÉEL (effet total – effet placebo) et éviter de surestimer la performance
-````
+```
 
 ---
 
@@ -105,9 +105,18 @@ En cosmétologie, une allégation n’est jamais “juste” parce qu’elle est
 
 ---
 
+## 📘 Fiches méthode associées
+
+| N° | Titre | Usage dans S24 |
+|----|-------|---------------|
+| FM03 | Interpréter un graphique / tableau (Décrire → Observer → Comparer → Interpréter + limite) | Exploiter les résultats d’études (tableaux, % d’amélioration, p-value) |
+| FM01 | Justifier (O.A.C.J.) | Rédiger un avis professionnel argumenté (acceptable / à corriger / à refuser) |
+
+---
+
 ## 🔗 Navigation
 
-⬅️ Séance précédente : [S23 – Pénétration cutanée** (dossier + efficacité)](../23_penetration/)
+⬅️ Séance précédente : [S23 – Pénétration cutanée (dossier + efficacité)](../23_penetration/)
 
 ➡️ Séance suivante : [S25 – Analyse de résultats expérimentaux fournis](../25_analyse/)
 
