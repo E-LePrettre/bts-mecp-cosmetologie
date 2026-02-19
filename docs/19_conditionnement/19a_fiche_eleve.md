@@ -90,9 +90,9 @@ Lors de la mise en contact d'un produit avec son conditionnement, des **échange
 | **Pot** (couvercle vissé) | Perception luxe, geste soin, grand volume | Air + doigts = oxydation + contamination | Crèmes épaisses, masques, baumes |
 | **Tube** (souple, plastique ou alu) | Hygiénique (pas de contact doigts), peu d'air résiduel | Difficile de doser précisément, tube métal = réaction possible | Crèmes, gels, dentifrices |
 | **Flacon pompe** | Dosage précis, hygiénique | Air résiduel dans le flacon, coût | Laits, lotions, démaquillants |
-| **Flacon airless** | Aucun contact air ni doigts, dosage précis, protection maximale | Coût élevé, recharge difficile | Sérums, crèmes anti-âge, actifs sensibles (Retinol, vit. C) |
+| **Flacon airless** | Limite fortement le contact avec l'air et supprime le contact avec les doigts, dosage précis, protection élevée | Coût élevé, recharge difficile | Sérums, crèmes anti-âge, actifs sensibles (Retinol, vit. C) |
 | **Spray / aérosol** | Application uniforme, pas de contact | Gaz propulseur, coût, risque d'inhalation, réglementation | Brumes, laques, déodorants |
-| **Monodose** | Stérilité, pas de conservateur nécessaire, pratique en voyage | Usage unique = déchets, coût par dose | Ampoules sérums, soins en cabine |
+| **Monodose** | Hygiène améliorée, risque de contamination réduit, pratique en voyage | Usage unique = déchets, coût par dose | Ampoules sérums, soins en cabine |
 
 ---
 

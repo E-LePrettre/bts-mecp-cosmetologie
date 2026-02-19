@@ -58,9 +58,9 @@ title: 19 📖 Trace écrite
 | **Pot** | Perception luxe, geste soin | Air + doigts (oxydation, contamination) | Crèmes épaisses, masques |
 | **Tube** | Hygiénique, peu d'air | Dosage imprécis | Crèmes, gels, dentifrices |
 | **Flacon pompe** | Dosage précis, hygiénique | Air résiduel | Laits, lotions |
-| **Flacon airless** | **Aucun contact air ni doigts** | Coût élevé | Sérums, actifs sensibles |
+| **Flacon airless** | **Limite fortement l'exposition à l'air ; pas de contact doigts** | Coût élevé | Sérums, actifs sensibles |
 | **Spray / aérosol** | Application uniforme | Gaz propulseur, inhalation | Brumes, laques, déodorants |
-| **Monodose** | Stérile, sans conservateur | Usage unique, déchets | Ampoules, soins cabine |
+| **Monodose** | Hygiène renforcée, contamination réduite | Usage unique, déchets | Ampoules, soins cabine |
 
 ---
 
