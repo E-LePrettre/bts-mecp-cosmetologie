@@ -15,7 +15,7 @@ title: 27 📖 Trace écrite
 | **Rétronasale** | Bouche/pharynx → épithélium olfactif (par l'arrière) | Baume à lèvres, dentifrice |
 
 <p style="text-align:center;">
-  <img src="./images/systeme_olfactif_schema.png" alt="Système olfactif" width="85%"><br>
+  <img src="/27_parfums/images/systeme_olfactif_schema.png" alt="Système olfactif" width="85%"><br>
   <em>Système olfactif : trajet des molécules odorantes</em>
 </p>
 
@@ -42,37 +42,37 @@ title: 27 📖 Trace écrite
 | **CO₂ supercritique** | CO₂ haute pression → dépressurisation | Extrait CO₂ | Toutes (innovant) |
 
 <p style="text-align:center;">
-  <img src="./images/hydrodistillation_schema_alambic.png" alt="Hydrodistillation - alambic" width="75%"><br>
+  <img src="/27_parfums/images/hydrodistillation_schema_alambic.png" alt="Hydrodistillation - alambic" width="75%"><br>
   <em>Hydrodistillation : principe (alambic / serpentin / essencier)</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/hydrodistillation_etapes.png" alt="Hydrodistillation - étapes" width="85%"><br>
+  <img src="/27_parfums/images/hydrodistillation_etapes.png" alt="Hydrodistillation - étapes" width="85%"><br>
   <em>Hydrodistillation : condensation, décantation et récupération de l’HE</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/expression_agrumes_schema.png" alt="Expression des agrumes" width="85%"><br>
+  <img src="/27_parfums/images/expression_agrumes_schema.png" alt="Expression des agrumes" width="85%"><br>
   <em>Expression à froid : extraction des HE d’agrumes (zestes)</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/extraction_solvant_concrete_absolue_schema.png" alt="Extraction au solvant : concrète et absolue" width="90%"><br>
+  <img src="/27_parfums/images/extraction_solvant_concrete_absolue_schema.png" alt="Extraction au solvant : concrète et absolue" width="90%"><br>
   <em>Extraction au solvant volatil : concrète / résinoïdes → absolues</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/extraction_solvant_industriel_schema.jpg" alt="Extraction au solvant industriel" width="90%"><br>
+  <img src="/27_parfums/images/extraction_solvant_industriel_schema.jpg" alt="Extraction au solvant industriel" width="90%"><br>
   <em>Extraction au solvant : schéma industriel (recyclage du solvant)</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/co2_supercritique_schema.jpg" alt="CO2 supercritique - schéma" width="90%"><br>
+  <img src="/27_parfums/images/co2_supercritique_schema.jpg" alt="CO2 supercritique - schéma" width="90%"><br>
   <em>CO₂ supercritique : principe d’extraction</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/co2_supercritique_machine.jpg" alt="CO2 supercritique - machine" width="40%"><br>
+  <img src="/27_parfums/images/co2_supercritique_machine.jpg" alt="CO2 supercritique - machine" width="40%"><br>
   <em>Exemple d’équipement d’extraction au CO₂ supercritique</em>
 </p>
 
@@ -96,12 +96,12 @@ title: 27 📖 Trace écrite
 | **Fond** | Peu volatile | 6-24h+ |
 
 <p style="text-align:center;">
-  <img src="./images/pyramide_olfactive_schema.png" alt="Pyramide olfactive" width="80%"><br>
+  <img src="/27_parfums/images/pyramide_olfactive_schema.png" alt="Pyramide olfactive" width="80%"><br>
   <em>Pyramide olfactive : notes de tête / cœur / fond</em>
 </p>
 
 <p style="text-align:center;">
-  <img src="./images/familles_olfactives_arbre.png" alt="Familles olfactives" width="95%"><br>
+  <img src="/27_parfums/images/familles_olfactives_arbre.png" alt="Familles olfactives" width="95%"><br>
   <em>Familles olfactives : grandes familles et sous-familles</em>
 </p>
 
