@@ -66,7 +66,7 @@ Niacinamide, Carbomer, Sodium Hydroxide, Phenoxyethanol, Parfum
 | **B** (huileuse) | Corps gras + émulsionnants lipophiles | Chauffée 70-75 °C | Huiles, beurres, cires, alcools gras, émulsionnants |
 | **C** (ajouts à froid) | Ingrédients thermosensibles | < 40 °C | Conservateurs, parfum, actifs fragiles (vitamines), colorants, ajusteur pH |
 
-**Règle d'or** : ce qui craint la chaleur va en **phase C** (parfum, conservateurs, actifs fragiles).
+**Règle d'or** : les ingrédients fragiles, volatils ou ajoutés en fin de procédé vont généralement en **phase C** (parfum, conservateurs, actifs fragiles, ajusteur pH).
 
 ---
 

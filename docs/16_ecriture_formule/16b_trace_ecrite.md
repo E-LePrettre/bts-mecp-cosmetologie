@@ -31,7 +31,7 @@ La **formule de laboratoire** contient toutes les informations nécessaires à l
 | **B** (huileuse) | Corps gras + émulsionnants lipophiles | 70-75 °C | Huiles, beurres, cires, alcools gras, émulsionnants |
 | **C** (ajouts à froid) | Ingrédients thermosensibles | < 40 °C | Conservateurs, parfum, actifs fragiles, ajusteur pH |
 
-**Règle** : ce qui **craint la chaleur** → phase C (parfum, conservateurs, vitamines, extraits végétaux).
+**Règle** : les ajouts **fragiles**, **volatils** ou de **réglage final** sont généralement placés en phase C (parfum, conservateurs, vitamines, ajusteur pH…).
 
 **Cas particuliers** :
 - **Gel** : pas de phase B (pas de corps gras). Seulement A + C.

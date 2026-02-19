@@ -35,17 +35,7 @@ Deuxième évaluation sommative type E2. Dossier documentaire complet sur une cr
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | EVAL – Écrit individuel, dossier documentaire type E2 |
-| **Séances évaluées** | S01 à S14 |
-| **Barème** | /20 (5 parties : A-B-C-D-E) |
-| **Documents autorisés** | Aucun |
-
----
 
 ## 🔬 Contenu de l'évaluation
 

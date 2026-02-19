@@ -35,15 +35,7 @@ Cette séance apprend aux étudiants à lire et écrire une formule cosmétique 
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | FE3 (fiche d'exercices 3 niveaux) avec TD différencié |
-| **Prérequis** | S03 (INCI), S04 (composition), S06 (TA), S14 (formes galéniques) |
-
----
 
 ## 🔬 "Test rapide" : Écriture d'une formule
 
