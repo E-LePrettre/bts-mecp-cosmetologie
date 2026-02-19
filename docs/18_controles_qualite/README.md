@@ -29,16 +29,7 @@ Séance d'étude de cas (EC) sur les contrôles qualité cosmétiques et la vie 
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | EC (étude de cas) avec TD différencié 3 niveaux |
-| **Prérequis** | S05 (DIP), S14 (formes galéniques, stabilité), S17 (TP contrôles) |
-| **Coordination PC** | Mesures physiques (pH-mètre, conductimètre, viscosimètre) |
-
----
 
 ## 🔬 "Test rapide" : Contrôles qualité
 
@@ -74,7 +65,7 @@ Séance d'étude de cas (EC) sur les contrôles qualité cosmétiques et la vie 
 | Conductimétrie | H/E = conduit (eau) ; E/H = ne conduit pas (huile) |
 | Stabilité accélérée | 40 °C / 75 % HR → T0, T+1, T+3, T+6 mois |
 | BPF | ISO 22716, exigées par CE 1223/2009 |
-| PAO | Obligatoire si durabilité > 30 mois |
+| PAO | Obligatoire si la durabilité minimale est > 30 mois |
 | Conforme / non conforme | Vocabulaire E2 (pas « bon / mauvais ») |
 
 ---

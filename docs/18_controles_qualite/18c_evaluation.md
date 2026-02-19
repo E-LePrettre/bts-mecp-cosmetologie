@@ -80,7 +80,7 @@ Contrôle :
 
 ## Exercice 4 – Challenge test (2 points)
 
-7\. Le challenge test a montré une réduction de 3 log (÷ 1 000) des bactéries en 14 jours. Ce résultat est-il satisfaisant ? Justifiez.
+7\. Le challenge test a montré une réduction de 3 log (÷ 1 000) des bactéries en 14 jours. Dans cet exercice, on considère qu'une réduction ≥ 2 log en 14 jours est satisfaisante. Ce résultat est-il satisfaisant ? Justifiez.
 
 <br><br>
 

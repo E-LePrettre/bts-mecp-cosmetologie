@@ -44,7 +44,8 @@ La formule est **définitive** après la mise au point. Tous les résultats de c
 
 ### C – Contrôles microbiologiques
 
-- **Challenge test** : on contamine volontairement le produit → on vérifie que le conservateur élimine les germes (réduction ≥ 2 log en 14 jours)
+- **Challenge test** : on contamine volontairement le produit → on vérifie que le conservateur élimine les germes (dans cette séance : critère simplifié ≥ 2 log en 14 jours)
+
 - **Dénombrement de germes** : comptage sur produit fini (normes ISO). Limites : < 1 000 UFC/g (corps) ou < 100 UFC/g (yeux, muqueuses)
 
 ### D – Contrôles de stabilité
@@ -74,7 +75,7 @@ Depuis 2013 : **in vitro uniquement** (pas de tests sur animaux en Europe).
 | Locaux | Filtration air, fabrication sous vide |
 | Personnel | EPI (gants, charlotte, masque), formation |
 | Conditionnement | Flacons airless, tubes operculés |
-| Consommateur | **PAO** (obligatoire si durabilité > 30 mois) |
+| Consommateur | **PAO** (obligatoire si la durabilité minimale est > 30 mois) |
 
 **BPF** = Bonnes Pratiques de Fabrication (norme ISO 22716), exigées par le règlement CE 1223/2009.
 
