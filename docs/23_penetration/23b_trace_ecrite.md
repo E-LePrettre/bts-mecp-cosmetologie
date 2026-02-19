@@ -1,9 +1,9 @@
 ---
 author: ELP
-title: 23 Trace ecrite
+title: 23  📖 Trace ecrite
 ---
 
-# S23 - Penetration cutanee et efficacite des actifs - Trace ecrite
+# S23 - Penetration cutanee et efficacite des actifs  📖  Trace ecrite
 
 ---
 

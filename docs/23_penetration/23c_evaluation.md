@@ -1,10 +1,10 @@
 ---
 author: ELP
-title: 23 Evaluation formative
+title: 23 🖋️ Évaluation formative
 ---
 
 # S23 - Penetration cutanee et efficacite des actifs
-## Evaluation formative
+## 🖋️ Évaluation formative
 
 Duree : 20 minutes
 Bareme indicatif : /10
