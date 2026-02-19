@@ -120,8 +120,19 @@ Les produits ci-dessous sont utilisés **sans test physique**, uniquement via do
 
 ---
 
-## 🔗 Navigation
+## 📘 Fiches méthode associées
 
+| N° | Titre | Usage dans S26 |
+|----|-------|---------------|
+| FM06 | Analyser une liste INCI | Repérer les ingrédients marqueurs et relier rôle ↔ sensoriel attendu |
+| FM04 | Analyser la cohérence d’une formule cosmétique (E2) | Construire la conclusion argumentée (cohérence + limites) |
+| FM10 | Argumenter un choix galénique | Relier galénique ↔ promesse ↔ public cible ↔ usage |
+ 
+---
+
+## 🔗 Navigation
+ 
 ⬅️ Séance précédente : [S25 – Analyse de résultats expérimentaux fournis](../25_analyse/)
+
 
 ➡️ Séance suivante : [S27 – Parfums et arômes (1/2)](../27_parfums/)

@@ -8,7 +8,7 @@ Ce chapitre a pour objectif d’amener les étudiants à **analyser et valider (
 - la **qualité des preuves** (n, durée, placebo, significativité),
 - la **cohérence** entre preuve et promesse (objectif vs subjectif).
 
-En cosmétologie, une allégation n’est jamais “juste” parce qu’elle est attractive : elle doit être **légale, vérifiable et démontrée**. Cette compétence est directement mobilisable en laboratoire (validation DIP, échanges marketing/R&D) et constitue un attendu récurrent en **E2 – Expertise scientifique et technologique**. :contentReference[oaicite:0]{index=0}
+En cosmétologie, une allégation n’est jamais “juste” parce qu’elle est attractive : elle doit être **légale, vérifiable et démontrée**. Cette compétence est directement mobilisable en laboratoire (validation DIP, échanges marketing/R&D) et constitue un attendu récurrent en **E2 – Expertise scientifique et technologique**. 
 
 ---
 
