@@ -32,18 +32,9 @@ Troisième TP de cosmétologie. Les étudiants formulent une crème douche au be
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | TP (manipulation + exploitation) |
-| **Prérequis** | S06 (TA), S08 (CMC), S14 (formes galéniques), S16 (écriture formule) |
-| **EPI** | Blouse + lunettes obligatoires, gants recommandés |
 
----
-
-## 🔬 Formule résumée (pour 250 g)
+## 🔬 Formule résumée (pour 252 g)
 
 | Phase | Ingrédient | % |
 |:-----:|-----------|--:|
@@ -55,7 +46,7 @@ Troisième TP de cosmétologie. Les étudiants formulent une crème douche au be
 | C | Parfum | 0,67 = 20 gouttes |
 | C | Conservateur | 0,60 = 15 gouttes |
 
-**Total = 100 % = 250 g**
+**Total = 100 % = 252 g**
 
 ---
 
