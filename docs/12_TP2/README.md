@@ -31,17 +31,7 @@ Ce TP permet aux étudiants de **fabriquer un savon surgras** par la méthode de
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | TP en binôme |
-| **Prérequis** | S11 (saponification, surgras, syndet) + PC S11 (réaction, calculs) |
-| **Matériel clé** | NaOH, huiles (olive, coco, abricot), miel, mixeur, moule, papier pH |
-| **⚠️ Sécurité** | EPI obligatoires (blouse, lunettes, gants). Soude sous hotte. |
-
----
 
 ## 🔬 "Test rapide" : Suis-je prêt(e) pour le TP ?
 

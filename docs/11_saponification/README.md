@@ -44,16 +44,7 @@ Les étudiants apprennent que le savon est un tensioactif anionique, comprennent
 
 ---
 
-## ⏱️ Informations pratiques
 
-| Information | Détail |
-|-------------|--------|
-| **Durée** | 3h |
-| **Format** | CI (cours intégré) avec TD différencié 3 niveaux |
-| **Prérequis** | S06 (familles TA), S08 (CMC, micelles), S10 (analyse formule lavante) |
-| **Lien PC** | PC S11 : saponification (réaction chimique) |
-
----
 
 ## 🔬 "Test rapide" : Saponification et savon
 
