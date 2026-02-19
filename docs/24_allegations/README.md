@@ -1,81 +1,114 @@
-# 24 – Objectifs et ressources
+# 24 – Objectifs et ressources  
 
-Séance EC (Étude de Cas) sur les allégations cosmétiques et les preuves d'efficacité. Les étudiants analysent des dossiers d'allégations réels, interprètent des graphiques d'efficacité et évaluent la conformité des claims au CE 655/2013.
+Ce chapitre a pour objectif d’amener les étudiants à **analyser et valider (ou invalider) des allégations cosmétiques**, en croisant :
 
----
+- le **contenu de l’allégation** (claim : texte, chiffre, visuel, promesse),
+- le **cadre réglementaire** (CE 655/2013),
+- le **type d’étude** fourni (préclinique / clinique instrumentale / auto-évaluation),
+- la **qualité des preuves** (n, durée, placebo, significativité),
+- la **cohérence** entre preuve et promesse (objectif vs subjectif).
 
-## Objectifs
-
-- Définir une **allégation** et connaître les **6 critères** du CE 655/2013
-- Distinguer les **3 types d'études** (préclinique, clinique instrumentale, auto-évaluation)
-- Connaître les **instruments de mesure cutanée** (cornéomètre, cutomètre, profilomètre, chromamètre, sébumètre, tewamètre)
-- Interpréter un **graphique d'efficacité** (n, durée, placebo, significativité)
-- Distinguer preuve **objective** (instrumentale) et **subjective** (auto-évaluation)
-- Évaluer si une allégation est **justifiée**
+En cosmétologie, une allégation n’est jamais “juste” parce qu’elle est attractive : elle doit être **légale, vérifiable et démontrée**. Cette compétence est directement mobilisable en laboratoire (validation DIP, échanges marketing/R&D) et constitue un attendu récurrent en **E2 – Expertise scientifique et technologique**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📥 Ressources
+## 🎯 Objectifs de la séance
 
-📘 **Documents en classe :**
+### Objectifs scientifiques et techniques
 
-➡️ [Fiche élève (PDF)](24a_fiche_eleve.pdf)
+- Définir une **allégation** (claim) et comprendre où elle apparaît (pack, pub, digital)
+- Connaître les **6 critères** du **CE 655/2013**
+- Distinguer les **3 types d’études** : préclinique (in vitro), clinique instrumentale (in vivo), auto-évaluation
+- Connaître les **principaux instruments** (cornéomètre, sébumètre, cutomètre, chromamètre, profilomètre, tewamètre)
+- Interpréter un **résultat d’efficacité** (évolution, % d’amélioration, p-value)
+- Identifier les **biais** possibles (absence placebo, effet véhicule, communication trompeuse)
 
-➡️ [Trace écrite (PDF)](24b_trace_ecrite.pdf)
+### Objectifs méthodologiques (E2)
 
-➡️ [Évaluation formative (PDF)](24c_evaluation.pdf)
-
+- Exploiter un **dossier** (protocole + résultats + claim)
+- Appliquer une grille d’analyse : **preuve ↔ allégation ↔ conformité**
+- Construire un **avis argumenté** (justifié, chiffré, nuancé)
+- Rédiger une conclusion professionnelle : **acceptable / à corriger / à refuser**
+- Mobiliser le vocabulaire attendu : **fondement probant, honnêteté, significativité, preuve objective/subjective**
 
 ---
 
-## Test rapide : Allégations
+## 🧠 Compétences travaillées
 
-```
+- Analyser une **allégation cosmétique** au regard d’un dossier d’efficacité
+- Identifier la **nature de la preuve** et sa fiabilité
+- Relier un **instrument** à une allégation mesurable
+- Interpréter des **résultats chiffrés** et une **p-value**
+- Argumenter et proposer une **reformulation conforme**
+
+---
+
+## 📥 Ressources à télécharger
+
+📘 **Documents élèves**
+
+➡️ [Télécharger la fiche élève (PDF)](24a_fiche_eleve.pdf)
+
+➡️ [Télécharger la trace écrite (PDF)](24b_trace_ecrite.pdf)
+
+➡️ [Télécharger l’évaluation formative (PDF)](24c_evaluation.pdf)
+
+---
+
+## 🔬 "Test rapide" : Allégations cosmétiques
+
+```text
 1. Qu'est-ce qu'une allégation cosmétique ?
-   -> Toute revendication sur l'emballage ou la publicité d'un produit
+   → Toute revendication sur l'emballage, la publicité ou la communication d'un produit
 
 2. Combien de critères impose le CE 655/2013 ?
-   -> 6 critères (conformité, véracité, fondement probant, honnêteté, équité, choix éclairé)
+   → 6 critères (conformité, véracité, fondement probant, honnêteté, équité, choix éclairé)
 
 3. La cornéométrie mesure quoi ?
-   -> L'hydratation de la couche cornée
+   → L'hydratation de la couche cornée
 
 4. « 89 % des femmes satisfaites » est une preuve objective ou subjective ?
-   -> SUBJECTIVE (auto-évaluation)
+   → SUBJECTIVE (auto-évaluation)
 
 5. Que signifie p < 0,05 ?
-   -> Résultat statistiquement significatif (pas dû au hasard)
+   → Résultat statistiquement significatif (probabilité < 5 % que l’écart soit dû au hasard)
 
 6. Pourquoi un groupe placebo est-il important ?
-   -> Pour mesurer l'EFFET RÉEL du produit (effet total - effet placebo)
-```
+   → Pour mesurer l’EFFET RÉEL (effet total – effet placebo) et éviter de surestimer la performance
+````
 
 ---
 
-## Points clés
+## 🔑 Points clés
 
-| Notion | Ce qu'il faut retenir |
-|--------|----------------------|
-| 6 critères CE 655/2013 | Conformité, véracité, fondement probant, honnêteté, équité, choix éclairé |
-| Étude instrumentale | Preuve OBJECTIVE (cornéométrie, profilométrie…) |
-| Auto-évaluation | Preuve SUBJECTIVE (questionnaire, effet placebo) |
-| Significativité | p < 0,05 = pas dû au hasard |
-| Placebo | Indispensable pour mesurer l'effet réel |
-| Allégation chiffrée | Doit être appuyée par une mesure instrumentale |
-
----
-
-## Fiches méthode associées
-
-| N° | Titre | Usage dans S24 |
-|----|-------|---------------|
-| FM03 | Interpréter un graphique ou un tableau | Lire les résultats d'efficacité |
-| FM01 | Justifier (O.A.C.J.) | Évaluer la validité d'une allégation |
+| Notion               | Ce qu’il faut retenir                                      |
+| -------------------- | ---------------------------------------------------------- |
+| CE 655/2013          | Une allégation doit respecter **6 critères**               |
+| Preuve instrumentale | **Objective**, quantitative (cornéométrie, profilométrie…) |
+| Auto-évaluation      | **Subjective**, influencée par l’effet placebo             |
+| Placebo              | Indispensable pour estimer l’**effet réel**                |
+| Significativité      | p < 0,05 = résultat **peu probable dû au hasard**          |
+| Allégation chiffrée  | Doit reposer sur une **mesure instrumentale** adaptée      |
 
 ---
 
-## Navigation
+> **Remarque pédagogique – Épreuve E2**
+>
+> Cette séance prépare explicitement aux attendus de l’épreuve **E2 – Expertise scientifique et technologique** :
+>
+> * identifier si une allégation est **fondée** (preuves) et **conforme** (CE 655/2013),
+> * distinguer preuve **objective** (instrumentale) et **subjective** (auto-évaluation),
+> * interpréter un résultat (n, durée, placebo, p-value),
+> * formuler un **avis professionnel argumenté** et proposer une **reformulation conforme**.
+>
+> Une réponse uniquement descriptive (“c’est une étude”, “ça augmente”) est insuffisante au niveau BTS.
 
-Séance précédente : S23 – Pénétration cutanée
+---
 
-Séance suivante : S25 – Analyse de résultats expérimentaux
+## 🔗 Navigation
+
+⬅️ Séance précédente : [S23 – Pénétration cutanée** (dossier + efficacité)](../23_penetration/)
+
+➡️ Séance suivante : [S25 – Analyse de résultats expérimentaux fournis](../25_analyse/)
+
+

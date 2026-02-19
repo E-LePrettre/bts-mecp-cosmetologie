@@ -1,6 +1,6 @@
 ---
 author: ELP
-title: 24 📝 Fiche eleve
+title: 24 📝 Fiche élève
 ---
 
 # S24 – Études d'efficacité et allégations cosmétiques 📝
@@ -11,17 +11,17 @@ title: 24 📝 Fiche eleve
 
 ---
 
-## Objectifs
+## 🎯 Objectifs
 
 - définir une **allégation** et connaître les **6 critères** du CE 655/2013,
 - distinguer les **3 types d'études** (préclinique, clinique instrumentale, auto-évaluation),
 - connaître les **instruments de mesure** cutanée (cornéomètre, cutomètre, profilomètre…),
-- interpréter un **graphique d'efficacité**,
+- interpréter un **résultat d'efficacité** (tableau/graphique),
 - évaluer si une allégation est **justifiée** par les preuves.
 
 ---
 
-## Documents supports
+## 📄 Documents supports
 
 ### Document 1 – Les 6 critères des allégations (CE 655/2013)
 
@@ -61,7 +61,8 @@ title: 24 📝 Fiche eleve
 
 ### Document 4 – Étude d'efficacité : crème hydratante « AquaVeil »
 
-**Protocole** : étude clinique instrumentale, n = 34 femmes (25-50 ans), peau normale à sèche. Mesure de l'hydratation par **cornéométrie** à T0 (avant application), T+2h, T+8h, T+24h. Application unique.
+**Protocole** : étude clinique instrumentale, n = 34 femmes (25–50 ans), peau normale à sèche.  
+Mesure de l'hydratation par **cornéométrie** à T0 (avant application), T+2h, T+8h, T+24h. Application unique.
 
 **Résultats** :
 
@@ -82,21 +83,22 @@ p < 0,05 pour tous les temps de mesure.
 
 **Texte publicitaire** :
 
-> *« JeunEssence — Le sérum qui efface 10 ans. Rides réduites de 45 %*. Peau visiblement plus jeune en seulement 7 jours. »*
->
-> *\*Auto-évaluation réalisée sur 28 femmes pendant 28 jours.*
+> « JeunEssence — Le sérum qui efface 10 ans. Rides réduites de 45 %.  
+> Peau visiblement plus jeune en seulement 7 jours. »*  
+>  
+> \*Auto-évaluation réalisée sur 28 femmes pendant 28 jours.
 
 **Image** : photo avant/après avec un éclairage et un maquillage visiblement différents.
 
 ---
 
-## TRONC COMMUN
+## 🧩 TRONC COMMUN
 
 ---
 
 ### Travail 1 – Instrument et allégation
 
-Reliez chaque allégation à l'instrument qui permettrait de la prouver objectivement :
+Reliez chaque allégation à l'instrument qui permettrait de la prouver **objectivement** :
 
 | Allégation | Instrument |
 |-----------|:---------:|
@@ -134,11 +136,11 @@ Reliez chaque allégation à l'instrument qui permettrait de la prouver objectiv
 
 <br><br>
 
-**b)** L'étude porte sur **28 femmes**. Est-ce un nombre suffisant pour une allégation chiffrée ?
+**b)** L'étude porte sur **28 femmes**. Est-ce un nombre suffisant pour une allégation chiffrée ? Argumentez.
 
 <br><br>
 
-**c)** L'allégation dit « efface 10 ans ». Évaluez cette formulation au regard du critère n°4 (honnêteté) du CE 655/2013.
+**c)** L'allégation dit « efface 10 ans ». Évaluez cette formulation au regard du critère n°4 (**honnêteté**) du CE 655/2013.
 
 <br><br><br>
 
@@ -148,14 +150,12 @@ Reliez chaque allégation à l'instrument qui permettrait de la prouver objectiv
 
 ---
 
-## TD DIFFÉRENCIÉ
+## ⭐ TD DIFFÉRENCIÉ
 
 > **Choisissez votre niveau** :
 >
-> ⭐ **Niveau 1** – Guidé
->
-> ⭐⭐ **Niveau 2** – Standard
->
+> ⭐ **Niveau 1** – Guidé  
+> ⭐⭐ **Niveau 2** – Standard  
 > ⭐⭐⭐ **Niveau 3** – Expert
 
 ---
@@ -215,11 +215,11 @@ p < 0,01 à T+28j. Groupe placebo : R2 = 0,65 à T+28j (+5 % vs T0).
 
 <br><br>
 
-**b)** Le résultat du groupe **placebo** est de +5 %. L'effet réel du produit est donc de combien ? (effet produit = effet total - effet placebo)
+**b)** Le résultat du groupe **placebo** est de +5 %. L'effet réel du produit est donc de combien ? (effet produit = effet total – effet placebo)
 
 <br><br>
 
-**c)** L'allégation « +32 % plus ferme » est-elle honnête si on ne mentionne pas l'effet placebo ? Justifiez en 3-4 lignes.
+**c)** L'allégation « +32 % plus ferme » est-elle honnête si on ne mentionne pas l'effet placebo ? Justifiez en 3–4 lignes.
 
 <br><br><br><br>
 
@@ -231,7 +231,7 @@ p < 0,01 à T+28j. Groupe placebo : R2 = 0,65 à T+28j (+5 % vs T0).
 
 ### ⭐⭐⭐ Niveau 3 – Expert
 
-**Situation professionnelle E2** : Le laboratoire LunaVerde soumet au comité de validation les allégations de son **Sérum Nuit Éclat Bio** (S22). Voici le dossier :
+**Situation professionnelle E2** : Le laboratoire LunaVerde soumet au comité de validation les allégations de son **Sérum Nuit Éclat Bio**. Voici le dossier :
 
 **Étude 1** – Cornéométrie (hydratation), n = 42, 28 jours :
 - T0 : 35 UA → T+28j : 52 UA (+49 %, p < 0,001)
@@ -263,12 +263,10 @@ p < 0,01 à T+28j. Groupe placebo : R2 = 0,65 à T+28j (+5 % vs T0).
 
 <br><br><br>
 
-**c)** L'allégation 4 (« anti-âge prouvé cliniquement ») est la plus problématique. En **6-8 lignes**, évaluez sa validité au regard des 6 critères du CE 655/2013.
+**c)** L'allégation 4 (« anti-âge prouvé cliniquement ») est la plus problématique. En **6–8 lignes**, évaluez sa validité au regard des 6 critères du CE 655/2013.
 
 **Mots obligatoires** (minimum 5 sur 8) : *allégation, fondement probant, auto-évaluation, étude instrumentale, significativité, honnêteté, objectif, subjectif*
 
 <br><br><br><br><br><br><br><br>
 
 ---
-
-
