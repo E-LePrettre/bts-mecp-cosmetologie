@@ -106,10 +106,15 @@ Pour chaque produit, indiquez la **forme galénique** et **un indice** qui la ju
 Cochez ce qui vous correspond :
 
 ☐ Je sais identifier une forme galénique à partir d'une description
+
 ☐ Je sais distinguer formes homogènes et dispersions
+
 ☐ Je sais expliquer la différence entre H/E et E/H
+
 ☐ Je sais nommer le stabilisant de chaque forme
+
 ☐ Je sais relier la forme à l'usage et à la cible
+
 ☐ Je dois encore progresser sur la justification écrite
 
 ---
