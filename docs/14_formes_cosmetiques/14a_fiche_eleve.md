@@ -66,7 +66,7 @@ title: 14 📝 Fiche élève
 | **E/H** (eau dans huile) | Huile | Eau | Onctueuse, riche | Ne se rince pas à l'eau | Crème de modelage, cold cream, crème peau sèche |
 
 <p style="text-align:center;">
-  <img src="/docs/14_formes_cosmetiques/images/emulsionEH.jpg" alt="Emulsion H/E" style="width:75%;">
+  <img src="./images/emulsionEH.jpg" alt="Emulsion H/E" style="width:75%;">
   <br>
   <em>Emulsion H/E</em> <br>
   <img src="images/emulsionEH.jpg" alt="Emulsion E/H" style="width:75%;">
