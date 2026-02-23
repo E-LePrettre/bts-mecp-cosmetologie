@@ -69,7 +69,7 @@ title: 14 📝 Fiche élève
   <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionHE.jpg" alt="Emulsion H/E" style="width:75%;">
   <br>
   <em>Emulsion H/E</em> <br>
-  <img src="images/emulsionEH.jpg" alt="Emulsion E/H" style="width:75%;">
+  <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionEH.jpg" alt="Emulsion E/H" style="width:75%;">
   <br>
   <em>Emulsion E/H</em>
 </p>
@@ -84,7 +84,7 @@ title: 14 📝 Fiche élève
 **Instabilité** : une émulsion est par nature instable. Les gouttelettes grossissent et finissent par se séparer → **coalescence** (rupture de l'émulsion).
 
 <p style="text-align:center;">
-  <img src="images/instabilite.jpg" alt="Coalescence" style="width:75%;">
+  <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/instabilite.jpg" alt="Coalescence" style="width:75%;">
   <br>
   <em>Coalescence de l'émulsion</em> 
 
