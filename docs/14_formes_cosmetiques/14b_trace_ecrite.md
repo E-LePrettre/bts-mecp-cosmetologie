@@ -63,10 +63,10 @@ Phase aqueuse + Phase huileuse + Émulsionnant
 **Astuce** : **H/E** = « huile **dans** eau » → l'eau entoure l'huile (phase continue = eau).
 
 <p style="text-align:center;">
-  <img src=""/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionHE.jpg" alt="Emulsion H/E" style="width:75%;">
+  <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionHE.jpg" alt="Emulsion H/E" style="width:75%;">
   <br>
   <em>Emulsion H/E</em> <br>
-  <img src=""/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionEH.jpg" alt="Emulsion E/H" style="width:75%;">
+  <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/emulsionEH.jpg" alt="Emulsion E/H" style="width:75%;">
   <br>
   <em>Emulsion E/H</em>
 </p>
@@ -85,7 +85,7 @@ Gouttelettes si fines que le mélange paraît **transparent**. Concentration en 
 Une émulsion est par nature **instable** : les gouttelettes grossissent et finissent par se séparer → c'est la **coalescence** (rupture de l'émulsion).
 
 <p style="text-align:center;">
-  <img src=""/bts-mecp-cosmetologie/14_formes_cosmetiques/images/instabilite.jpg" alt="Coalescence" style="width:75%;">
+  <img src="/bts-mecp-cosmetologie/14_formes_cosmetiques/images/instabilite.jpg" alt="Coalescence" style="width:75%;">
   <br>
   <em>Coalescence de l'émulsion</em> 
 
