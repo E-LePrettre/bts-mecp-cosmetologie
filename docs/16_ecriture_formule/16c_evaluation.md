@@ -113,9 +113,13 @@ Erreur 2 :
 7\. Pour le sérum hydratant (gel aqueux), remettez les étapes dans l'ordre :
 
 ☐ Ajuster le pH avec l'acide citrique
+
 ☐ Ajouter les actifs (Hyaluronic Acid, Niacinamide) sous agitation
+
 ☐ Disperser le Xanthan Gum dans l'eau + glycérine sous agitation
+
 ☐ Ajouter les conservateurs (Sodium Benzoate, Potassium Sorbate)
+
 ☐ Contrôler : aspect, pH, viscosité
 
 Ordre : .......... → .......... → .......... → .......... → ..........
@@ -125,10 +129,15 @@ Ordre : .......... → .......... → .......... → .......... → ..........
 ## 🔍 Auto-évaluation
 
 ☐ Je sais classer des ingrédients en phases (A, B, C)
+
 ☐ Je sais calculer un qsp (quantité d'eau)
+
 ☐ Je sais lire une formule de laboratoire
+
 ☐ Je sais détecter une erreur dans une formule
+
 ☐ Je sais décrire un ordre d'incorporation
+
 ☐ Je dois encore progresser sur l'écriture de formule
 
 ---
