@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 15 – Objectifs et ressources
+---
+
 # 15 – Objectifs et ressources
 
 Deuxième évaluation sommative type E2. Dossier documentaire complet sur une crème hydratante visage (produit inédit). Évalue les notions S01-S14 avec un focus sur les formes galéniques, le pH, la CMC et l'argumentation cosmétologique.

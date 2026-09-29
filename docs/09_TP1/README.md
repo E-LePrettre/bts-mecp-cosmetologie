@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 09 – Objectifs et ressources
+---
+
 # 09 – Objectifs et ressources
 
 Ce premier TP de cosmétologie permet aux étudiants de **vérifier expérimentalement** la notion de CMC introduite en S08. En mesurant la conductivité de solutions de SDS à différentes concentrations, ils observent directement la **rupture de comportement** liée à la formation des micelles et en déduisent la CMC.

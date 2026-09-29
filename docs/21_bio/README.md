@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 21 – Objectifs et ressources
+---
+
 # 21 – Objectifs et ressources
 
 Séance en classe inversée (CI) sur les cosmétiques biologiques et naturels. Les étudiants lisent une capsule préparatoire à la maison (labels, référentiels, définitions) puis exploitent en classe : comparaison d'INCI bio/conventionnel, distinction label/allégation, contraintes de formulation bio.

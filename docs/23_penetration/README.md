@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 23 – Objectifs et ressources
+---
+
 # 23 – Objectifs et ressources  
 
 Ce chapitre a pour objectif d’amener les étudiants à **expliquer et argumenter la pénétration cutanée d’un actif cosmétique**, en mettant en relation :

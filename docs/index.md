@@ -86,5 +86,5 @@ Chaque séance s’appuie sur des **situations professionnelles réelles** (labo
 
 *Formation professionnalisante orientée expertise cosmétologique et laboratoire*
 
-✍️ *Elisabeth Le Prettre*
+✍️ *Elisabeth Le Prettre (LePrettre)*
 

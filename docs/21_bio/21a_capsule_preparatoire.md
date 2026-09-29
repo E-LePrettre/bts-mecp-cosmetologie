@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 21 📖 Capsule préparatoire (à lire AVANT la séance)
 ---
 

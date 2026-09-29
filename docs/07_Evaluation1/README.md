@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 07 – Objectifs et ressources
+---
+
 # 07 – Objectifs et ressources
 
 Cette première évaluation sommative de cosmétologie porte sur l'ensemble du **Bloc 1 : Le produit cosmétique** (séances S01 à S06). Elle constitue le premier entraînement aux attendus de l'épreuve E2 en cosmétologie.

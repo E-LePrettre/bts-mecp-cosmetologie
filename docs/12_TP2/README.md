@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 12 – Objectifs et ressources
+---
+
 # 12 – Objectifs et ressources
 
 Ce TP permet aux étudiants de **fabriquer un savon surgras** par la méthode de saponification à froid. Ils mettent en œuvre la réaction étudiée en S11, observent la « trace » et comprennent le lien entre la méthode de fabrication et les propriétés du produit fini.

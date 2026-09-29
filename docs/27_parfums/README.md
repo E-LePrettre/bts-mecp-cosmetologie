@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 27 – Objectifs et ressources
+---
+
 # 27 – Objectifs et ressources
 
 Séance FE3 + AD (Fiche 3 niveaux + Atelier d'analyse documentaire). Première partie du diptyque parfumerie : voies olfactives, matières premières aromatiques, méthodes d'extraction, IFRA, allergènes, toxicité des HE. Atelier : classement de matières premières à partir de fiches descriptives (sans matériel olfactif).

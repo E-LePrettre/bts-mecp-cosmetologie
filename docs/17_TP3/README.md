@@ -1,3 +1,9 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 17 – Objectifs et ressources
+---
+
+
 # 17 – Objectifs et ressources
 
 Troisième TP de cosmétologie. Les étudiants formulent une crème douche au beurre de karité (émulsion lavante H/E, **252 g ≈ 250 mL**) en suivant un protocole de fabrication, puis réalisent des contrôles qualité (organoleptique, pH, stabilité, pouvoir moussant).

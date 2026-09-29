@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 25 – Objectifs et ressources
+---
+
 # S25 – Objectifs et ressources 🧭
 
 > Séance **AD (Atelier Différencié)** sur l’analyse de résultats expérimentaux fournis.  

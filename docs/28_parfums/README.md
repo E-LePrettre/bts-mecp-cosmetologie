@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 28 – Objectifs et ressources
+---
+
 # 28 – Objectifs et ressources
 
 Séance sur les parfums (2/2) en **dossier unique** : pyramide olfactive, familles, concentrations, parfumage cosmétique, stabilité/conditionnement. Suite directe de S27.

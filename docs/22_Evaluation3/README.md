@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 22 – Objectifs et ressources
+---
+
 # 22 – Objectifs et ressources
 
 Evaluation type E2 (3h, /20). Sujet complet mobilisant les blocs 1 et 2 (S01-S21).

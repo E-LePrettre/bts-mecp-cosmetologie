@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 18 – Objectifs et ressources
+---
+
 # 18 – Objectifs et ressources
 
 Séance d'étude de cas (EC) sur les contrôles qualité cosmétiques et la vie du produit. Les étudiants apprennent à lire un bulletin de contrôle qualité, identifier les conformités/non-conformités, et argumenter une décision de mise sur le marché. Notion récurrente en E2.

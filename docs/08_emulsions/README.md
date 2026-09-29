@@ -1,3 +1,9 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 08 – Objectifs et ressources
+---
+
+
 # 08 – Objectifs et ressources
 
 Ce chapitre a pour objectif d’amener les étudiants à **analyser le comportement des tensioactifs en solution**, à **interpréter un graphique expérimental**, et à **mobiliser la notion de concentration micellaire critique (CMC)** dans un raisonnement cosmétologique argumenté.

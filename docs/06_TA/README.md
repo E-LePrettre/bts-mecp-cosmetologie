@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 06 – Objectifs et ressources
+---
+
 # 06 – Objectifs et ressources
 
 

@@ -1,5 +1,5 @@
 ---
-author: ELP
+author: Elisabeth Le Prettre (LePrettre)
 title: 03 📝 Fiche élève
 ---
 
@@ -23,9 +23,43 @@ Vous travaillez en **laboratoire** ou en **magasin spécialisé**. Un client / u
 
 ---
 
+### Document 1 : Article 19 Étiquetage n°1223/2009
+
+ 
+1. Sans préjudice des autres dispositions du présent article, les produits cosmétiques ne sont mis à disposition sur le marché que si le récipient et l'emballage des produits cosmétiques portent en caractères indélébiles, facilement lisibles et visibles, les mentions suivantes: 
+a) le nom ou la raison sociale et l'adresse de la personne responsable. Ces mentions peuvent être abrégées dans la mesure où l'abréviation permet d'identifier cette personne et son adresse. Si plusieurs adresses sont indiquées, celle où la personne responsable tient à disposition le dossier d'information sur le produit est mise en évidence. Le pays d'origine est spécifié pour les produits cosmétiques importés; 
+b) le contenu nominal au moment du conditionnement, indiqué en poids ou en volume, sauf pour les emballages contenant moins de cinq grammes ou moins de cinq millilitres, les échantillons gratuits et les unidoses; en ce qui concerne les préemballages, qui sont habituellement commercialisés par ensemble de pièces et pour lesquels l'indication du poids ou du volume n'est pas significative, le contenu peut ne pas être indiqué pour autant que le nombre de pièces soit mentionné sur l'emballage. Cette mention n'est pas nécessaire lorsque le nombre de pièces est facile à déterminer de l'extérieur ou si le produit n'est habituellement commercialisé qu'à l'unité; 
+c) la date jusqu'à laquelle le produit cosmétique, conservé dans des conditions appropriées, continue à remplir sa fonction initiale et reste notamment conforme à l'article 3 (ci-après dénommée «la date de durabilité minimale»). La date elle-même ou l'indication de l'endroit où elle figure sur l'emballage est précédée du symbole figurant à l'annexe VII, point 3 ou de la mention «à utiliser de préférence avant fin». La date de durabilité minimale est clairement mentionnée et se compose, dans l'ordre, soit du mois et de l'année, soit du jour, du mois et de l'année. En cas de besoin, ces mentions sont complétées par l'indication des conditions qui doivent être remplies pour assurer 
+a durabilité indiquée. L'indication de la date de durabilité minimale n'est pas obligatoire pour les produits cosmétiques dont la durabilité minimale excède trente mois. Ces produits portent l'indication de la durée pendant laquelle le produit est sûr après son ouverture et peut être utilisé sans dommages pour le consommateur. Cette information est indiquée, sauf si le concept de durabilité après ouverture n'est pas pertinent, par le symbole figurant à l'annexe VII, point 2, suivi de la durée d'utilisation (exprimée en mois et/ou années); 
+d) les précautions particulières d'emploi et, au minimum, celles indiquées dans les annexes III à VI, ainsi que d'éventuelles indications concernant des précautions particulières à observer pour les produits cosmétiques à usage professionnel; 
+e) le numéro de lot de fabrication ou la référence permettant l'identification du produit cosmétique. En cas d'impossibilité pratique due aux dimensions réduites des produits cosmétiques, une telle mention ne doit figurer que sur l'emballage; 
+f) la fonction du produit cosmétique, sauf si cela ressort clairement de sa présentation; 
+g) la liste des ingrédients. Ces informations peuvent figurer uniquement sur l'emballage. La liste est précédée du terme «ingrédients». Aux fins du présent article, on entend par «ingrédient» toute substance ou mélange utilisé de façon intentionnelle dans le produit cosmétique au cours du processus de fabrication. Toutefois, ne sont pas considérées comme ingrédients: 
+i) les impuretés contenues dans les matières premières utilisées; 
+ii) les substances techniques subsidiaires utilisées dans le mélange mais ne se retrouvant pas dans la composition du produit fini. Les compositions parfumantes et aromatiques et leurs matières premières sont mentionnées par les termes «parfum» ou «aroma». En outre, la présence de substances dont la mention est exigée en vertu de la colonne «Autres» de l'annexe III est indiquée dans la liste des ingrédients, en plus des termes «parfum» ou «aroma». 
+La liste des ingrédients est établie dans l'ordre décroissant de leur importance pondérale au moment de leur incorporation dans le produit cosmétique. Les ingrédients dont la concentration est inférieure à 1 % peuvent être mentionnés dans le désordre après ceux dont la concentration est supérieure à 1 %. 
+Tout ingrédient présent sous la forme d'un nanomatériau doit être clairement indiqué dans la liste des ingrédients. Le nom de l'ingrédient est suivi du mot «nano» entre crochets. 
+Les colorants autres que ceux destinés à colorer les cheveux ou le système pileux du visage, à l'exception des cils, peuvent être mentionnés dans le désordre après les autres ingrédients cosmétiques. 
+Pour les produits cosmétiques décoratifs commercialisés en plusieurs nuances de couleurs, tous les colorants utilisés dans la gamme, à l'exception de ceux destinés à colorer les cheveux ou le système pileux du visage, à l'exception des cils, peuvent être mentionnés, à 
+condition d'y ajouter les mots «peut contenir» ou le symbole «+/-». 
+La nomenclature CI (Colour Index) est utilisée, le cas échéant. 
+
+2. Lorsqu'il est impossible pour des raisons pratiques de faire figurer sur l'étiquetage, comme cela est prévu, les indications visées au paragraphe 1, points d) et g), les dispositions suivantes s'appliquent: 
+— les indications requises figurent sur une notice, une étiquette, une 
+bande ou une carte jointe ou attachée au produit, 
+— sauf impossibilité pratique, il est fait référence à ces informations soit par une indication abrégée, soit par le symbole reproduit à l'annexe VII, point 1, qui doit figurer sur le récipient ou l'emballage pour les indications visées au paragraphe 1, point d), et sur l'emballage pour celles visées au paragraphe 1, point g). 
+
+3. Dans le cas du savon et des perles pour le bain ainsi que d'autres petits produits, lorsqu'il est impossible, pour des raisons pratiques, de faire figurer les indications visées au paragraphe 1, point g), sur une étiquette, une bande, une carte ou une notice jointe, lesdites indications figurent sur un écriteau placé à proximité immédiate du récipient dans lequel le produit cosmétique est proposé à la vente. 
+
+4. Pour les produits cosmétiques présentés non préemballés ou pour les produits cosmétiques emballés sur le lieu de vente à la demande de l'acheteur, ou préemballés en vue de leur vente immédiate, les États membres arrêtent les modalités selon lesquelles les mentions visées au paragraphe 1 sont indiquées. 
+
+5. La langue dans laquelle sont rédigées les informations visées au paragraphe 1, points b), c), d) et f), ainsi qu'aux paragraphes 2, 3 et 4, est déterminée par la législation des États membres dans lesquels le produit est mis à la disposition de l'utilisateur final. 
+
+6. Les informations visées au paragraphe 1, point g), sont indiquées à l'aide de la dénomination commune de l'ingrédient établie dans le glossaire prévu à l'article 33. En l'absence de dénomination commune de l'ingrédient, on utilisera un terme figurant dans une nomenclature généralement admise. 
+
 ### 🧠 Travail 1 – Les mentions obligatoires
 
-Citez **six mentions obligatoires** devant figurer sur l'étiquetage d'un produit cosmétique :
+Citez **7 mentions obligatoires** devant figurer sur l'étiquetage d'un produit cosmétique :
 
 1\. <br><br>
 2\. <br><br>
@@ -33,6 +67,8 @@ Citez **six mentions obligatoires** devant figurer sur l'étiquetage d'un produi
 4\. <br><br>
 5\. <br><br>
 6\. <br><br>
+7\. <br><br>
+8\. (facultatif sauf)<br><br>
 
 ---
 
@@ -103,16 +139,7 @@ En dessous, l'ordre est <br><br><br> .
 
 <br><br>
 
-**e)** Vérification de conformité – cochez si la mention est présente sur votre produit :
 
-| Mention | Présente ? |
-|---------|:----------:|
-| Liste INCI | ☐ |
-| Contenance | ☐ |
-| PAO ou DDM | ☐ |
-| Numéro de lot | ☐ |
-| Personne responsable | ☐ |
-| Fonction du produit | ☐ |
 
 ---
 

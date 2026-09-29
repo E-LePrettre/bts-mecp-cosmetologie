@@ -1,6 +1,11 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 19 – Objectifs et ressources
+---
+
 # 19 – Objectifs et ressources
 
-Séance FE3 sur la stabilité et le choix du conditionnement cosmétique. Les étudiants apprennent à distinguer emballage primaire/secondaire, connaître les matériaux et leurs propriétés, comprendre les interactions contenu/contenant (migration, adsorption, perméation), et argumenter le choix d'un conditionnement en lien avec la formule et l'usage.
+Séance sur la stabilité et le choix du conditionnement cosmétique. Les étudiants apprennent à distinguer emballage primaire/secondaire, connaître les matériaux et leurs propriétés, comprendre les interactions contenu/contenant (migration, adsorption, perméation), et argumenter le choix d'un conditionnement en lien avec la formule et l'usage.
 
 ---
 

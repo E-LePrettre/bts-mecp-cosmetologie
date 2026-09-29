@@ -1,3 +1,9 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 10 – Objectifs et ressources
+---
+
+
 # 10 – Objectifs et ressources  
 
 Ce chapitre a pour objectif d’amener les étudiants à **analyser de manière critique une formule cosmétique lavante**, en mettant en relation :

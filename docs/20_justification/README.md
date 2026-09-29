@@ -1,3 +1,9 @@
+---
+author: Elisabeth Le Prettre(LePrettre)
+title: 20 – Objectifs et ressources
+---
+
+
 # 20 – Objectifs et ressources
 
 Séance de débat argumenté (DA). Les étudiants, en équipes de 4-5, reçoivent un cahier des charges de produit cosmétique et doivent défendre un choix galénique et de conditionnement devant le comité de formulation (les autres équipes). La séance mobilise toutes les notions du bloc 2 et prépare directement la Q14 de l'épreuve E2.

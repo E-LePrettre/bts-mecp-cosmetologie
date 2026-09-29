@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 11 – Objectifs et ressources
+---
+
 # 11 – Objectifs et ressources
 
 Cette séance aborde la **saponification** en tant que réaction chimique conduisant à un produit cosmétique : le **savon**. 

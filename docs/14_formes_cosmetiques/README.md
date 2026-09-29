@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 14 – Objectifs et ressources
+---
+
 # 14 – Objectifs et ressources
 
 Cette séance introduit les formes galéniques cosmétiques : solutions, gels, émulsions et autres dispersions. Les étudiants apprennent à identifier, nommer et relier chaque forme à son usage professionnel. C'est une séance fondatrice pour tout le bloc 2.

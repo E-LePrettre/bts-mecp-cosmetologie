@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 🛣️ Progression
+---
+
 # 🛣️ Progression 
 
 **Progression  – Cosmétologie (BTS MECP 1re année)**

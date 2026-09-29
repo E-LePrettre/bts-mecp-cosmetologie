@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 24 – Objectifs et ressources
+---
+
 # 24 – Objectifs et ressources  
 
 Ce chapitre a pour objectif d’amener les étudiants à **analyser et valider (ou invalider) des allégations cosmétiques**, en croisant :

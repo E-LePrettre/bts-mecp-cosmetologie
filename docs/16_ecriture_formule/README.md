@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 16 – Objectifs et ressources
+---
+
 # 16 – Objectifs et ressources
 
 Cette séance apprend aux étudiants à lire et écrire une formule cosmétique selon les conventions professionnelles : nom INCI, % massique, phases (A/B/C), ordre d'incorporation et qsp. C'est une compétence de communication centrale pour le bloc 2 et l'épreuve E2.

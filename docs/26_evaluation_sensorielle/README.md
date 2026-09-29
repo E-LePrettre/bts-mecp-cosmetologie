@@ -1,3 +1,8 @@
+---
+author: Elisabeth Le Prettre (LePrettre)
+title: 26 – Objectifs et ressources
+---
+
 # 26 – Objectifs et ressources  
 
 Ce chapitre a pour objectif d’amener les étudiants à **construire une analyse sensorielle professionnelle sans test physique**, en s’appuyant sur une **démarche documentaire** et argumentée.
