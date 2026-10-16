@@ -1,5 +1,5 @@
 ---
-author: Elisabeth Le Prettre (LePrettre)
+author: ELP
 title: 06 📖 Trace écrite
 ---
 
@@ -37,7 +37,7 @@ Cette structure permet au tensioactif de se positionner à l’interface entre l
 
 ![Formation de micelles](agregat.png)
 
-Les molécules de tensioactif entourent la graisse pour former des agregats appelés **micelles**, avec leur partie hydrophobe tournée vers le gras et leur partie hydrophile vers l’eau. Ainsi, la graisse est décrochée de la peau et entraînée par l’eau lors du rinçage.
+Les molécules de tensioactif entourent la graisse pour former des agrégats appelés **micelles**, avec leur partie hydrophobe tournée vers le gras et leur partie hydrophile vers l’eau. Ainsi, la graisse est décrochée de la peau et entraînée par l’eau lors du rinçage.
 
 ![Schéma de micelle](micelle.png)
 
@@ -70,11 +70,35 @@ On distingue plusieurs **familles de tensioactifs**, classées selon la charge d
   Pouvoir lavant modéré, bonne tolérance cutanée, souvent associés à d’autres tensioactifs.
 
 - **Tensioactifs non ioniques**  
-  Pouvoir lavant doux, très bonne tolérance, peu sensibles à la dureté de l’eau.
+  Selon leur structure, agents lavants, émulsifiants ou solubilisants ; généralement peu sensibles à la dureté de l’eau.
+
+---
+
+### Repérer les tensioactifs courants dans une liste INCI
+
+Les noms ci-dessous sont ceux à rechercher sur les étiquettes. Cette sélection constitue un **répertoire de repérage**, sans être exhaustive. Un tensioactif peut assurer plusieurs fonctions selon la formule.
+
+| Famille | Noms INCI à reconnaître | Usages habituels |
+|---|---|---|
+| Anioniques | **Sodium Laureth Sulfate (SLES)** ; **Sodium Lauryl Sulfate (SLS)** ; Ammonium Lauryl Sulfate | Agents lavants et moussants des shampooings et gels lavants |
+| Anioniques | **Sodium Cocoyl Isethionate (SCI)** ; Sodium Cocoyl Glutamate ; Sodium Lauroyl Sarcosinate ; Disodium Laureth Sulfosuccinate | Bases lavantes, notamment syndets et formules recherchant une bonne tolérance |
+| Anioniques — savons | **Sodium Palmate** ; Sodium Cocoate ; **Potassium Cocoate** | Sels d’acides gras : savons solides ou liquides |
+| Amphotères | **Cocamidopropyl Betaine** ; Coco-Betaine ; **Sodium Cocoamphoacetate** ; Disodium Cocoamphodiacetate | Co-tensioactifs lavants et moussants, souvent associés aux anioniques |
+| Non ioniques — glucosides | **Decyl Glucoside** ; **Coco-Glucoside** ; Lauryl Glucoside ; Caprylyl/Capryl Glucoside | Agents lavants ; certains servent aussi à la solubilisation |
+| Non ioniques — autres fonctions | **Polysorbate 20** ; PEG-40 Hydrogenated Castor Oil ; **Glyceryl Stearate** ; PEG-100 Stearate | Les deux premiers sont souvent solubilisants ; les stéarates servent à l’émulsification ou à la coémulsification |
+| Cationiques | **Cetrimonium Chloride** ; **Behentrimonium Chloride** ; Behentrimonium Methosulfate | Conditionneurs et démêlants, surtout dans les après-shampooings et masques |
+
+**Repères pour classer** : les termes *Sulfate*, *Isethionate*, *Sarcosinate* ou *Glutamate* orientent vers les anioniques ; *Betaine* et *Ampho* vers les amphotères ; *Glucoside* vers les non ioniques ; *Cetrimonium* et *Behentrimonium* vers les cationiques. Ces indices se vérifient avec le nom complet. *Sodium* seul ne suffit pas : Sodium Chloride n’est pas un tensioactif.
+
+**Attention aux confusions** : Behentrimonium Methosulfate est cationique malgré le mot *Methosulfate*. Polyquaternium-10 est un polymère cationique conditionneur : il ne doit pas être assimilé à un tensioactif lavant. Glycol Stearate est surtout un agent nacrant ou opacifiant ; il n’est pas prioritaire dans cette liste de repérage.
+
+**Exemple de lecture** : dans une formule contenant Sodium Laureth Sulfate, Cocamidopropyl Betaine et Coco-Glucoside, on repère respectivement un anionique, un amphotère et un non ionique. Leur association participe au compromis entre nettoyage, mousse et tolérance.
 
 ---
 
 ## 5️⃣ Choix des tensioactifs et tolérance cutanée
+
+**La famille ne suffit pas à prédire la tolérance.** Celle-ci dépend aussi de la concentration, des associations de tensioactifs, du pH, du temps de contact, du rinçage et de la peau de l’utilisateur. Un anionique peut entrer dans une formule douce ; un non ionique ou un amphotère n’est pas garanti sans irritation ni allergie.
 
 Le choix d’un tensioactif dépend :
 
@@ -95,7 +119,7 @@ En cosmétologie, plusieurs tensioactifs sont souvent **associés** afin de :
 
 Le **pouvoir moussant** d’un produit cosmétique n’est pas directement proportionnel à son **pouvoir nettoyant**.
 
-Un produit très moussant peut être plus agressif pour la peau, tandis qu’un produit peu moussant peut assurer un nettoyage efficace et mieux toléré.
+Un produit peu moussant peut nettoyer efficacement. Une mousse abondante ne permet pas, à elle seule, de conclure sur l’irritation ou la douceur du produit.
 
 La mousse est donc un **critère sensoriel**, mais pas un indicateur fiable de l’efficacité ou de la douceur d’un produit.
 
@@ -124,6 +148,7 @@ La compréhension du rôle et du choix des tensioactifs est indispensable :
 - Les tensioactifs sont des **ingrédients clés** des produits lavants
 - Leur structure **amphiphile** permet le nettoyage
 - Il existe plusieurs **familles** de tensioactifs aux propriétés différentes
+- Les **noms INCI** permettent de repérer les tensioactifs courants et de proposer leur fonction
 - Le choix des tensioactifs dépend de l’**usage et de la tolérance cutanée**
 - La mousse n’est pas un indicateur fiable du pouvoir nettoyant
 
@@ -148,3 +173,11 @@ Ces notions seront réinvesties pour :
 ➡️ [**Fiche méthode 01 – Justifier (O.A.C.J.)**](../Methodologie/01_fiche_methode.md)
 
 ➡️ [**Fiche méthode 04 – Structurer une réponse rédigée type E2**](../Methodologie/04_fiche_methode.md)
+
+
+## Sources du répertoire INCI
+
+- [BASF — exemples de tensioactifs et noms INCI](https://care360.basf.com/northamerica/en/industries/personal-care/magazine/lead-the-charge-to-reformulate-for-1-4-dioxane-limits)
+- [Croda — Polysorbate 20 et fonctions](https://www.crodabeauty.com/en-gb/products/product/70-tween_1_20)
+
+Sélection pédagogique établie à partir de la fiche « Les différents tensioactifs » fournie et de documentations de fournisseurs.
