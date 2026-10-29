@@ -22,6 +22,13 @@ jobs:
         with:
           repository: E-LePrettre/E-LePrettre.github.io
           ref: main
+      # Build the synchronized mirror without contacting Forge a second time.
+      - name: Check out synchronized course source
+        uses: actions/checkout@v4
+        with:
+          repository: E-LePrettre/bts-mecp-cosmetologie
+          ref: main
+          path: forge-bts-mecp-cosmetologie
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
